@@ -31,14 +31,6 @@ from plotly.subplots import make_subplots
 import plotly.graph_objects as go
 import plotly.express as px
 import plotly.io as pio
-# Modelagem - Clusterização
-from sklearn.cluster import KMeans
-from sklearn.metrics import silhouette_score
-from scipy.cluster.hierarchy import dendrogram, linkage
-from sklearn.cluster import AgglomerativeClustering
-from sklearn.preprocessing import StandardScaler
-from sqlalchemy import create_engine
-# Modelagem - Regressão
 # Modelagem - Série Temporal
 from keras.models import Sequential #!pip install keras e !pip install tensorflow
 from keras.layers import Dense, Dropout, LSTM
