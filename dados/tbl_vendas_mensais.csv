@@ -1,0 +1,1872 @@
+﻿dt_sale;id_sku;ds_sku;ds_category;ds_product_line;ds_brand_segment;ds_tecnology;qt_sale;vl_sale_price
+2019-01-01 00:00:00;1;AeroJet;Aero Boot;Boot;Target;NanoMesh;37873;876388,4791
+2019-01-01 00:00:00;2;FlyQuest;Aero Boot;Boot;Target;LiteWeave;32881;832876,3526
+2019-01-01 00:00:00;3;AirVoyager;Aero Boot;Boot;Target;AeroKnit;17849;398926,2618
+2019-01-01 00:00:00;4;Classic;Classic Sneaker;Sneaker;Target;PowerKnit;69531;1104861,055
+2019-01-01 00:00:00;5;Brand Classic;Classic Sneaker;Sneaker;Target;PowerKnit;21138;442648,4596
+2019-01-01 00:00:00;6;National Classic;Classic Sneaker;Sneaker;Target;BioSole;11481;213782,0145
+2019-01-01 00:00:00;7;Hold Line;Designed Shoes;Shoes;Core;DynaFit;6967;238569,3276
+2019-01-01 00:00:00;8;High Bys;Designed Shoes;Shoes;Core;DynaFit;6300;256246,2348
+2019-01-01 00:00:00;9;High Iris;Designed Shoes;Shoes;Core;DynaFit;4946;170806,1579
+2019-01-01 00:00:00;10;Cone Stars;Designed Shoes;Shoes;Core;AirVent;3742;200646,5232
+2019-01-01 00:00:00;11;Wave;Infinity Boot;Boot;Target;AeroKnit;30253;572705,9869
+2019-01-01 00:00:00;12;Athena II;Infinity Boot;Boot;Target;LiteWeave;25726;632877,0502
+2019-01-01 00:00:00;13;Hiking;Infinity Boot;Boot;Target;AeroKnit;26183;621587,0844
+2019-01-01 00:00:00;14;Zeus;Infinity Boot;Boot;Target;LiteWeave;15924;333150,9668
+2019-01-01 00:00:00;15;Air;Infinity Boot;Boot;Target;LiteWeave;5150;87559,28992
+2019-01-01 00:00:00;16;Nautical Classic;Innovation Shoes;Shoes;Core;AeroKnit;109180;1875712,777
+2019-01-01 00:00:00;17;Nautical Max Force;Innovation Shoes;Shoes;Core;AeroKnit;95183;1466780,311
+2019-01-01 00:00:00;18;Play4;Innovation Shoes;Shoes;Core;AeroKnit;82840;1433147,39
+2019-01-01 00:00:00;19;Mandala Life;Innovation Shoes;Shoes;Core;AeroKnit;72014;1209117,683
+2019-01-01 00:00:00;20;Merlin;Innovation Shoes;Shoes;Core;AeroKnit;68075;739976,8783
+2019-01-01 00:00:00;22;MachinaMetal;Metal Sandal;Sandals;Core;UltraFoam;143605;1762036,21
+2019-01-01 00:00:00;23;SteelEngineer;Metal Sandal;Sandals;Core;NanoMesh;74101;1158947,901
+2019-01-01 00:00:00;24;TitaniumTech;Metal Sandal;Sandals;Core;NanoMesh;46541;839609,6256
+2019-01-01 00:00:00;25;AlloyInnovate;Metal Sandal;Sandals;Core;NanoMesh;18544;231617,7031
+2019-01-01 00:00:00;26;SteelTech;Metal Shoes;Shoes;Core;NanoMesh;51076;755928,6815
+2019-01-01 00:00:00;27;AlloyMaster;Metal Shoes;Shoes;Core;AeroKnit;51283;1088243,451
+2019-01-01 00:00:00;28;MetalForge;Metal Shoes;Shoes;Core;NanoMesh;10595;175888,7185
+2019-01-01 00:00:00;29;IronCraft;Metal Shoes;Shoes;Core;PowerKnit;8011;182494,891
+2019-01-01 00:00:00;30;TitaniumTech;Metal Shoes;Shoes;Core;NanoMesh;5289;179053,3119
+2019-01-01 00:00:00;34;Max;Price Sneakers;Sneakers;Core;UltraFoam;125262;1132372,168
+2019-01-01 00:00:00;35;Classic Price;Price Sneakers;Sneakers;Core;UltraFoam;22224;200461,9103
+2019-01-01 00:00:00;36;Hawaii;Price Sneakers;Sneakers;Core;AeroKnit;18454;269804,1526
+2019-01-01 00:00:00;37;Top Sport;Price Sneakers;Sneakers;Core;AeroKnit;11226;123270,5876
+2019-01-01 00:00:00;38;Comfort;Universe Sandals;Sandals;Core;DuraFlex;18059;447880,7158
+2019-01-01 00:00:00;39;Hawaii;Universe Sandals;Sandals;Core;NanoMesh;10290;229683,856
+2019-02-01 00:00:00;1;AeroJet;Aero Boot;Boot;Target;NanoMesh;41558;1012359,801
+2019-02-01 00:00:00;2;FlyQuest;Aero Boot;Boot;Target;LiteWeave;36017;893229,0127
+2019-02-01 00:00:00;3;AirVoyager;Aero Boot;Boot;Target;AeroKnit;20701;454604,3582
+2019-02-01 00:00:00;4;Classic;Classic Sneaker;Sneaker;Target;PowerKnit;81588;1272784,118
+2019-02-01 00:00:00;5;Brand Classic;Classic Sneaker;Sneaker;Target;PowerKnit;24986;492731,5176
+2019-02-01 00:00:00;6;National Classic;Classic Sneaker;Sneaker;Target;BioSole;13922;259245,7456
+2019-02-01 00:00:00;7;Hold Line;Designed Shoes;Shoes;Core;DynaFit;8013;272929,2859
+2019-02-01 00:00:00;8;High Bys;Designed Shoes;Shoes;Core;DynaFit;7305;304629,8426
+2019-02-01 00:00:00;9;High Iris;Designed Shoes;Shoes;Core;DynaFit;6001;220499,7811
+2019-02-01 00:00:00;10;Cone Stars;Designed Shoes;Shoes;Core;AirVent;4156;222872,3922
+2019-02-01 00:00:00;11;Wave;Infinity Boot;Boot;Target;AeroKnit;34566;656763,7354
+2019-02-01 00:00:00;12;Athena II;Infinity Boot;Boot;Target;LiteWeave;29116;715402,2805
+2019-02-01 00:00:00;13;Hiking;Infinity Boot;Boot;Target;AeroKnit;29318;695430,1529
+2019-02-01 00:00:00;14;Zeus;Infinity Boot;Boot;Target;LiteWeave;17820;342679,7432
+2019-02-01 00:00:00;15;Air;Infinity Boot;Boot;Target;LiteWeave;5783;90042,5756
+2019-02-01 00:00:00;16;Nautical Classic;Innovation Shoes;Shoes;Core;AeroKnit;124969;2155727,34
+2019-02-01 00:00:00;17;Nautical Max Force;Innovation Shoes;Shoes;Core;AeroKnit;108024;1700297,969
+2019-02-01 00:00:00;18;Play4;Innovation Shoes;Shoes;Core;AeroKnit;94110;1590468,382
+2019-02-01 00:00:00;19;Mandala Life;Innovation Shoes;Shoes;Core;AeroKnit;82343;1402309,163
+2019-02-01 00:00:00;20;Merlin;Innovation Shoes;Shoes;Core;AeroKnit;78053;848442,1742
+2019-02-01 00:00:00;22;MachinaMetal;Metal Sandal;Sandals;Core;UltraFoam;165227;2015773,726
+2019-02-01 00:00:00;23;SteelEngineer;Metal Sandal;Sandals;Core;NanoMesh;88516;1367586,286
+2019-02-01 00:00:00;24;TitaniumTech;Metal Sandal;Sandals;Core;NanoMesh;53333;949867,5703
+2019-02-01 00:00:00;25;AlloyInnovate;Metal Sandal;Sandals;Core;NanoMesh;21628;273386,6666
+2019-02-01 00:00:00;26;SteelTech;Metal Shoes;Shoes;Core;NanoMesh;59837;877216,0506
+2019-02-01 00:00:00;27;AlloyMaster;Metal Shoes;Shoes;Core;AeroKnit;58925;1250399,542
+2019-02-01 00:00:00;28;MetalForge;Metal Shoes;Shoes;Core;NanoMesh;12471;211023,0092
+2019-02-01 00:00:00;29;IronCraft;Metal Shoes;Shoes;Core;PowerKnit;9473;214107,3017
+2019-02-01 00:00:00;30;TitaniumTech;Metal Shoes;Shoes;Core;NanoMesh;6168;208789,5064
+2019-02-01 00:00:00;34;Max;Price Sneakers;Sneakers;Core;UltraFoam;148691;1321867,738
+2019-02-01 00:00:00;35;Classic Price;Price Sneakers;Sneakers;Core;UltraFoam;25367;228057,8843
+2019-02-01 00:00:00;36;Hawaii;Price Sneakers;Sneakers;Core;AeroKnit;21791;316189,2422
+2019-02-01 00:00:00;37;Top Sport;Price Sneakers;Sneakers;Core;AeroKnit;13363;148601,2487
+2019-02-01 00:00:00;38;Comfort;Universe Sandals;Sandals;Core;DuraFlex;20853;521544,0191
+2019-02-01 00:00:00;39;Hawaii;Universe Sandals;Sandals;Core;NanoMesh;11824;263448,9947
+2019-03-01 00:00:00;1;AeroJet;Aero Boot;Boot;Target;NanoMesh;35159;850165,9763
+2019-03-01 00:00:00;2;FlyQuest;Aero Boot;Boot;Target;LiteWeave;30884;786002,9697
+2019-03-01 00:00:00;3;AirVoyager;Aero Boot;Boot;Target;AeroKnit;18710;411631,8714
+2019-03-01 00:00:00;4;Classic;Classic Sneaker;Sneaker;Target;PowerKnit;77575;1207847,428
+2019-03-01 00:00:00;5;Brand Classic;Classic Sneaker;Sneaker;Target;PowerKnit;23639;451754,4882
+2019-03-01 00:00:00;6;National Classic;Classic Sneaker;Sneaker;Target;BioSole;14071;262017,0954
+2019-03-01 00:00:00;7;Hold Line;Designed Shoes;Shoes;Core;DynaFit;7583;259265,1688
+2019-03-01 00:00:00;8;High Bys;Designed Shoes;Shoes;Core;DynaFit;7127;288165,4353
+2019-03-01 00:00:00;9;High Iris;Designed Shoes;Shoes;Core;DynaFit;5752;209914,36
+2019-03-01 00:00:00;10;Cone Stars;Designed Shoes;Shoes;Core;AirVent;3748;200976,104
+2019-03-01 00:00:00;11;Wave;Infinity Boot;Boot;Target;AeroKnit;30491;575062,2063
+2019-03-01 00:00:00;12;Athena II;Infinity Boot;Boot;Target;LiteWeave;25289;606185,3611
+2019-03-01 00:00:00;13;Hiking;Infinity Boot;Boot;Target;AeroKnit;25716;609998,4606
+2019-03-01 00:00:00;14;Zeus;Infinity Boot;Boot;Target;LiteWeave;15350;321598,713
+2019-03-01 00:00:00;15;Air;Infinity Boot;Boot;Target;LiteWeave;5140;91558,00835
+2019-03-01 00:00:00;16;Nautical Classic;Innovation Shoes;Shoes;Core;AeroKnit;112185;1909399,188
+2019-03-01 00:00:00;17;Nautical Max Force;Innovation Shoes;Shoes;Core;AeroKnit;97236;1504245,965
+2019-03-01 00:00:00;18;Play4;Innovation Shoes;Shoes;Core;AeroKnit;84950;1485778,768
+2019-03-01 00:00:00;19;Mandala Life;Innovation Shoes;Shoes;Core;AeroKnit;73987;1261483,229
+2019-03-01 00:00:00;20;Merlin;Innovation Shoes;Shoes;Core;AeroKnit;72960;793084,7032
+2019-03-01 00:00:00;22;MachinaMetal;Metal Sandal;Sandals;Core;UltraFoam;153254;1888092,293
+2019-03-01 00:00:00;23;SteelEngineer;Metal Sandal;Sandals;Core;NanoMesh;86008;1294432,672
+2019-03-01 00:00:00;24;TitaniumTech;Metal Sandal;Sandals;Core;NanoMesh;50668;886186,1333
+2019-03-01 00:00:00;25;AlloyInnovate;Metal Sandal;Sandals;Core;NanoMesh;20470;247490,5399
+2019-03-01 00:00:00;26;SteelTech;Metal Shoes;Shoes;Core;NanoMesh;56503;833424,1939
+2019-03-01 00:00:00;27;AlloyMaster;Metal Shoes;Shoes;Core;AeroKnit;55894;1186087,614
+2019-03-01 00:00:00;28;MetalForge;Metal Shoes;Shoes;Core;NanoMesh;12059;200785,8391
+2019-03-01 00:00:00;29;IronCraft;Metal Shoes;Shoes;Core;PowerKnit;9273;210881,6119
+2019-03-01 00:00:00;30;TitaniumTech;Metal Shoes;Shoes;Core;NanoMesh;5848;197976,6346
+2019-03-01 00:00:00;34;Max;Price Sneakers;Sneakers;Core;UltraFoam;148209;1333887,245
+2019-03-01 00:00:00;35;Classic Price;Price Sneakers;Sneakers;Core;UltraFoam;22818;204683,7063
+2019-03-01 00:00:00;36;Hawaii;Price Sneakers;Sneakers;Core;AeroKnit;21814;313251,1472
+2019-03-01 00:00:00;37;Top Sport;Price Sneakers;Sneakers;Core;AeroKnit;12991;143425,6295
+2019-03-01 00:00:00;38;Comfort;Universe Sandals;Sandals;Core;DuraFlex;19080;469963,482
+2019-03-01 00:00:00;39;Hawaii;Universe Sandals;Sandals;Core;NanoMesh;11101;259003,8888
+2019-04-01 00:00:00;1;AeroJet;Aero Boot;Boot;Target;NanoMesh;33344;776594,3276
+2019-04-01 00:00:00;2;FlyQuest;Aero Boot;Boot;Target;LiteWeave;28278;727888,9714
+2019-04-01 00:00:00;3;AirVoyager;Aero Boot;Boot;Target;AeroKnit;17322;383858,0468
+2019-04-01 00:00:00;4;Classic;Classic Sneaker;Sneaker;Target;PowerKnit;78117;1221765,383
+2019-04-01 00:00:00;5;Brand Classic;Classic Sneaker;Sneaker;Target;PowerKnit;24275;482840,6108
+2019-04-01 00:00:00;6;National Classic;Classic Sneaker;Sneaker;Target;BioSole;15097;281123,6232
+2019-04-01 00:00:00;7;Hold Line;Designed Shoes;Shoes;Core;DynaFit;7242;245222,6415
+2019-04-01 00:00:00;8;High Bys;Designed Shoes;Shoes;Core;DynaFit;6407;259064,394
+2019-04-01 00:00:00;9;High Iris;Designed Shoes;Shoes;Core;DynaFit;5590;205179,5433
+2019-04-01 00:00:00;10;Cone Stars;Designed Shoes;Shoes;Core;AirVent;3398;182246,8222
+2019-04-01 00:00:00;11;Wave;Infinity Boot;Boot;Target;AeroKnit;30225;556459,3335
+2019-04-01 00:00:00;12;Athena II;Infinity Boot;Boot;Target;LiteWeave;24520;587512,6732
+2019-04-01 00:00:00;13;Hiking;Infinity Boot;Boot;Target;AeroKnit;24898;590345,572
+2019-04-01 00:00:00;14;Zeus;Infinity Boot;Boot;Target;LiteWeave;14975;319436,9903
+2019-04-01 00:00:00;15;Air;Infinity Boot;Boot;Target;LiteWeave;4926;84197,33403
+2019-04-01 00:00:00;16;Nautical Classic;Innovation Shoes;Shoes;Core;AeroKnit;108583;1862204,926
+2019-04-01 00:00:00;17;Nautical Max Force;Innovation Shoes;Shoes;Core;AeroKnit;95448;1486132,976
+2019-04-01 00:00:00;18;Play4;Innovation Shoes;Shoes;Core;AeroKnit;81047;1407790,894
+2019-04-01 00:00:00;19;Mandala Life;Innovation Shoes;Shoes;Core;AeroKnit;70888;1213615,216
+2019-04-01 00:00:00;20;Merlin;Innovation Shoes;Shoes;Core;AeroKnit;69547;755984,487
+2019-04-01 00:00:00;22;MachinaMetal;Metal Sandal;Sandals;Core;UltraFoam;157640;1937406,577
+2019-04-01 00:00:00;23;SteelEngineer;Metal Sandal;Sandals;Core;NanoMesh;87514;1374847,205
+2019-04-01 00:00:00;24;TitaniumTech;Metal Sandal;Sandals;Core;NanoMesh;51114;981916,4806
+2019-04-01 00:00:00;25;AlloyInnovate;Metal Sandal;Sandals;Core;NanoMesh;21732;273607,4469
+2019-04-01 00:00:00;26;SteelTech;Metal Shoes;Shoes;Core;NanoMesh;55666;826088,7983
+2019-04-01 00:00:00;27;AlloyMaster;Metal Shoes;Shoes;Core;AeroKnit;57636;1223042,035
+2019-04-01 00:00:00;28;MetalForge;Metal Shoes;Shoes;Core;NanoMesh;12472;207410,8843
+2019-04-01 00:00:00;29;IronCraft;Metal Shoes;Shoes;Core;PowerKnit;9575;215249,0229
+2019-04-01 00:00:00;30;TitaniumTech;Metal Shoes;Shoes;Core;NanoMesh;6003;203228,4187
+2019-04-01 00:00:00;34;Max;Price Sneakers;Sneakers;Core;UltraFoam;153863;1363231,436
+2019-04-01 00:00:00;35;Classic Price;Price Sneakers;Sneakers;Core;UltraFoam;24345;217162,6919
+2019-04-01 00:00:00;36;Hawaii;Price Sneakers;Sneakers;Core;AeroKnit;22924;332402,9443
+2019-04-01 00:00:00;37;Top Sport;Price Sneakers;Sneakers;Core;AeroKnit;13478;149741,036
+2019-04-01 00:00:00;38;Comfort;Universe Sandals;Sandals;Core;DuraFlex;17791;428428,7933
+2019-04-01 00:00:00;39;Hawaii;Universe Sandals;Sandals;Core;NanoMesh;10328;241180,4984
+2019-05-01 00:00:00;1;AeroJet;Aero Boot;Boot;Target;NanoMesh;33109;782037,6935
+2019-05-01 00:00:00;2;FlyQuest;Aero Boot;Boot;Target;LiteWeave;28774;750155,6581
+2019-05-01 00:00:00;3;AirVoyager;Aero Boot;Boot;Target;AeroKnit;16991;369566,5043
+2019-05-01 00:00:00;4;Classic;Classic Sneaker;Sneaker;Target;PowerKnit;78976;1241503,763
+2019-05-01 00:00:00;5;Brand Classic;Classic Sneaker;Sneaker;Target;PowerKnit;24361;472372,3076
+2019-05-01 00:00:00;6;National Classic;Classic Sneaker;Sneaker;Target;BioSole;15454;287764,3387
+2019-05-01 00:00:00;7;Hold Line;Designed Shoes;Shoes;Core;DynaFit;7476;254416,6669
+2019-05-01 00:00:00;8;High Bys;Designed Shoes;Shoes;Core;DynaFit;6627;261248,5149
+2019-05-01 00:00:00;9;High Iris;Designed Shoes;Shoes;Core;DynaFit;5693;208670,0927
+2019-05-01 00:00:00;10;Cone Stars;Designed Shoes;Shoes;Core;AirVent;3628;194581,4786
+2019-05-01 00:00:00;11;Wave;Infinity Boot;Boot;Target;AeroKnit;30001;582326,2664
+2019-05-01 00:00:00;12;Athena II;Infinity Boot;Boot;Target;LiteWeave;24379;586822,4197
+2019-05-01 00:00:00;13;Hiking;Infinity Boot;Boot;Target;AeroKnit;24720;585142,1223
+2019-05-01 00:00:00;14;Zeus;Infinity Boot;Boot;Target;LiteWeave;14846;314449,2303
+2019-05-01 00:00:00;15;Air;Infinity Boot;Boot;Target;LiteWeave;4937;87794,39533
+2019-05-01 00:00:00;16;Nautical Classic;Innovation Shoes;Shoes;Core;AeroKnit;106412;1830300,208
+2019-05-01 00:00:00;17;Nautical Max Force;Innovation Shoes;Shoes;Core;AeroKnit;95438;1495519,879
+2019-05-01 00:00:00;18;Play4;Innovation Shoes;Shoes;Core;AeroKnit;80816;1406206,532
+2019-05-01 00:00:00;19;Mandala Life;Innovation Shoes;Shoes;Core;AeroKnit;72280;1255508,35
+2019-05-01 00:00:00;20;Merlin;Innovation Shoes;Shoes;Core;AeroKnit;70275;1384419,771
+2019-05-01 00:00:00;22;MachinaMetal;Metal Sandal;Sandals;Core;UltraFoam;155961;1891818,482
+2019-05-01 00:00:00;23;SteelEngineer;Metal Sandal;Sandals;Core;NanoMesh;88043;1393732,421
+2019-05-01 00:00:00;24;TitaniumTech;Metal Sandal;Sandals;Core;NanoMesh;51211;1002209,272
+2019-05-01 00:00:00;25;AlloyInnovate;Metal Sandal;Sandals;Core;NanoMesh;21642;270959,8769
+2019-05-01 00:00:00;26;SteelTech;Metal Shoes;Shoes;Core;NanoMesh;51303;759798,5295
+2019-05-01 00:00:00;27;AlloyMaster;Metal Shoes;Shoes;Core;AeroKnit;58832;1248434,583
+2019-05-01 00:00:00;28;MetalForge;Metal Shoes;Shoes;Core;NanoMesh;12279;206785,9552
+2019-05-01 00:00:00;29;IronCraft;Metal Shoes;Shoes;Core;PowerKnit;9444;213720,0092
+2019-05-01 00:00:00;30;TitaniumTech;Metal Shoes;Shoes;Core;NanoMesh;5961;201809,4485
+2019-05-01 00:00:00;34;Max;Price Sneakers;Sneakers;Core;UltraFoam;158398;1381232,679
+2019-05-01 00:00:00;35;Classic Price;Price Sneakers;Sneakers;Core;UltraFoam;24295;214525,6011
+2019-05-01 00:00:00;36;Hawaii;Price Sneakers;Sneakers;Core;AeroKnit;23529;341879,7401
+2019-05-01 00:00:00;37;Top Sport;Price Sneakers;Sneakers;Core;AeroKnit;13828;156956,8951
+2019-05-01 00:00:00;38;Comfort;Universe Sandals;Sandals;Core;DuraFlex;16005;381570,3916
+2019-05-01 00:00:00;39;Hawaii;Universe Sandals;Sandals;Core;NanoMesh;9596;218798,4638
+2019-06-01 00:00:00;1;AeroJet;Aero Boot;Boot;Target;NanoMesh;35742;848536,2554
+2019-06-01 00:00:00;2;FlyQuest;Aero Boot;Boot;Target;LiteWeave;31651;840987,0307
+2019-06-01 00:00:00;3;AirVoyager;Aero Boot;Boot;Target;AeroKnit;16846;349911,467
+2019-06-01 00:00:00;4;Classic;Classic Sneaker;Sneaker;Target;PowerKnit;81150;1259457,274
+2019-06-01 00:00:00;5;Brand Classic;Classic Sneaker;Sneaker;Target;PowerKnit;25060;505973,827
+2019-06-01 00:00:00;6;National Classic;Classic Sneaker;Sneaker;Target;BioSole;15516;251832,3584
+2019-06-01 00:00:00;7;Hold Line;Designed Shoes;Shoes;Core;DynaFit;9169;320202,433
+2019-06-01 00:00:00;8;High Bys;Designed Shoes;Shoes;Core;DynaFit;7934;315152,1812
+2019-06-01 00:00:00;9;High Iris;Designed Shoes;Shoes;Core;DynaFit;6768;253801,6817
+2019-06-01 00:00:00;10;Cone Stars;Designed Shoes;Shoes;Core;AirVent;4195;224948,3724
+2019-06-01 00:00:00;11;Wave;Infinity Boot;Boot;Target;AeroKnit;32284;620513,4835
+2019-06-01 00:00:00;12;Athena II;Infinity Boot;Boot;Target;LiteWeave;26343;653848,9064
+2019-06-01 00:00:00;13;Hiking;Infinity Boot;Boot;Target;AeroKnit;26532;621380,1893
+2019-06-01 00:00:00;14;Zeus;Infinity Boot;Boot;Target;LiteWeave;15939;350181,1017
+2019-06-01 00:00:00;15;Air;Infinity Boot;Boot;Target;LiteWeave;5261;98605,64588
+2019-06-01 00:00:00;16;Nautical Classic;Innovation Shoes;Shoes;Core;AeroKnit;111473;1982001,436
+2019-06-01 00:00:00;17;Nautical Max Force;Innovation Shoes;Shoes;Core;AeroKnit;103476;1639061,311
+2019-06-01 00:00:00;18;Play4;Innovation Shoes;Shoes;Core;AeroKnit;84847;1512837,785
+2019-06-01 00:00:00;19;Mandala Life;Innovation Shoes;Shoes;Core;AeroKnit;77288;1358734,421
+2019-06-01 00:00:00;20;Merlin;Innovation Shoes;Shoes;Core;AeroKnit;72111;1437906,382
+2019-06-01 00:00:00;22;MachinaMetal;Metal Sandal;Sandals;Core;UltraFoam;160014;1928170,967
+2019-06-01 00:00:00;23;SteelEngineer;Metal Sandal;Sandals;Core;NanoMesh;89005;1387593,295
+2019-06-01 00:00:00;24;TitaniumTech;Metal Sandal;Sandals;Core;NanoMesh;52833;1004373,037
+2019-06-01 00:00:00;25;AlloyInnovate;Metal Sandal;Sandals;Core;NanoMesh;22200;251753,566
+2019-06-01 00:00:00;26;SteelTech;Metal Shoes;Shoes;Core;NanoMesh;51605;759639,2868
+2019-06-01 00:00:00;27;AlloyMaster;Metal Shoes;Shoes;Core;AeroKnit;59339;1259184,887
+2019-06-01 00:00:00;28;MetalForge;Metal Shoes;Shoes;Core;NanoMesh;12362;207571,7265
+2019-06-01 00:00:00;29;IronCraft;Metal Shoes;Shoes;Core;PowerKnit;9473;221300,7686
+2019-06-01 00:00:00;30;TitaniumTech;Metal Shoes;Shoes;Core;NanoMesh;6244;211381,9171
+2019-06-01 00:00:00;34;Max;Price Sneakers;Sneakers;Core;UltraFoam;161474;1398372,079
+2019-06-01 00:00:00;35;Classic Price;Price Sneakers;Sneakers;Core;UltraFoam;29581;265052,4216
+2019-06-01 00:00:00;36;Hawaii;Price Sneakers;Sneakers;Core;AeroKnit;24168;360356,7254
+2019-06-01 00:00:00;37;Top Sport;Price Sneakers;Sneakers;Core;AeroKnit;14406;159773,0655
+2019-06-01 00:00:00;38;Comfort;Universe Sandals;Sandals;Core;DuraFlex;15861;398273,5725
+2019-06-01 00:00:00;39;Hawaii;Universe Sandals;Sandals;Core;NanoMesh;9445;217912,3583
+2019-07-01 00:00:00;1;AeroJet;Aero Boot;Boot;Target;NanoMesh;38391;915260,952
+2019-07-01 00:00:00;2;FlyQuest;Aero Boot;Boot;Target;LiteWeave;34875;924895,5234
+2019-07-01 00:00:00;3;AirVoyager;Aero Boot;Boot;Target;AeroKnit;18144;395908,5955
+2019-07-01 00:00:00;4;Classic;Classic Sneaker;Sneaker;Target;PowerKnit;86260;1368955,947
+2019-07-01 00:00:00;5;Brand Classic;Classic Sneaker;Sneaker;Target;PowerKnit;25999;504134,2465
+2019-07-01 00:00:00;6;National Classic;Classic Sneaker;Sneaker;Target;BioSole;15696;234198,6705
+2019-07-01 00:00:00;7;Hold Line;Designed Shoes;Shoes;Core;DynaFit;10639;367901,2019
+2019-07-01 00:00:00;8;High Bys;Designed Shoes;Shoes;Core;DynaFit;9598;386235,9086
+2019-07-01 00:00:00;9;High Iris;Designed Shoes;Shoes;Core;DynaFit;7598;285859,8321
+2019-07-01 00:00:00;10;Cone Stars;Designed Shoes;Shoes;Core;AirVent;4694;251739,125
+2019-07-01 00:00:00;11;Wave;Infinity Boot;Boot;Target;AeroKnit;32801;644215,3599
+2019-07-01 00:00:00;12;Athena II;Infinity Boot;Boot;Target;LiteWeave;26959;681262,1887
+2019-07-01 00:00:00;13;Hiking;Infinity Boot;Boot;Target;AeroKnit;27250;668189,226
+2019-07-01 00:00:00;14;Zeus;Infinity Boot;Boot;Target;LiteWeave;16093;355351,7619
+2019-07-01 00:00:00;15;Air;Infinity Boot;Boot;Target;LiteWeave;5404;100640,3417
+2019-07-01 00:00:00;16;Nautical Classic;Innovation Shoes;Shoes;Core;AeroKnit;120456;2173042,79
+2019-07-01 00:00:00;17;Nautical Max Force;Innovation Shoes;Shoes;Core;AeroKnit;110348;1751233,878
+2019-07-01 00:00:00;18;Play4;Innovation Shoes;Shoes;Core;AeroKnit;92888;1687787,254
+2019-07-01 00:00:00;19;Mandala Life;Innovation Shoes;Shoes;Core;AeroKnit;83505;1463020,07
+2019-07-01 00:00:00;20;Merlin;Innovation Shoes;Shoes;Core;AeroKnit;77288;1553501,813
+2019-07-01 00:00:00;22;MachinaMetal;Metal Sandal;Sandals;Core;UltraFoam;163091;1978298,093
+2019-07-01 00:00:00;23;SteelEngineer;Metal Sandal;Sandals;Core;NanoMesh;85697;1366014,856
+2019-07-01 00:00:00;24;TitaniumTech;Metal Sandal;Sandals;Core;NanoMesh;54258;984248,0277
+2019-07-01 00:00:00;25;AlloyInnovate;Metal Sandal;Sandals;Core;NanoMesh;22401;254037,4569
+2019-07-01 00:00:00;26;SteelTech;Metal Shoes;Shoes;Core;NanoMesh;54005;783626,7376
+2019-07-01 00:00:00;27;AlloyMaster;Metal Shoes;Shoes;Core;AeroKnit;59551;1263682,504
+2019-07-01 00:00:00;28;MetalForge;Metal Shoes;Shoes;Core;NanoMesh;12815;211834,7761
+2019-07-01 00:00:00;29;IronCraft;Metal Shoes;Shoes;Core;PowerKnit;9409;224043,1395
+2019-07-01 00:00:00;30;TitaniumTech;Metal Shoes;Shoes;Core;NanoMesh;6464;218821,1473
+2019-07-01 00:00:00;34;Max;Price Sneakers;Sneakers;Core;UltraFoam;167348;1457603,473
+2019-07-01 00:00:00;35;Classic Price;Price Sneakers;Sneakers;Core;UltraFoam;33024;297550,8418
+2019-07-01 00:00:00;36;Hawaii;Price Sneakers;Sneakers;Core;AeroKnit;24537;378129,1427
+2019-07-01 00:00:00;37;Top Sport;Price Sneakers;Sneakers;Core;AeroKnit;15014;166055,655
+2019-07-01 00:00:00;38;Comfort;Universe Sandals;Sandals;Core;DuraFlex;17292;435418,9147
+2019-07-01 00:00:00;39;Hawaii;Universe Sandals;Sandals;Core;NanoMesh;10026;228910,3167
+2019-08-01 00:00:00;1;AeroJet;Aero Boot;Boot;Target;NanoMesh;40401;962765,46
+2019-08-01 00:00:00;2;FlyQuest;Aero Boot;Boot;Target;LiteWeave;36506;970332,3201
+2019-08-01 00:00:00;3;AirVoyager;Aero Boot;Boot;Target;AeroKnit;19271;415680,2751
+2019-08-01 00:00:00;4;Classic;Classic Sneaker;Sneaker;Target;PowerKnit;91285;1473342,976
+2019-08-01 00:00:00;5;Brand Classic;Classic Sneaker;Sneaker;Target;PowerKnit;27490;576468,4104
+2019-08-01 00:00:00;6;National Classic;Classic Sneaker;Sneaker;Target;BioSole;16372;233467,4745
+2019-08-01 00:00:00;7;Hold Line;Designed Shoes;Shoes;Core;DynaFit;11797;411261,5379
+2019-08-01 00:00:00;8;High Bys;Designed Shoes;Shoes;Core;DynaFit;10356;412903,5878
+2019-08-01 00:00:00;9;High Iris;Designed Shoes;Shoes;Core;DynaFit;8091;305301,8965
+2019-08-01 00:00:00;10;Cone Stars;Designed Shoes;Shoes;Core;AirVent;5167;277105,4824
+2019-08-01 00:00:00;11;Wave;Infinity Boot;Boot;Target;AeroKnit;33528;664525,8078
+2019-08-01 00:00:00;12;Athena II;Infinity Boot;Boot;Target;LiteWeave;27728;692659,6923
+2019-08-01 00:00:00;13;Hiking;Infinity Boot;Boot;Target;AeroKnit;28270;678779,4146
+2019-08-01 00:00:00;14;Zeus;Infinity Boot;Boot;Target;LiteWeave;16597;376923,2948
+2019-08-01 00:00:00;15;Air;Infinity Boot;Boot;Target;LiteWeave;5556;103398,2274
+2019-08-01 00:00:00;16;Nautical Classic;Innovation Shoes;Shoes;Core;AeroKnit;128941;2331255,312
+2019-08-01 00:00:00;17;Nautical Max Force;Innovation Shoes;Shoes;Core;AeroKnit;120261;1924184,719
+2019-08-01 00:00:00;18;Play4;Innovation Shoes;Shoes;Core;AeroKnit;101612;1848328,284
+2019-08-01 00:00:00;19;Mandala Life;Innovation Shoes;Shoes;Core;AeroKnit;89452;1556468,827
+2019-08-01 00:00:00;20;Merlin;Innovation Shoes;Shoes;Core;AeroKnit;81901;1679808,854
+2019-08-01 00:00:00;22;MachinaMetal;Metal Sandal;Sandals;Core;UltraFoam;182542;2236147,905
+2019-08-01 00:00:00;23;SteelEngineer;Metal Sandal;Sandals;Core;NanoMesh;84543;1361153,737
+2019-08-01 00:00:00;24;TitaniumTech;Metal Sandal;Sandals;Core;NanoMesh;61581;1108465,518
+2019-08-01 00:00:00;25;AlloyInnovate;Metal Sandal;Sandals;Core;NanoMesh;25313;327301,6963
+2019-08-01 00:00:00;26;SteelTech;Metal Shoes;Shoes;Core;NanoMesh;58910;843004,4698
+2019-08-01 00:00:00;27;AlloyMaster;Metal Shoes;Shoes;Core;AeroKnit;66803;1417570,975
+2019-08-01 00:00:00;28;MetalForge;Metal Shoes;Shoes;Core;NanoMesh;14359;234342,4096
+2019-08-01 00:00:00;29;IronCraft;Metal Shoes;Shoes;Core;PowerKnit;10462;238758,6863
+2019-08-01 00:00:00;30;TitaniumTech;Metal Shoes;Shoes;Core;NanoMesh;7191;237381,3415
+2019-08-01 00:00:00;34;Max;Price Sneakers;Sneakers;Core;UltraFoam;173158;1527261,235
+2019-08-01 00:00:00;35;Classic Price;Price Sneakers;Sneakers;Core;UltraFoam;39709;357382,4355
+2019-08-01 00:00:00;36;Hawaii;Price Sneakers;Sneakers;Core;AeroKnit;25771;400236,6128
+2019-08-01 00:00:00;37;Top Sport;Price Sneakers;Sneakers;Core;AeroKnit;15588;173037,2501
+2019-08-01 00:00:00;38;Comfort;Universe Sandals;Sandals;Core;DuraFlex;20215;522762,8682
+2019-08-01 00:00:00;39;Hawaii;Universe Sandals;Sandals;Core;NanoMesh;11580;264841,2938
+2019-09-01 00:00:00;1;AeroJet;Aero Boot;Boot;Target;NanoMesh;41057;988664,9053
+2019-09-01 00:00:00;2;FlyQuest;Aero Boot;Boot;Target;LiteWeave;36432;972743,6816
+2019-09-01 00:00:00;3;AirVoyager;Aero Boot;Boot;Target;AeroKnit;18579;393697,7423
+2019-09-01 00:00:00;4;Classic;Classic Sneaker;Sneaker;Target;PowerKnit;96968;1600947,043
+2019-09-01 00:00:00;5;Brand Classic;Classic Sneaker;Sneaker;Target;PowerKnit;29059;624196,7593
+2019-09-01 00:00:00;6;National Classic;Classic Sneaker;Sneaker;Target;BioSole;17233;233510,9802
+2019-09-01 00:00:00;7;Hold Line;Designed Shoes;Shoes;Core;DynaFit;10745;372757,6139
+2019-09-01 00:00:00;8;High Bys;Designed Shoes;Shoes;Core;DynaFit;9785;395819,052
+2019-09-01 00:00:00;9;High Iris;Designed Shoes;Shoes;Core;DynaFit;7653;290294,9094
+2019-09-01 00:00:00;10;Cone Stars;Designed Shoes;Shoes;Core;AirVent;4772;255906,2387
+2019-09-01 00:00:00;11;Wave;Infinity Boot;Boot;Target;AeroKnit;32968;660366,4025
+2019-09-01 00:00:00;12;Athena II;Infinity Boot;Boot;Target;LiteWeave;27736;704499,5007
+2019-09-01 00:00:00;13;Hiking;Infinity Boot;Boot;Target;AeroKnit;28151;692809,2059
+2019-09-01 00:00:00;14;Zeus;Infinity Boot;Boot;Target;LiteWeave;16404;371395,8386
+2019-09-01 00:00:00;15;Air;Infinity Boot;Boot;Target;LiteWeave;5458;103490,7166
+2019-09-01 00:00:00;16;Nautical Classic;Innovation Shoes;Shoes;Core;AeroKnit;135471;2462863,1
+2019-09-01 00:00:00;17;Nautical Max Force;Innovation Shoes;Shoes;Core;AeroKnit;128166;2107054,15
+2019-09-01 00:00:00;18;Play4;Innovation Shoes;Shoes;Core;AeroKnit;110559;2043143,448
+2019-09-01 00:00:00;19;Mandala Life;Innovation Shoes;Shoes;Core;AeroKnit;94350;1694526,244
+2019-09-01 00:00:00;20;Merlin;Innovation Shoes;Shoes;Core;AeroKnit;88727;1815357,855
+2019-09-01 00:00:00;22;MachinaMetal;Metal Sandal;Sandals;Core;UltraFoam;215209;2649223,704
+2019-09-01 00:00:00;23;SteelEngineer;Metal Sandal;Sandals;Core;NanoMesh;85580;1410372,592
+2019-09-01 00:00:00;24;TitaniumTech;Metal Sandal;Sandals;Core;NanoMesh;71183;1343241,412
+2019-09-01 00:00:00;25;AlloyInnovate;Metal Sandal;Sandals;Core;NanoMesh;28968;374561,9482
+2019-09-01 00:00:00;26;SteelTech;Metal Shoes;Shoes;Core;NanoMesh;66087;950334,372
+2019-09-01 00:00:00;27;AlloyMaster;Metal Shoes;Shoes;Core;AeroKnit;78506;1665917,401
+2019-09-01 00:00:00;28;MetalForge;Metal Shoes;Shoes;Core;NanoMesh;16448;268934,4467
+2019-09-01 00:00:00;29;IronCraft;Metal Shoes;Shoes;Core;PowerKnit;12212;283704,5301
+2019-09-01 00:00:00;30;TitaniumTech;Metal Shoes;Shoes;Core;NanoMesh;8294;275864,8258
+2019-09-01 00:00:00;34;Max;Price Sneakers;Sneakers;Core;UltraFoam;183227;1614234,164
+2019-09-01 00:00:00;35;Classic Price;Price Sneakers;Sneakers;Core;UltraFoam;37467;342075,3467
+2019-09-01 00:00:00;36;Hawaii;Price Sneakers;Sneakers;Core;AeroKnit;27501;431777,5013
+2019-09-01 00:00:00;37;Top Sport;Price Sneakers;Sneakers;Core;AeroKnit;16533;183688,8059
+2019-09-01 00:00:00;38;Comfort;Universe Sandals;Sandals;Core;DuraFlex;22805;592252,6012
+2019-09-01 00:00:00;39;Hawaii;Universe Sandals;Sandals;Core;NanoMesh;12924;290280,8942
+2019-10-01 00:00:00;1;AeroJet;Aero Boot;Boot;Target;NanoMesh;41855;1015841,83
+2019-10-01 00:00:00;2;FlyQuest;Aero Boot;Boot;Target;LiteWeave;37097;989758,7726
+2019-10-01 00:00:00;3;AirVoyager;Aero Boot;Boot;Target;AeroKnit;17946;401466,9033
+2019-10-01 00:00:00;4;Classic;Classic Sneaker;Sneaker;Target;PowerKnit;126796;2155536,325
+2019-10-01 00:00:00;5;Brand Classic;Classic Sneaker;Sneaker;Target;PowerKnit;38192;776842,9019
+2019-10-01 00:00:00;6;National Classic;Classic Sneaker;Sneaker;Target;BioSole;22623;333014,4463
+2019-10-01 00:00:00;7;Hold Line;Designed Shoes;Shoes;Core;DynaFit;10196;352883,9732
+2019-10-01 00:00:00;8;High Bys;Designed Shoes;Shoes;Core;DynaFit;9383;373558,331
+2019-10-01 00:00:00;9;High Iris;Designed Shoes;Shoes;Core;DynaFit;7749;294249,3874
+2019-10-01 00:00:00;10;Cone Stars;Designed Shoes;Shoes;Core;AirVent;4292;230161,0528
+2019-10-01 00:00:00;11;Wave;Infinity Boot;Boot;Target;AeroKnit;34817;697038,072
+2019-10-01 00:00:00;12;Athena II;Infinity Boot;Boot;Target;LiteWeave;29283;732374,3462
+2019-10-01 00:00:00;13;Hiking;Infinity Boot;Boot;Target;AeroKnit;29550;724876,2772
+2019-10-01 00:00:00;14;Zeus;Infinity Boot;Boot;Target;LiteWeave;17351;396312,6698
+2019-10-01 00:00:00;15;Air;Infinity Boot;Boot;Target;LiteWeave;5728;107759,1347
+2019-10-01 00:00:00;16;Nautical Classic;Innovation Shoes;Shoes;Core;AeroKnit;138114;2542689,32
+2019-10-01 00:00:00;17;Nautical Max Force;Innovation Shoes;Shoes;Core;AeroKnit;130835;2145694,319
+2019-10-01 00:00:00;18;Play4;Innovation Shoes;Shoes;Core;AeroKnit;113254;2107659,468
+2019-10-01 00:00:00;19;Mandala Life;Innovation Shoes;Shoes;Core;AeroKnit;96361;1701737,14
+2019-10-01 00:00:00;20;Merlin;Innovation Shoes;Shoes;Core;AeroKnit;90749;1858558,805
+2019-10-01 00:00:00;22;MachinaMetal;Metal Sandal;Sandals;Core;UltraFoam;267197;3289197,245
+2019-10-01 00:00:00;23;SteelEngineer;Metal Sandal;Sandals;Core;NanoMesh;87224;1431352,117
+2019-10-01 00:00:00;24;TitaniumTech;Metal Sandal;Sandals;Core;NanoMesh;87778;1661637,552
+2019-10-01 00:00:00;25;AlloyInnovate;Metal Sandal;Sandals;Core;NanoMesh;35762;462407,7226
+2019-10-01 00:00:00;26;SteelTech;Metal Shoes;Shoes;Core;NanoMesh;72406;1046993,941
+2019-10-01 00:00:00;27;AlloyMaster;Metal Shoes;Shoes;Core;AeroKnit;97966;2078840,636
+2019-10-01 00:00:00;28;MetalForge;Metal Shoes;Shoes;Core;NanoMesh;19846;329850,5128
+2019-10-01 00:00:00;29;IronCraft;Metal Shoes;Shoes;Core;PowerKnit;15442;361505,1108
+2019-10-01 00:00:00;30;TitaniumTech;Metal Shoes;Shoes;Core;NanoMesh;9918;331178,5943
+2019-10-01 00:00:00;34;Max;Price Sneakers;Sneakers;Core;UltraFoam;185931;1641773,607
+2019-10-01 00:00:00;35;Classic Price;Price Sneakers;Sneakers;Core;UltraFoam;36365;332382,4814
+2019-10-01 00:00:00;36;Hawaii;Price Sneakers;Sneakers;Core;AeroKnit;28234;449500,653
+2019-10-01 00:00:00;37;Top Sport;Price Sneakers;Sneakers;Core;AeroKnit;16978;191345,4309
+2019-10-01 00:00:00;38;Comfort;Universe Sandals;Sandals;Core;DuraFlex;24182;639616,5145
+2019-10-01 00:00:00;39;Hawaii;Universe Sandals;Sandals;Core;NanoMesh;14375;336249,8595
+2019-11-01 00:00:00;1;AeroJet;Aero Boot;Boot;Target;NanoMesh;46975;1138688,149
+2019-11-01 00:00:00;2;FlyQuest;Aero Boot;Boot;Target;LiteWeave;41002;1120600,883
+2019-11-01 00:00:00;3;AirVoyager;Aero Boot;Boot;Target;AeroKnit;18004;405645,7337
+2019-11-01 00:00:00;4;Classic;Classic Sneaker;Sneaker;Target;PowerKnit;134411;2314568,362
+2019-11-01 00:00:00;5;Brand Classic;Classic Sneaker;Sneaker;Target;PowerKnit;41005;922207,6505
+2019-11-01 00:00:00;6;National Classic;Classic Sneaker;Sneaker;Target;BioSole;24320;363592,5817
+2019-11-01 00:00:00;7;Hold Line;Designed Shoes;Shoes;Core;DynaFit;10603;366255,5007
+2019-11-01 00:00:00;8;High Bys;Designed Shoes;Shoes;Core;DynaFit;10191;416435,8408
+2019-11-01 00:00:00;9;High Iris;Designed Shoes;Shoes;Core;DynaFit;8426;323919,9771
+2019-11-01 00:00:00;10;Cone Stars;Designed Shoes;Shoes;Core;AirVent;4900;262770,6114
+2019-11-01 00:00:00;11;Wave;Infinity Boot;Boot;Target;AeroKnit;39202;795816,7007
+2019-11-01 00:00:00;12;Athena II;Infinity Boot;Boot;Target;LiteWeave;33207;846802,6856
+2019-11-01 00:00:00;13;Hiking;Infinity Boot;Boot;Target;AeroKnit;32789;816121,488
+2019-11-01 00:00:00;14;Zeus;Infinity Boot;Boot;Target;LiteWeave;19425;440190,9049
+2019-11-01 00:00:00;15;Air;Infinity Boot;Boot;Target;LiteWeave;6465;127957,2811
+2019-11-01 00:00:00;16;Nautical Classic;Innovation Shoes;Shoes;Core;AeroKnit;150826;2782754,168
+2019-11-01 00:00:00;17;Nautical Max Force;Innovation Shoes;Shoes;Core;AeroKnit;141400;2378349,853
+2019-11-01 00:00:00;18;Play4;Innovation Shoes;Shoes;Core;AeroKnit;120097;2220610,506
+2019-11-01 00:00:00;19;Mandala Life;Innovation Shoes;Shoes;Core;AeroKnit;103687;1878817,128
+2019-11-01 00:00:00;20;Merlin;Innovation Shoes;Shoes;Core;AeroKnit;97782;2007472,839
+2019-11-01 00:00:00;22;MachinaMetal;Metal Sandal;Sandals;Core;UltraFoam;307389;3762443,47
+2019-11-01 00:00:00;23;SteelEngineer;Metal Sandal;Sandals;Core;NanoMesh;88759;1476956,159
+2019-11-01 00:00:00;24;TitaniumTech;Metal Sandal;Sandals;Core;NanoMesh;99425;1894060,368
+2019-11-01 00:00:00;25;AlloyInnovate;Metal Sandal;Sandals;Core;NanoMesh;40202;519818,9227
+2019-11-01 00:00:00;26;SteelTech;Metal Shoes;Shoes;Core;NanoMesh;92290;1403739,961
+2019-11-01 00:00:00;27;AlloyMaster;Metal Shoes;Shoes;Core;AeroKnit;111218;2360057,648
+2019-11-01 00:00:00;28;MetalForge;Metal Shoes;Shoes;Core;NanoMesh;22950;386024,537
+2019-11-01 00:00:00;29;IronCraft;Metal Shoes;Shoes;Core;PowerKnit;17605;419533,8612
+2019-11-01 00:00:00;30;TitaniumTech;Metal Shoes;Shoes;Core;NanoMesh;11287;399123,2562
+2019-11-01 00:00:00;34;Max;Price Sneakers;Sneakers;Core;UltraFoam;190601;1705882,007
+2019-11-01 00:00:00;35;Classic Price;Price Sneakers;Sneakers;Core;UltraFoam;32264;296192,2966
+2019-11-01 00:00:00;36;Hawaii;Price Sneakers;Sneakers;Core;AeroKnit;28483;456020,2255
+2019-11-01 00:00:00;37;Top Sport;Price Sneakers;Sneakers;Core;AeroKnit;17297;194600,5743
+2019-11-01 00:00:00;38;Comfort;Universe Sandals;Sandals;Core;DuraFlex;24664;652116,9569
+2019-11-01 00:00:00;39;Hawaii;Universe Sandals;Sandals;Core;NanoMesh;14572;337207,3465
+2019-12-01 00:00:00;1;AeroJet;Aero Boot;Boot;Target;NanoMesh;47220;1136129,902
+2019-12-01 00:00:00;2;FlyQuest;Aero Boot;Boot;Target;LiteWeave;40555;1088101,983
+2019-12-01 00:00:00;3;AirVoyager;Aero Boot;Boot;Target;AeroKnit;18913;419884,8223
+2019-12-01 00:00:00;4;Classic;Classic Sneaker;Sneaker;Target;PowerKnit;136578;2372372,45
+2019-12-01 00:00:00;5;Brand Classic;Classic Sneaker;Sneaker;Target;PowerKnit;42229;959453,4409
+2019-12-01 00:00:00;6;National Classic;Classic Sneaker;Sneaker;Target;BioSole;26399;393623,4405
+2019-12-01 00:00:00;7;Hold Line;Designed Shoes;Shoes;Core;DynaFit;11614;423102,0556
+2019-12-01 00:00:00;8;High Bys;Designed Shoes;Shoes;Core;DynaFit;11041;449600,7471
+2019-12-01 00:00:00;9;High Iris;Designed Shoes;Shoes;Core;DynaFit;9041;345478,8154
+2019-12-01 00:00:00;10;Cone Stars;Designed Shoes;Shoes;Core;AirVent;5199;278772,3279
+2019-12-01 00:00:00;11;Wave;Infinity Boot;Boot;Target;AeroKnit;40808;829225,7038
+2019-12-01 00:00:00;12;Athena II;Infinity Boot;Boot;Target;LiteWeave;34573;887842,2116
+2019-12-01 00:00:00;13;Hiking;Infinity Boot;Boot;Target;AeroKnit;34093;853363,4181
+2019-12-01 00:00:00;14;Zeus;Infinity Boot;Boot;Target;LiteWeave;20207;461126,1979
+2019-12-01 00:00:00;15;Air;Infinity Boot;Boot;Target;LiteWeave;6730;129834,1831
+2019-12-01 00:00:00;16;Nautical Classic;Innovation Shoes;Shoes;Core;AeroKnit;156303;2879114,391
+2019-12-01 00:00:00;17;Nautical Max Force;Innovation Shoes;Shoes;Core;AeroKnit;145028;2410380,54
+2019-12-01 00:00:00;18;Play4;Innovation Shoes;Shoes;Core;AeroKnit;123308;2287370,367
+2019-12-01 00:00:00;19;Mandala Life;Innovation Shoes;Shoes;Core;AeroKnit;107515;1950328,067
+2019-12-01 00:00:00;20;Merlin;Innovation Shoes;Shoes;Core;AeroKnit;100307;2028216,853
+2019-12-01 00:00:00;22;MachinaMetal;Metal Sandal;Sandals;Core;UltraFoam;295691;3731629,177
+2019-12-01 00:00:00;23;SteelEngineer;Metal Sandal;Sandals;Core;NanoMesh;90575;1527096,27
+2019-12-01 00:00:00;24;TitaniumTech;Metal Sandal;Sandals;Core;NanoMesh;98182;1891974,554
+2019-12-01 00:00:00;25;AlloyInnovate;Metal Sandal;Sandals;Core;NanoMesh;40022;517490,0754
+2019-12-01 00:00:00;26;SteelTech;Metal Shoes;Shoes;Core;NanoMesh;107214;1627519,665
+2019-12-01 00:00:00;27;AlloyMaster;Metal Shoes;Shoes;Core;AeroKnit;109571;2325114,161
+2019-12-01 00:00:00;28;MetalForge;Metal Shoes;Shoes;Core;NanoMesh;22598;380114,5108
+2019-12-01 00:00:00;29;IronCraft;Metal Shoes;Shoes;Core;PowerKnit;17314;411216,752
+2019-12-01 00:00:00;30;TitaniumTech;Metal Shoes;Shoes;Core;NanoMesh;11017;346843,9301
+2019-12-01 00:00:00;34;Max;Price Sneakers;Sneakers;Core;UltraFoam;184217;1648745,259
+2019-12-01 00:00:00;35;Classic Price;Price Sneakers;Sneakers;Core;UltraFoam;34105;319569,7303
+2019-12-01 00:00:00;36;Hawaii;Price Sneakers;Sneakers;Core;AeroKnit;27150;432782,3121
+2019-12-01 00:00:00;37;Top Sport;Price Sneakers;Sneakers;Core;AeroKnit;16536;187024,2113
+2019-12-01 00:00:00;38;Comfort;Universe Sandals;Sandals;Core;DuraFlex;24596;647628,0137
+2019-12-01 00:00:00;39;Hawaii;Universe Sandals;Sandals;Core;NanoMesh;14601;335241,8054
+2020-01-01 00:00:00;1;AeroJet;Aero Boot;Boot;Target;NanoMesh;44007;1085234,363
+2020-01-01 00:00:00;2;FlyQuest;Aero Boot;Boot;Target;LiteWeave;37201;1029368,033
+2020-01-01 00:00:00;3;AirVoyager;Aero Boot;Boot;Target;AeroKnit;18291;428943,1099
+2020-01-01 00:00:00;4;Classic;Classic Sneaker;Sneaker;Target;PowerKnit;104460;1834327,88
+2020-01-01 00:00:00;5;Brand Classic;Classic Sneaker;Sneaker;Target;PowerKnit;32446;696292,2843
+2020-01-01 00:00:00;6;National Classic;Classic Sneaker;Sneaker;Target;BioSole;20949;314450,6443
+2020-01-01 00:00:00;7;Hold Line;Designed Shoes;Shoes;Core;DynaFit;12449;453410,1878
+2020-01-01 00:00:00;8;High Bys;Designed Shoes;Shoes;Core;DynaFit;11585;474660,7182
+2020-01-01 00:00:00;9;High Iris;Designed Shoes;Shoes;Core;DynaFit;9310;361974,877
+2020-01-01 00:00:00;10;Cone Stars;Designed Shoes;Shoes;Core;AirVent;5255;281802,956
+2020-01-01 00:00:00;11;Wave;Infinity Boot;Boot;Target;AeroKnit;37743;772228,7395
+2020-01-01 00:00:00;12;Athena II;Infinity Boot;Boot;Target;LiteWeave;32401;850853,3746
+2020-01-01 00:00:00;13;Hiking;Infinity Boot;Boot;Target;AeroKnit;31943;830525,8708
+2020-01-01 00:00:00;14;Zeus;Infinity Boot;Boot;Target;LiteWeave;18684;435905,9272
+2020-01-01 00:00:00;15;Air;Infinity Boot;Boot;Target;LiteWeave;6289;120889,7135
+2020-01-01 00:00:00;16;Nautical Classic;Innovation Shoes;Shoes;Core;AeroKnit;143571;2654634,158
+2020-01-01 00:00:00;17;Nautical Max Force;Innovation Shoes;Shoes;Core;AeroKnit;132728;2256388,549
+2020-01-01 00:00:00;18;Play4;Innovation Shoes;Shoes;Core;AeroKnit;113380;2083934,57
+2020-01-01 00:00:00;19;Mandala Life;Innovation Shoes;Shoes;Core;AeroKnit;99079;1803246,153
+2020-01-01 00:00:00;20;Merlin;Innovation Shoes;Shoes;Core;AeroKnit;93537;1929679,279
+2020-01-01 00:00:00;22;MachinaMetal;Metal Sandal;Sandals;Core;UltraFoam;252433;3291727,433
+2020-01-01 00:00:00;23;SteelEngineer;Metal Sandal;Sandals;Core;NanoMesh;91936;1565670,487
+2020-01-01 00:00:00;24;TitaniumTech;Metal Sandal;Sandals;Core;NanoMesh;84293;1597353,147
+2020-01-01 00:00:00;25;AlloyInnovate;Metal Sandal;Sandals;Core;NanoMesh;34435;309576,6506
+2020-01-01 00:00:00;26;SteelTech;Metal Shoes;Shoes;Core;NanoMesh;113852;1748772,943
+2020-01-01 00:00:00;27;AlloyMaster;Metal Shoes;Shoes;Core;AeroKnit;92799;1920022,951
+2020-01-01 00:00:00;28;MetalForge;Metal Shoes;Shoes;Core;NanoMesh;19538;328055,6635
+2020-01-01 00:00:00;29;IronCraft;Metal Shoes;Shoes;Core;PowerKnit;14692;355709,9548
+2020-01-01 00:00:00;30;TitaniumTech;Metal Shoes;Shoes;Core;NanoMesh;9694;313222,7839
+2020-01-01 00:00:00;34;Max;Price Sneakers;Sneakers;Core;UltraFoam;170904;1544974,809
+2020-01-01 00:00:00;35;Classic Price;Price Sneakers;Sneakers;Core;UltraFoam;32021;302599,0915
+2020-01-01 00:00:00;36;Hawaii;Price Sneakers;Sneakers;Core;AeroKnit;25196;405162,719
+2020-01-01 00:00:00;37;Top Sport;Price Sneakers;Sneakers;Core;AeroKnit;15158;173258,837
+2020-01-01 00:00:00;38;Comfort;Universe Sandals;Sandals;Core;DuraFlex;21443;574675,5195
+2020-01-01 00:00:00;39;Hawaii;Universe Sandals;Sandals;Core;NanoMesh;12538;297914,8366
+2020-02-01 00:00:00;1;AeroJet;Aero Boot;Boot;Target;NanoMesh;35607;863126,4162
+2020-02-01 00:00:00;2;FlyQuest;Aero Boot;Boot;Target;LiteWeave;30199;824736,8944
+2020-02-01 00:00:00;3;AirVoyager;Aero Boot;Boot;Target;AeroKnit;15578;363906,1592
+2020-02-01 00:00:00;4;Classic;Classic Sneaker;Sneaker;Target;PowerKnit;92081;1616958,883
+2020-02-01 00:00:00;5;Brand Classic;Classic Sneaker;Sneaker;Target;PowerKnit;28575;598657,3522
+2020-02-01 00:00:00;6;National Classic;Classic Sneaker;Sneaker;Target;BioSole;19360;290020,6664
+2020-02-01 00:00:00;7;Hold Line;Designed Shoes;Shoes;Core;DynaFit;11307;408549,722
+2020-02-01 00:00:00;8;High Bys;Designed Shoes;Shoes;Core;DynaFit;10501;432358,6011
+2020-02-01 00:00:00;9;High Iris;Designed Shoes;Shoes;Core;DynaFit;8263;296341,9959
+2020-02-01 00:00:00;10;Cone Stars;Designed Shoes;Shoes;Core;AirVent;4335;232494,6364
+2020-02-01 00:00:00;11;Wave;Infinity Boot;Boot;Target;AeroKnit;31090;628033,8668
+2020-02-01 00:00:00;12;Athena II;Infinity Boot;Boot;Target;LiteWeave;26668;697391,8855
+2020-02-01 00:00:00;13;Hiking;Infinity Boot;Boot;Target;AeroKnit;26790;681287,6889
+2020-02-01 00:00:00;14;Zeus;Infinity Boot;Boot;Target;LiteWeave;15472;358643,3828
+2020-02-01 00:00:00;15;Air;Infinity Boot;Boot;Target;LiteWeave;5151;95501,17375
+2020-02-01 00:00:00;16;Nautical Classic;Innovation Shoes;Shoes;Core;AeroKnit;113510;2089725,765
+2020-02-01 00:00:00;17;Nautical Max Force;Innovation Shoes;Shoes;Core;AeroKnit;105964;1753712,495
+2020-02-01 00:00:00;18;Play4;Innovation Shoes;Shoes;Core;AeroKnit;91108;1652704,226
+2020-02-01 00:00:00;19;Mandala Life;Innovation Shoes;Shoes;Core;AeroKnit;78435;1410272,741
+2020-02-01 00:00:00;20;Merlin;Innovation Shoes;Shoes;Core;AeroKnit;75992;1550245,866
+2020-02-01 00:00:00;22;MachinaMetal;Metal Sandal;Sandals;Core;UltraFoam;202109;2570838,971
+2020-02-01 00:00:00;23;SteelEngineer;Metal Sandal;Sandals;Core;NanoMesh;90896;1538884,431
+2020-02-01 00:00:00;24;TitaniumTech;Metal Sandal;Sandals;Core;NanoMesh;68494;1158929,071
+2020-02-01 00:00:00;25;AlloyInnovate;Metal Sandal;Sandals;Core;NanoMesh;28171;256364,1036
+2020-02-01 00:00:00;26;SteelTech;Metal Shoes;Shoes;Core;NanoMesh;105826;1564108,664
+2020-02-01 00:00:00;27;AlloyMaster;Metal Shoes;Shoes;Core;AeroKnit;75661;1538962,92
+2020-02-01 00:00:00;28;MetalForge;Metal Shoes;Shoes;Core;NanoMesh;15430;262160,4464
+2020-02-01 00:00:00;29;IronCraft;Metal Shoes;Shoes;Core;PowerKnit;12095;289686,6708
+2020-02-01 00:00:00;30;TitaniumTech;Metal Shoes;Shoes;Core;NanoMesh;8067;259216,2702
+2020-02-01 00:00:00;34;Max;Price Sneakers;Sneakers;Core;UltraFoam;156508;1414838,951
+2020-02-01 00:00:00;35;Classic Price;Price Sneakers;Sneakers;Core;UltraFoam;29367;278699,8303
+2020-02-01 00:00:00;36;Hawaii;Price Sneakers;Sneakers;Core;AeroKnit;22882;368404,7782
+2020-02-01 00:00:00;37;Top Sport;Price Sneakers;Sneakers;Core;AeroKnit;13709;156018,614
+2020-02-01 00:00:00;38;Comfort;Universe Sandals;Sandals;Core;DuraFlex;17821;475650,0716
+2020-02-01 00:00:00;39;Hawaii;Universe Sandals;Sandals;Core;NanoMesh;10406;248603,495
+2020-03-01 00:00:00;1;AeroJet;Aero Boot;Boot;Target;NanoMesh;31291;753495,4428
+2020-03-01 00:00:00;2;FlyQuest;Aero Boot;Boot;Target;LiteWeave;27284;714305,9527
+2020-03-01 00:00:00;3;AirVoyager;Aero Boot;Boot;Target;AeroKnit;13663;310301,2093
+2020-03-01 00:00:00;4;Classic;Classic Sneaker;Sneaker;Target;PowerKnit;88109;1524287,714
+2020-03-01 00:00:00;5;Brand Classic;Classic Sneaker;Sneaker;Target;PowerKnit;26783;594852,1429
+2020-03-01 00:00:00;6;National Classic;Classic Sneaker;Sneaker;Target;BioSole;17310;253073,0234
+2020-03-01 00:00:00;7;Hold Line;Designed Shoes;Shoes;Core;DynaFit;9894;363424,0734
+2020-03-01 00:00:00;8;High Bys;Designed Shoes;Shoes;Core;DynaFit;9018;370938,734
+2020-03-01 00:00:00;9;High Iris;Designed Shoes;Shoes;Core;DynaFit;7106;261736,1707
+2020-03-01 00:00:00;10;Cone Stars;Designed Shoes;Shoes;Core;AirVent;3428;183822,7488
+2020-03-01 00:00:00;11;Wave;Infinity Boot;Boot;Target;AeroKnit;28278;570947,018
+2020-03-01 00:00:00;12;Athena II;Infinity Boot;Boot;Target;LiteWeave;24055;629060,9947
+2020-03-01 00:00:00;13;Hiking;Infinity Boot;Boot;Target;AeroKnit;24276;619038,4347
+2020-03-01 00:00:00;14;Zeus;Infinity Boot;Boot;Target;LiteWeave;14138;318819,0123
+2020-03-01 00:00:00;15;Air;Infinity Boot;Boot;Target;LiteWeave;4691;88858,46119
+2020-03-01 00:00:00;16;Nautical Classic;Innovation Shoes;Shoes;Core;AeroKnit;89553;1649573,685
+2020-03-01 00:00:00;17;Nautical Max Force;Innovation Shoes;Shoes;Core;AeroKnit;82248;1351349,176
+2020-03-01 00:00:00;18;Play4;Innovation Shoes;Shoes;Core;AeroKnit;64346;1154382,858
+2020-03-01 00:00:00;19;Mandala Life;Innovation Shoes;Shoes;Core;AeroKnit;62223;1087674,844
+2020-03-01 00:00:00;20;Merlin;Innovation Shoes;Shoes;Core;AeroKnit;60166;1210550,416
+2020-03-01 00:00:00;21;Fusion;Innovation Shoes;Shoes;Core;LiteWeave;24130;482368,2314
+2020-03-01 00:00:00;22;MachinaMetal;Metal Sandal;Sandals;Core;UltraFoam;199212;2508082,495
+2020-03-01 00:00:00;23;SteelEngineer;Metal Sandal;Sandals;Core;NanoMesh;90627;1530706,103
+2020-03-01 00:00:00;24;TitaniumTech;Metal Sandal;Sandals;Core;NanoMesh;65374;1178046,92
+2020-03-01 00:00:00;25;AlloyInnovate;Metal Sandal;Sandals;Core;NanoMesh;27155;326949,3844
+2020-03-01 00:00:00;26;SteelTech;Metal Shoes;Shoes;Core;NanoMesh;92319;1318329,405
+2020-03-01 00:00:00;27;AlloyMaster;Metal Shoes;Shoes;Core;AeroKnit;72246;1440603,712
+2020-03-01 00:00:00;28;MetalForge;Metal Shoes;Shoes;Core;NanoMesh;14585;243144,7725
+2020-03-01 00:00:00;29;IronCraft;Metal Shoes;Shoes;Core;PowerKnit;11712;272900,2344
+2020-03-01 00:00:00;30;TitaniumTech;Metal Shoes;Shoes;Core;NanoMesh;7792;251996,5702
+2020-03-01 00:00:00;34;Max;Price Sneakers;Sneakers;Core;UltraFoam;152679;1361897,802
+2020-03-01 00:00:00;35;Classic Price;Price Sneakers;Sneakers;Core;UltraFoam;25270;238801,6317
+2020-03-01 00:00:00;36;Hawaii;Price Sneakers;Sneakers;Core;AeroKnit;21770;346807,5978
+2020-03-01 00:00:00;37;Top Sport;Price Sneakers;Sneakers;Core;AeroKnit;13104;148075,64
+2020-03-01 00:00:00;38;Comfort;Universe Sandals;Sandals;Core;DuraFlex;12919;339533,0814
+2020-03-01 00:00:00;39;Hawaii;Universe Sandals;Sandals;Core;NanoMesh;7631;175378,12
+2020-04-01 00:00:00;1;AeroJet;Aero Boot;Boot;Target;NanoMesh;34362;839830,3626
+2020-04-01 00:00:00;2;FlyQuest;Aero Boot;Boot;Target;LiteWeave;30599;820997,9818
+2020-04-01 00:00:00;3;AirVoyager;Aero Boot;Boot;Target;AeroKnit;15021;349409,8336
+2020-04-01 00:00:00;4;Classic;Classic Sneaker;Sneaker;Target;PowerKnit;100122;1756149,429
+2020-04-01 00:00:00;5;Brand Classic;Classic Sneaker;Sneaker;Target;PowerKnit;30497;720662,812
+2020-04-01 00:00:00;6;National Classic;Classic Sneaker;Sneaker;Target;BioSole;19075;296625,0778
+2020-04-01 00:00:00;7;Hold Line;Designed Shoes;Shoes;Core;DynaFit;10601;392903,7822
+2020-04-01 00:00:00;8;High Bys;Designed Shoes;Shoes;Core;DynaFit;9308;394674,371
+2020-04-01 00:00:00;9;High Iris;Designed Shoes;Shoes;Core;DynaFit;7689;297884,5924
+2020-04-01 00:00:00;10;Cone Stars;Designed Shoes;Shoes;Core;AirVent;4826;258800,4885
+2020-04-01 00:00:00;11;Wave;Infinity Boot;Boot;Target;AeroKnit;33927;699580,22
+2020-04-01 00:00:00;12;Athena II;Infinity Boot;Boot;Target;LiteWeave;29170;772736,5845
+2020-04-01 00:00:00;13;Hiking;Infinity Boot;Boot;Target;AeroKnit;28610;734135,2079
+2020-04-01 00:00:00;14;Zeus;Infinity Boot;Boot;Target;LiteWeave;16903;393181,65
+2020-04-01 00:00:00;15;Air;Infinity Boot;Boot;Target;LiteWeave;5710;116209,6247
+2020-04-01 00:00:00;16;Nautical Classic;Innovation Shoes;Shoes;Core;AeroKnit;104992;1935005,519
+2020-04-01 00:00:00;17;Nautical Max Force;Innovation Shoes;Shoes;Core;AeroKnit;96294;1630259,616
+2020-04-01 00:00:00;18;Play4;Innovation Shoes;Shoes;Core;AeroKnit;49714;899833,6475
+2020-04-01 00:00:00;19;Mandala Life;Innovation Shoes;Shoes;Core;AeroKnit;72302;1280475,693
+2020-04-01 00:00:00;20;Merlin;Innovation Shoes;Shoes;Core;AeroKnit;68760;1347706,874
+2020-04-01 00:00:00;21;Fusion;Innovation Shoes;Shoes;Core;LiteWeave;20529;411402,4124
+2020-04-01 00:00:00;22;MachinaMetal;Metal Sandal;Sandals;Core;UltraFoam;236546;2997046,508
+2020-04-01 00:00:00;23;SteelEngineer;Metal Sandal;Sandals;Core;NanoMesh;90966;1550983,802
+2020-04-01 00:00:00;24;TitaniumTech;Metal Sandal;Sandals;Core;NanoMesh;76239;1494293,002
+2020-04-01 00:00:00;25;AlloyInnovate;Metal Sandal;Sandals;Core;NanoMesh;31161;418808,4349
+2020-04-01 00:00:00;26;SteelTech;Metal Shoes;Shoes;Core;NanoMesh;109683;1638672,218
+2020-04-01 00:00:00;27;AlloyMaster;Metal Shoes;Shoes;Core;AeroKnit;87894;1820303,458
+2020-04-01 00:00:00;28;MetalForge;Metal Shoes;Shoes;Core;NanoMesh;17725;299557,4592
+2020-04-01 00:00:00;29;IronCraft;Metal Shoes;Shoes;Core;PowerKnit;13659;331240,4145
+2020-04-01 00:00:00;30;TitaniumTech;Metal Shoes;Shoes;Core;NanoMesh;8998;291000,3189
+2020-04-01 00:00:00;34;Max;Price Sneakers;Sneakers;Core;UltraFoam;181030;1623841,073
+2020-04-01 00:00:00;35;Classic Price;Price Sneakers;Sneakers;Core;UltraFoam;32328;307770,613
+2020-04-01 00:00:00;36;Hawaii;Price Sneakers;Sneakers;Core;AeroKnit;25904;414996,9481
+2020-04-01 00:00:00;37;Top Sport;Price Sneakers;Sneakers;Core;AeroKnit;16033;183740,6132
+2020-04-01 00:00:00;38;Comfort;Universe Sandals;Sandals;Core;DuraFlex;13886;369098,6052
+2020-04-01 00:00:00;39;Hawaii;Universe Sandals;Sandals;Core;NanoMesh;8244;196062,0759
+2020-05-01 00:00:00;1;AeroJet;Aero Boot;Boot;Target;NanoMesh;37751;927928,1146
+2020-05-01 00:00:00;2;FlyQuest;Aero Boot;Boot;Target;LiteWeave;32358;883067,1232
+2020-05-01 00:00:00;3;AirVoyager;Aero Boot;Boot;Target;AeroKnit;16552;385999,7547
+2020-05-01 00:00:00;4;Classic;Classic Sneaker;Sneaker;Target;PowerKnit;116176;2070274,109
+2020-05-01 00:00:00;5;Brand Classic;Classic Sneaker;Sneaker;Target;PowerKnit;34981;805968,6568
+2020-05-01 00:00:00;6;National Classic;Classic Sneaker;Sneaker;Target;BioSole;21089;328355,9728
+2020-05-01 00:00:00;7;Hold Line;Designed Shoes;Shoes;Core;DynaFit;10688;389374,9627
+2020-05-01 00:00:00;8;High Bys;Designed Shoes;Shoes;Core;DynaFit;9171;383806,8957
+2020-05-01 00:00:00;9;High Iris;Designed Shoes;Shoes;Core;DynaFit;7615;296463,1165
+2020-05-01 00:00:00;10;Cone Stars;Designed Shoes;Shoes;Core;AirVent;4760;255239,5005
+2020-05-01 00:00:00;11;Wave;Infinity Boot;Boot;Target;AeroKnit;43859;922359,667
+2020-05-01 00:00:00;12;Athena II;Infinity Boot;Boot;Target;LiteWeave;37988;969849,9545
+2020-05-01 00:00:00;13;Hiking;Infinity Boot;Boot;Target;AeroKnit;37171;962730,7206
+2020-05-01 00:00:00;14;Zeus;Infinity Boot;Boot;Target;LiteWeave;22214;529147,7833
+2020-05-01 00:00:00;15;Air;Infinity Boot;Boot;Target;LiteWeave;7359;153362,8242
+2020-05-01 00:00:00;16;Nautical Classic;Innovation Shoes;Shoes;Core;AeroKnit;134673;2519736,153
+2020-05-01 00:00:00;17;Nautical Max Force;Innovation Shoes;Shoes;Core;AeroKnit;119841;2019321,399
+2020-05-01 00:00:00;18;Play4;Innovation Shoes;Shoes;Core;AeroKnit;35889;661805,2717
+2020-05-01 00:00:00;19;Mandala Life;Innovation Shoes;Shoes;Core;AeroKnit;91087;1616810,831
+2020-05-01 00:00:00;20;Merlin;Innovation Shoes;Shoes;Core;AeroKnit;86610;1752988,406
+2020-05-01 00:00:00;21;Fusion;Innovation Shoes;Shoes;Core;LiteWeave;38851;787908,7923
+2020-05-01 00:00:00;22;MachinaMetal;Metal Sandal;Sandals;Core;UltraFoam;286362;3656846,946
+2020-05-01 00:00:00;23;SteelEngineer;Metal Sandal;Sandals;Core;NanoMesh;90271;1584263,098
+2020-05-01 00:00:00;24;TitaniumTech;Metal Sandal;Sandals;Core;NanoMesh;91051;1720864,04
+2020-05-01 00:00:00;25;AlloyInnovate;Metal Sandal;Sandals;Core;NanoMesh;37205;505619,5538
+2020-05-01 00:00:00;26;SteelTech;Metal Shoes;Shoes;Core;NanoMesh;131533;2037460,037
+2020-05-01 00:00:00;27;AlloyMaster;Metal Shoes;Shoes;Core;AeroKnit;104051;2021710,937
+2020-05-01 00:00:00;28;MetalForge;Metal Shoes;Shoes;Core;NanoMesh;21653;371567,0241
+2020-05-01 00:00:00;29;IronCraft;Metal Shoes;Shoes;Core;PowerKnit;15923;392350,7613
+2020-05-01 00:00:00;30;TitaniumTech;Metal Shoes;Shoes;Core;NanoMesh;10792;366506,6099
+2020-05-01 00:00:00;34;Max;Price Sneakers;Sneakers;Core;UltraFoam;211954;1918186,909
+2020-05-01 00:00:00;35;Classic Price;Price Sneakers;Sneakers;Core;UltraFoam;36708;354232,2666
+2020-05-01 00:00:00;36;Hawaii;Price Sneakers;Sneakers;Core;AeroKnit;30815;504750,8312
+2020-05-01 00:00:00;37;Top Sport;Price Sneakers;Sneakers;Core;AeroKnit;18856;217796,0568
+2020-05-01 00:00:00;38;Comfort;Universe Sandals;Sandals;Core;DuraFlex;13986;370084,3224
+2020-05-01 00:00:00;39;Hawaii;Universe Sandals;Sandals;Core;NanoMesh;8468;205703,5541
+2020-06-01 00:00:00;1;AeroJet;Aero Boot;Boot;Target;NanoMesh;41511;997516,0087
+2020-06-01 00:00:00;2;FlyQuest;Aero Boot;Boot;Target;LiteWeave;35263;998649,0974
+2020-06-01 00:00:00;3;AirVoyager;Aero Boot;Boot;Target;AeroKnit;19822;489018,4019
+2020-06-01 00:00:00;4;Classic;Classic Sneaker;Sneaker;Target;PowerKnit;127211;2310152,133
+2020-06-01 00:00:00;5;Brand Classic;Classic Sneaker;Sneaker;Target;PowerKnit;38894;910119,6683
+2020-06-01 00:00:00;6;National Classic;Classic Sneaker;Sneaker;Target;BioSole;24328;374665,9516
+2020-06-01 00:00:00;7;Hold Line;Designed Shoes;Shoes;Core;DynaFit;10113;371569,6975
+2020-06-01 00:00:00;8;High Bys;Designed Shoes;Shoes;Core;DynaFit;8490;360676,7146
+2020-06-01 00:00:00;9;High Iris;Designed Shoes;Shoes;Core;DynaFit;7195;276599,7202
+2020-06-01 00:00:00;10;Cone Stars;Designed Shoes;Shoes;Core;AirVent;4599;246632,5166
+2020-06-01 00:00:00;11;Wave;Infinity Boot;Boot;Target;AeroKnit;48548;1071956,114
+2020-06-01 00:00:00;12;Athena II;Infinity Boot;Boot;Target;LiteWeave;42552;1146361,256
+2020-06-01 00:00:00;13;Hiking;Infinity Boot;Boot;Target;AeroKnit;41144;1069354,309
+2020-06-01 00:00:00;14;Zeus;Infinity Boot;Boot;Target;LiteWeave;24591;618726,7675
+2020-06-01 00:00:00;15;Air;Infinity Boot;Boot;Target;LiteWeave;8263;171874,5586
+2020-06-01 00:00:00;16;Nautical Classic;Innovation Shoes;Shoes;Core;AeroKnit;166308;3274606,89
+2020-06-01 00:00:00;17;Nautical Max Force;Innovation Shoes;Shoes;Core;AeroKnit;149755;2614733,245
+2020-06-01 00:00:00;18;Play4;Innovation Shoes;Shoes;Core;AeroKnit;22421;426462,037
+2020-06-01 00:00:00;19;Mandala Life;Innovation Shoes;Shoes;Core;AeroKnit;110725;2062814,381
+2020-06-01 00:00:00;20;Merlin;Innovation Shoes;Shoes;Core;AeroKnit;104161;2238432,614
+2020-06-01 00:00:00;21;Fusion;Innovation Shoes;Shoes;Core;LiteWeave;65167;1354187,518
+2020-06-01 00:00:00;22;MachinaMetal;Metal Sandal;Sandals;Core;UltraFoam;313867;4042618,894
+2020-06-01 00:00:00;23;SteelEngineer;Metal Sandal;Sandals;Core;NanoMesh;89093;1601015,539
+2020-06-01 00:00:00;24;TitaniumTech;Metal Sandal;Sandals;Core;NanoMesh;102200;2057296,464
+2020-06-01 00:00:00;25;AlloyInnovate;Metal Sandal;Sandals;Core;NanoMesh;41400;376745,3871
+2020-06-01 00:00:00;26;SteelTech;Metal Shoes;Shoes;Core;NanoMesh;162307;2562835,529
+2020-06-01 00:00:00;27;AlloyMaster;Metal Shoes;Shoes;Core;AeroKnit;118066;2321177,696
+2020-06-01 00:00:00;28;MetalForge;Metal Shoes;Shoes;Core;NanoMesh;24594;430656,467
+2020-06-01 00:00:00;29;IronCraft;Metal Shoes;Shoes;Core;PowerKnit;17945;448267,6965
+2020-06-01 00:00:00;30;TitaniumTech;Metal Shoes;Shoes;Core;NanoMesh;11873;395973,1268
+2020-06-01 00:00:00;34;Max;Price Sneakers;Sneakers;Core;UltraFoam;230726;2118069,08
+2020-06-01 00:00:00;35;Classic Price;Price Sneakers;Sneakers;Core;UltraFoam;44923;442048,3948
+2020-06-01 00:00:00;36;Hawaii;Price Sneakers;Sneakers;Core;AeroKnit;34892;591436,2135
+2020-06-01 00:00:00;37;Top Sport;Price Sneakers;Sneakers;Core;AeroKnit;21179;253733,9564
+2020-06-01 00:00:00;38;Comfort;Universe Sandals;Sandals;Core;DuraFlex;15581;389373,9143
+2020-06-01 00:00:00;39;Hawaii;Universe Sandals;Sandals;Core;NanoMesh;9337;236977,7109
+2020-07-01 00:00:00;1;AeroJet;Aero Boot;Boot;Target;NanoMesh;40838;1032392,412
+2020-07-01 00:00:00;2;FlyQuest;Aero Boot;Boot;Target;LiteWeave;34905;1012255,227
+2020-07-01 00:00:00;3;AirVoyager;Aero Boot;Boot;Target;AeroKnit;19185;475603,8755
+2020-07-01 00:00:00;4;Classic;Classic Sneaker;Sneaker;Target;PowerKnit;130504;2413032,855
+2020-07-01 00:00:00;5;Brand Classic;Classic Sneaker;Sneaker;Target;PowerKnit;40114;950715,1354
+2020-07-01 00:00:00;6;National Classic;Classic Sneaker;Sneaker;Target;BioSole;25423;391527,3483
+2020-07-01 00:00:00;7;Hold Line;Designed Shoes;Shoes;Core;DynaFit;6932;251868,6982
+2020-07-01 00:00:00;8;High Bys;Designed Shoes;Shoes;Core;DynaFit;5924;247406,1464
+2020-07-01 00:00:00;9;High Iris;Designed Shoes;Shoes;Core;DynaFit;4932;202382,2092
+2020-07-01 00:00:00;10;Cone Stars;Designed Shoes;Shoes;Core;AirVent;2820;151213,1902
+2020-07-01 00:00:00;11;Wave;Infinity Boot;Boot;Target;AeroKnit;50385;1107976,359
+2020-07-01 00:00:00;12;Athena II;Infinity Boot;Boot;Target;LiteWeave;43523;1186888,447
+2020-07-01 00:00:00;13;Hiking;Infinity Boot;Boot;Target;AeroKnit;42665;1131057,949
+2020-07-01 00:00:00;14;Zeus;Infinity Boot;Boot;Target;LiteWeave;25364;650858,0913
+2020-07-01 00:00:00;15;Air;Infinity Boot;Boot;Target;LiteWeave;8400;173293,5204
+2020-07-01 00:00:00;16;Nautical Classic;Innovation Shoes;Shoes;Core;AeroKnit;177666;3528459,954
+2020-07-01 00:00:00;17;Nautical Max Force;Innovation Shoes;Shoes;Core;AeroKnit;162671;3027313,081
+2020-07-01 00:00:00;18;Play4;Innovation Shoes;Shoes;Core;AeroKnit;10009;193974,8726
+2020-07-01 00:00:00;19;Mandala Life;Innovation Shoes;Shoes;Core;AeroKnit;121173;2377418,582
+2020-07-01 00:00:00;20;Merlin;Innovation Shoes;Shoes;Core;AeroKnit;110156;2499458,1
+2020-07-01 00:00:00;21;Fusion;Innovation Shoes;Shoes;Core;LiteWeave;87103;1914539,574
+2020-07-01 00:00:00;22;MachinaMetal;Metal Sandal;Sandals;Core;UltraFoam;316678;4138986,785
+2020-07-01 00:00:00;23;SteelEngineer;Metal Sandal;Sandals;Core;NanoMesh;86348;1607805,627
+2020-07-01 00:00:00;24;TitaniumTech;Metal Sandal;Sandals;Core;NanoMesh;103593;1976559,757
+2020-07-01 00:00:00;25;AlloyInnovate;Metal Sandal;Sandals;Core;NanoMesh;42752;389047,4558
+2020-07-01 00:00:00;26;SteelTech;Metal Shoes;Shoes;Core;NanoMesh;169394;2689986,4
+2020-07-01 00:00:00;27;AlloyMaster;Metal Shoes;Shoes;Core;AeroKnit;115883;2326941,941
+2020-07-01 00:00:00;28;MetalForge;Metal Shoes;Shoes;Core;NanoMesh;24388;432646,8489
+2020-07-01 00:00:00;29;IronCraft;Metal Shoes;Shoes;Core;PowerKnit;18012;465453,0385
+2020-07-01 00:00:00;30;TitaniumTech;Metal Shoes;Shoes;Core;NanoMesh;12065;380181,5987
+2020-07-01 00:00:00;34;Max;Price Sneakers;Sneakers;Core;UltraFoam;223899;2075550,25
+2020-07-01 00:00:00;35;Classic Price;Price Sneakers;Sneakers;Core;UltraFoam;44358;436933,4955
+2020-07-01 00:00:00;36;Hawaii;Price Sneakers;Sneakers;Core;AeroKnit;34705;592429,5471
+2020-07-01 00:00:00;37;Top Sport;Price Sneakers;Sneakers;Core;AeroKnit;20292;246349,0186
+2020-07-01 00:00:00;38;Comfort;Universe Sandals;Sandals;Core;DuraFlex;14357;373587,5898
+2020-07-01 00:00:00;39;Hawaii;Universe Sandals;Sandals;Core;NanoMesh;8578;212408,0775
+2020-08-01 00:00:00;1;AeroJet;Aero Boot;Boot;Target;NanoMesh;40837;1040538,471
+2020-08-01 00:00:00;2;FlyQuest;Aero Boot;Boot;Target;LiteWeave;35835;1062891,85
+2020-08-01 00:00:00;3;AirVoyager;Aero Boot;Boot;Target;AeroKnit;20363;507055,369
+2020-08-01 00:00:00;4;Classic;Classic Sneaker;Sneaker;Target;PowerKnit;133864;2483190,289
+2020-08-01 00:00:00;5;Brand Classic;Classic Sneaker;Sneaker;Target;PowerKnit;40769;945851,1619
+2020-08-01 00:00:00;6;National Classic;Classic Sneaker;Sneaker;Target;BioSole;25729;398551,9622
+2020-08-01 00:00:00;7;Hold Line;Designed Shoes;Shoes;Core;DynaFit;4980;183075,9041
+2020-08-01 00:00:00;8;High Bys;Designed Shoes;Shoes;Core;DynaFit;4178;176293,407
+2020-08-01 00:00:00;9;High Iris;Designed Shoes;Shoes;Core;DynaFit;3549;147942,5818
+2020-08-01 00:00:00;10;Cone Stars;Designed Shoes;Shoes;Core;AirVent;1702;91282,51906
+2020-08-01 00:00:00;11;Wave;Infinity Boot;Boot;Target;AeroKnit;48883;1058819,229
+2020-08-01 00:00:00;12;Athena II;Infinity Boot;Boot;Target;LiteWeave;41395;1130920,054
+2020-08-01 00:00:00;13;Hiking;Infinity Boot;Boot;Target;AeroKnit;41068;1093239,364
+2020-08-01 00:00:00;14;Zeus;Infinity Boot;Boot;Target;LiteWeave;23918;608487,2763
+2020-08-01 00:00:00;15;Air;Infinity Boot;Boot;Target;LiteWeave;8044;164919,2709
+2020-08-01 00:00:00;16;Nautical Classic;Innovation Shoes;Shoes;Core;AeroKnit;188916;3765100,226
+2020-08-01 00:00:00;17;Nautical Max Force;Innovation Shoes;Shoes;Core;AeroKnit;173915;3262649,372
+2020-08-01 00:00:00;18;Play4;Innovation Shoes;Shoes;Core;AeroKnit;3664;70544,44713
+2020-08-01 00:00:00;19;Mandala Life;Innovation Shoes;Shoes;Core;AeroKnit;129225;2531518,408
+2020-08-01 00:00:00;20;Merlin;Innovation Shoes;Shoes;Core;AeroKnit;117284;2649465,752
+2020-08-01 00:00:00;21;Fusion;Innovation Shoes;Shoes;Core;LiteWeave;100084;2174844,096
+2020-08-01 00:00:00;22;MachinaMetal;Metal Sandal;Sandals;Core;UltraFoam;310409;4047742,762
+2020-08-01 00:00:00;23;SteelEngineer;Metal Sandal;Sandals;Core;NanoMesh;87391;1693652,645
+2020-08-01 00:00:00;24;TitaniumTech;Metal Sandal;Sandals;Core;NanoMesh;103398;1945953,913
+2020-08-01 00:00:00;25;AlloyInnovate;Metal Sandal;Sandals;Core;NanoMesh;42682;584323,1029
+2020-08-01 00:00:00;26;SteelTech;Metal Shoes;Shoes;Core;NanoMesh;176368;2754880,121
+2020-08-01 00:00:00;27;AlloyMaster;Metal Shoes;Shoes;Core;AeroKnit;113924;2312660,979
+2020-08-01 00:00:00;28;MetalForge;Metal Shoes;Shoes;Core;NanoMesh;23954;429986,8312
+2020-08-01 00:00:00;29;IronCraft;Metal Shoes;Shoes;Core;PowerKnit;17947;458389,1089
+2020-08-01 00:00:00;30;TitaniumTech;Metal Shoes;Shoes;Core;NanoMesh;11990;413206,8956
+2020-08-01 00:00:00;34;Max;Price Sneakers;Sneakers;Core;UltraFoam;212574;1976943,398
+2020-08-01 00:00:00;35;Classic Price;Price Sneakers;Sneakers;Core;UltraFoam;46525;464325,2111
+2020-08-01 00:00:00;36;Hawaii;Price Sneakers;Sneakers;Core;AeroKnit;33440;572507,717
+2020-08-01 00:00:00;37;Top Sport;Price Sneakers;Sneakers;Core;AeroKnit;19595;233965,0909
+2020-08-01 00:00:00;38;Comfort;Universe Sandals;Sandals;Core;DuraFlex;17523;458777,9623
+2020-08-01 00:00:00;39;Hawaii;Universe Sandals;Sandals;Core;NanoMesh;10327;244149,165
+2020-09-01 00:00:00;1;AeroJet;Aero Boot;Boot;Target;NanoMesh;43437;1096352,886
+2020-09-01 00:00:00;2;FlyQuest;Aero Boot;Boot;Target;LiteWeave;37149;1118940,052
+2020-09-01 00:00:00;3;AirVoyager;Aero Boot;Boot;Target;AeroKnit;19764;491349,1133
+2020-09-01 00:00:00;4;Classic;Classic Sneaker;Sneaker;Target;PowerKnit;141580;2636220,227
+2020-09-01 00:00:00;5;Brand Classic;Classic Sneaker;Sneaker;Target;PowerKnit;43115;1000284,378
+2020-09-01 00:00:00;6;National Classic;Classic Sneaker;Sneaker;Target;BioSole;25927;409400,4052
+2020-09-01 00:00:00;7;Hold Line;Designed Shoes;Shoes;Core;DynaFit;3762;136146,8933
+2020-09-01 00:00:00;8;High Bys;Designed Shoes;Shoes;Core;DynaFit;3159;133792,6373
+2020-09-01 00:00:00;9;High Iris;Designed Shoes;Shoes;Core;DynaFit;2727;105948,3457
+2020-09-01 00:00:00;10;Cone Stars;Designed Shoes;Shoes;Core;AirVent;1380;74038,24504
+2020-09-01 00:00:00;11;Wave;Infinity Boot;Boot;Target;AeroKnit;53645;1185571,162
+2020-09-01 00:00:00;12;Athena II;Infinity Boot;Boot;Target;LiteWeave;45178;1254158,193
+2020-09-01 00:00:00;13;Hiking;Infinity Boot;Boot;Target;AeroKnit;45507;1214131,606
+2020-09-01 00:00:00;14;Zeus;Infinity Boot;Boot;Target;LiteWeave;26229;670696,9021
+2020-09-01 00:00:00;15;Air;Infinity Boot;Boot;Target;LiteWeave;8841;185402,2758
+2020-09-01 00:00:00;16;Nautical Classic;Innovation Shoes;Shoes;Core;AeroKnit;197365;3927568,996
+2020-09-01 00:00:00;17;Nautical Max Force;Innovation Shoes;Shoes;Core;AeroKnit;178730;3365496,599
+2020-09-01 00:00:00;18;Play4;Innovation Shoes;Shoes;Core;AeroKnit;471;9151,03305
+2020-09-01 00:00:00;19;Mandala Life;Innovation Shoes;Shoes;Core;AeroKnit;132703;2614266,222
+2020-09-01 00:00:00;20;Merlin;Innovation Shoes;Shoes;Core;AeroKnit;125038;2825869,365
+2020-09-01 00:00:00;21;Fusion;Innovation Shoes;Shoes;Core;LiteWeave;104976;2280090,084
+2020-09-01 00:00:00;22;MachinaMetal;Metal Sandal;Sandals;Core;UltraFoam;321319;4231780,197
+2020-09-01 00:00:00;23;SteelEngineer;Metal Sandal;Sandals;Core;NanoMesh;84969;1607613,991
+2020-09-01 00:00:00;24;TitaniumTech;Metal Sandal;Sandals;Core;NanoMesh;102955;1777007,73
+2020-09-01 00:00:00;25;AlloyInnovate;Metal Sandal;Sandals;Core;NanoMesh;42914;587492,9617
+2020-09-01 00:00:00;26;SteelTech;Metal Shoes;Shoes;Core;NanoMesh;178987;2797581,264
+2020-09-01 00:00:00;27;AlloyMaster;Metal Shoes;Shoes;Core;AeroKnit;115602;2308575,634
+2020-09-01 00:00:00;28;MetalForge;Metal Shoes;Shoes;Core;NanoMesh;23964;433278,0696
+2020-09-01 00:00:00;29;IronCraft;Metal Shoes;Shoes;Core;PowerKnit;18030;458164,6821
+2020-09-01 00:00:00;30;TitaniumTech;Metal Shoes;Shoes;Core;NanoMesh;12281;421514,8164
+2020-09-01 00:00:00;34;Max;Price Sneakers;Sneakers;Core;UltraFoam;212839;1981532,706
+2020-09-01 00:00:00;35;Classic Price;Price Sneakers;Sneakers;Core;UltraFoam;39840;400398,6522
+2020-09-01 00:00:00;36;Hawaii;Price Sneakers;Sneakers;Core;AeroKnit;32175;547308,8526
+2020-09-01 00:00:00;37;Top Sport;Price Sneakers;Sneakers;Core;AeroKnit;19101;233994,5406
+2020-09-01 00:00:00;38;Comfort;Universe Sandals;Sandals;Core;DuraFlex;20892;584992,994
+2020-09-01 00:00:00;39;Hawaii;Universe Sandals;Sandals;Core;NanoMesh;11919;270451,5392
+2020-10-01 00:00:00;1;AeroJet;Aero Boot;Boot;Target;NanoMesh;44863;1116197,038
+2020-10-01 00:00:00;2;FlyQuest;Aero Boot;Boot;Target;LiteWeave;37726;1130293,754
+2020-10-01 00:00:00;3;AirVoyager;Aero Boot;Boot;Target;AeroKnit;23073;565772,5342
+2020-10-01 00:00:00;4;Classic;Classic Sneaker;Sneaker;Target;PowerKnit;188043;3522055,539
+2020-10-01 00:00:00;5;Brand Classic;Classic Sneaker;Sneaker;Target;PowerKnit;58224;1379929,059
+2020-10-01 00:00:00;6;National Classic;Classic Sneaker;Sneaker;Target;BioSole;35586;604265,4847
+2020-10-01 00:00:00;7;Hold Line;Designed Shoes;Shoes;Core;DynaFit;3863;139326,4642
+2020-10-01 00:00:00;8;High Bys;Designed Shoes;Shoes;Core;DynaFit;3305;130042,3141
+2020-10-01 00:00:00;9;High Iris;Designed Shoes;Shoes;Core;DynaFit;2784;107480,9833
+2020-10-01 00:00:00;10;Cone Stars;Designed Shoes;Shoes;Core;AirVent;1463;78493,26838
+2020-10-01 00:00:00;11;Wave;Infinity Boot;Boot;Target;AeroKnit;53760;1158007,053
+2020-10-01 00:00:00;12;Athena II;Infinity Boot;Boot;Target;LiteWeave;45583;1217084,061
+2020-10-01 00:00:00;13;Hiking;Infinity Boot;Boot;Target;AeroKnit;45798;1203120,346
+2020-10-01 00:00:00;14;Zeus;Infinity Boot;Boot;Target;LiteWeave;26823;665210,8529
+2020-10-01 00:00:00;15;Air;Infinity Boot;Boot;Target;LiteWeave;8981;191674,8564
+2020-10-01 00:00:00;16;Nautical Classic;Innovation Shoes;Shoes;Core;AeroKnit;196186;3870764,182
+2020-10-01 00:00:00;17;Nautical Max Force;Innovation Shoes;Shoes;Core;AeroKnit;176945;3308878,397
+2020-10-01 00:00:00;19;Mandala Life;Innovation Shoes;Shoes;Core;AeroKnit;131955;2558612,402
+2020-10-01 00:00:00;20;Merlin;Innovation Shoes;Shoes;Core;AeroKnit;126947;2888065,127
+2020-10-01 00:00:00;21;Fusion;Innovation Shoes;Shoes;Core;LiteWeave;102890;2224489,417
+2020-10-01 00:00:00;22;MachinaMetal;Metal Sandal;Sandals;Core;UltraFoam;320082;4308305,94
+2020-10-01 00:00:00;23;SteelEngineer;Metal Sandal;Sandals;Core;NanoMesh;84807;1591839,797
+2020-10-01 00:00:00;24;TitaniumTech;Metal Sandal;Sandals;Core;NanoMesh;104151;1576852,475
+2020-10-01 00:00:00;25;AlloyInnovate;Metal Sandal;Sandals;Core;NanoMesh;43260;592232,2746
+2020-10-01 00:00:00;26;SteelTech;Metal Shoes;Shoes;Core;NanoMesh;193407;3059699,575
+2020-10-01 00:00:00;27;AlloyMaster;Metal Shoes;Shoes;Core;AeroKnit;119576;2378369,423
+2020-10-01 00:00:00;28;MetalForge;Metal Shoes;Shoes;Core;NanoMesh;24533;437181,3608
+2020-10-01 00:00:00;29;IronCraft;Metal Shoes;Shoes;Core;PowerKnit;18721;482447,3469
+2020-10-01 00:00:00;30;TitaniumTech;Metal Shoes;Shoes;Core;NanoMesh;12557;435102,156
+2020-10-01 00:00:00;34;Max;Price Sneakers;Sneakers;Core;UltraFoam;206796;1937679,642
+2020-10-01 00:00:00;35;Classic Price;Price Sneakers;Sneakers;Core;UltraFoam;37596;375213,3548
+2020-10-01 00:00:00;36;Hawaii;Price Sneakers;Sneakers;Core;AeroKnit;30895;525528,687
+2020-10-01 00:00:00;37;Top Sport;Price Sneakers;Sneakers;Core;AeroKnit;18369;227228,0766
+2020-10-01 00:00:00;38;Comfort;Universe Sandals;Sandals;Core;DuraFlex;26626;762846,9672
+2020-10-01 00:00:00;39;Hawaii;Universe Sandals;Sandals;Core;NanoMesh;15199;341684,4769
+2020-11-01 00:00:00;1;AeroJet;Aero Boot;Boot;Target;NanoMesh;47616;1229465,997
+2020-11-01 00:00:00;2;FlyQuest;Aero Boot;Boot;Target;LiteWeave;40374;1189428,895
+2020-11-01 00:00:00;3;AirVoyager;Aero Boot;Boot;Target;AeroKnit;24677;609045,3708
+2020-11-01 00:00:00;4;Classic;Classic Sneaker;Sneaker;Target;PowerKnit;198423;3738304,591
+2020-11-01 00:00:00;5;Brand Classic;Classic Sneaker;Sneaker;Target;PowerKnit;62177;1479214,414
+2020-11-01 00:00:00;6;National Classic;Classic Sneaker;Sneaker;Target;BioSole;38250;644906,8974
+2020-11-01 00:00:00;7;Hold Line;Designed Shoes;Shoes;Core;DynaFit;5509;185573,3972
+2020-11-01 00:00:00;8;High Bys;Designed Shoes;Shoes;Core;DynaFit;4725;184810,187
+2020-11-01 00:00:00;9;High Iris;Designed Shoes;Shoes;Core;DynaFit;4263;167026,5804
+2020-11-01 00:00:00;10;Cone Stars;Designed Shoes;Shoes;Core;AirVent;2544;136438,8781
+2020-11-01 00:00:00;11;Wave;Infinity Boot;Boot;Target;AeroKnit;57000;1236331,215
+2020-11-01 00:00:00;12;Athena II;Infinity Boot;Boot;Target;LiteWeave;47805;1290738,131
+2020-11-01 00:00:00;13;Hiking;Infinity Boot;Boot;Target;AeroKnit;47655;1205215,376
+2020-11-01 00:00:00;14;Zeus;Infinity Boot;Boot;Target;LiteWeave;28594;722289,0296
+2020-11-01 00:00:00;15;Air;Infinity Boot;Boot;Target;LiteWeave;9508;200352,7613
+2020-11-01 00:00:00;16;Nautical Classic;Innovation Shoes;Shoes;Core;AeroKnit;198374;3947644,043
+2020-11-01 00:00:00;17;Nautical Max Force;Innovation Shoes;Shoes;Core;AeroKnit;180982;3366273,353
+2020-11-01 00:00:00;19;Mandala Life;Innovation Shoes;Shoes;Core;AeroKnit;135222;2651704,301
+2020-11-01 00:00:00;20;Merlin;Innovation Shoes;Shoes;Core;AeroKnit;130941;2971066,147
+2020-11-01 00:00:00;21;Fusion;Innovation Shoes;Shoes;Core;LiteWeave;107971;2346211,404
+2020-11-01 00:00:00;22;MachinaMetal;Metal Sandal;Sandals;Core;UltraFoam;354228;4877724,426
+2020-11-01 00:00:00;23;SteelEngineer;Metal Sandal;Sandals;Core;NanoMesh;85266;1649914,32
+2020-11-01 00:00:00;24;TitaniumTech;Metal Sandal;Sandals;Core;NanoMesh;114086;2043282,361
+2020-11-01 00:00:00;25;AlloyInnovate;Metal Sandal;Sandals;Core;NanoMesh;48634;665810,913
+2020-11-01 00:00:00;26;SteelTech;Metal Shoes;Shoes;Core;NanoMesh;217946;3445737,925
+2020-11-01 00:00:00;27;AlloyMaster;Metal Shoes;Shoes;Core;AeroKnit;135063;2718830,251
+2020-11-01 00:00:00;28;MetalForge;Metal Shoes;Shoes;Core;NanoMesh;27233;493476,9625
+2020-11-01 00:00:00;29;IronCraft;Metal Shoes;Shoes;Core;PowerKnit;21122;541579,7944
+2020-11-01 00:00:00;30;TitaniumTech;Metal Shoes;Shoes;Core;NanoMesh;13511;463849,9076
+2020-11-01 00:00:00;34;Max;Price Sneakers;Sneakers;Core;UltraFoam;202622;1886416,346
+2020-11-01 00:00:00;35;Classic Price;Price Sneakers;Sneakers;Core;UltraFoam;36309;367087,7763
+2020-11-01 00:00:00;36;Hawaii;Price Sneakers;Sneakers;Core;AeroKnit;30481;518493,2872
+2020-11-01 00:00:00;37;Top Sport;Price Sneakers;Sneakers;Core;AeroKnit;17784;216789,6015
+2020-11-01 00:00:00;38;Comfort;Universe Sandals;Sandals;Core;DuraFlex;28482;787837,8591
+2020-11-01 00:00:00;39;Hawaii;Universe Sandals;Sandals;Core;NanoMesh;16653;373206,525
+2020-12-01 00:00:00;1;AeroJet;Aero Boot;Boot;Target;NanoMesh;41576;1069339,408
+2020-12-01 00:00:00;2;FlyQuest;Aero Boot;Boot;Target;LiteWeave;36617;1074733,281
+2020-12-01 00:00:00;3;AirVoyager;Aero Boot;Boot;Target;AeroKnit;23844;592049,1614
+2020-12-01 00:00:00;4;Classic;Classic Sneaker;Sneaker;Target;PowerKnit;195764;3692111,778
+2020-12-01 00:00:00;5;Brand Classic;Classic Sneaker;Sneaker;Target;PowerKnit;60953;1445202,429
+2020-12-01 00:00:00;6;National Classic;Classic Sneaker;Sneaker;Target;BioSole;37897;645766,1726
+2020-12-01 00:00:00;7;Hold Line;Designed Shoes;Shoes;Core;DynaFit;6121;200049,0042
+2020-12-01 00:00:00;8;High Bys;Designed Shoes;Shoes;Core;DynaFit;5162;210518,5131
+2020-12-01 00:00:00;9;High Iris;Designed Shoes;Shoes;Core;DynaFit;4651;189775,1975
+2020-12-01 00:00:00;10;Cone Stars;Designed Shoes;Shoes;Core;AirVent;2779;149046,2911
+2020-12-01 00:00:00;11;Wave;Infinity Boot;Boot;Target;AeroKnit;53775;1169624,634
+2020-12-01 00:00:00;12;Athena II;Infinity Boot;Boot;Target;LiteWeave;43982;1187960,818
+2020-12-01 00:00:00;13;Hiking;Infinity Boot;Boot;Target;AeroKnit;43905;1138471,68
+2020-12-01 00:00:00;14;Zeus;Infinity Boot;Boot;Target;LiteWeave;27035;688063,9622
+2020-12-01 00:00:00;15;Air;Infinity Boot;Boot;Target;LiteWeave;8847;181458,9248
+2020-12-01 00:00:00;16;Nautical Classic;Innovation Shoes;Shoes;Core;AeroKnit;201651;3994712,616
+2020-12-01 00:00:00;17;Nautical Max Force;Innovation Shoes;Shoes;Core;AeroKnit;186808;3485839,115
+2020-12-01 00:00:00;19;Mandala Life;Innovation Shoes;Shoes;Core;AeroKnit;138787;2689704,451
+2020-12-01 00:00:00;20;Merlin;Innovation Shoes;Shoes;Core;AeroKnit;133566;3038630,669
+2020-12-01 00:00:00;21;Fusion;Innovation Shoes;Shoes;Core;LiteWeave;111480;2424707,526
+2020-12-01 00:00:00;22;MachinaMetal;Metal Sandal;Sandals;Core;UltraFoam;333292;4579442,946
+2020-12-01 00:00:00;23;SteelEngineer;Metal Sandal;Sandals;Core;NanoMesh;87036;1691110,94
+2020-12-01 00:00:00;24;TitaniumTech;Metal Sandal;Sandals;Core;NanoMesh;109875;2134887,038
+2020-12-01 00:00:00;25;AlloyInnovate;Metal Sandal;Sandals;Core;NanoMesh;47221;646460,3307
+2020-12-01 00:00:00;26;SteelTech;Metal Shoes;Shoes;Core;NanoMesh;199305;3198852,245
+2020-12-01 00:00:00;27;AlloyMaster;Metal Shoes;Shoes;Core;AeroKnit;128443;2579142,576
+2020-12-01 00:00:00;28;MetalForge;Metal Shoes;Shoes;Core;NanoMesh;25880;473101,4237
+2020-12-01 00:00:00;29;IronCraft;Metal Shoes;Shoes;Core;PowerKnit;20205;524133,2769
+2020-12-01 00:00:00;30;TitaniumTech;Metal Shoes;Shoes;Core;NanoMesh;13020;440728,9535
+2020-12-01 00:00:00;34;Max;Price Sneakers;Sneakers;Core;UltraFoam;187755;1748007,421
+2020-12-01 00:00:00;35;Classic Price;Price Sneakers;Sneakers;Core;UltraFoam;34254;350426,1696
+2020-12-01 00:00:00;36;Hawaii;Price Sneakers;Sneakers;Core;AeroKnit;28387;480602,3575
+2020-12-01 00:00:00;37;Top Sport;Price Sneakers;Sneakers;Core;AeroKnit;16474;204284,3614
+2020-12-01 00:00:00;38;Comfort;Universe Sandals;Sandals;Core;DuraFlex;24463;665888,1416
+2020-12-01 00:00:00;39;Hawaii;Universe Sandals;Sandals;Core;NanoMesh;14711;336149,7881
+2021-01-01 00:00:00;1;AeroJet;Aero Boot;Boot;Target;NanoMesh;34241;877619,8056
+2021-01-01 00:00:00;2;FlyQuest;Aero Boot;Boot;Target;LiteWeave;30684;916545,9385
+2021-01-01 00:00:00;3;AirVoyager;Aero Boot;Boot;Target;AeroKnit;18905;482100,7577
+2021-01-01 00:00:00;4;Classic;Classic Sneaker;Sneaker;Target;PowerKnit;145290;2812827,901
+2021-01-01 00:00:00;5;Brand Classic;Classic Sneaker;Sneaker;Target;PowerKnit;44476;1028306,101
+2021-01-01 00:00:00;6;National Classic;Classic Sneaker;Sneaker;Target;BioSole;28332;448503,3464
+2021-01-01 00:00:00;7;Hold Line;Designed Shoes;Shoes;Core;DynaFit;5638;163685,1632
+2021-01-01 00:00:00;8;High Bys;Designed Shoes;Shoes;Core;DynaFit;4627;177550,7164
+2021-01-01 00:00:00;9;High Iris;Designed Shoes;Shoes;Core;DynaFit;4170;148756,8695
+2021-01-01 00:00:00;10;Cone Stars;Designed Shoes;Shoes;Core;AirVent;2562;137423,8322
+2021-01-01 00:00:00;11;Wave;Infinity Boot;Boot;Target;AeroKnit;48527;1061289,1
+2021-01-01 00:00:00;12;Athena II;Infinity Boot;Boot;Target;LiteWeave;39195;1055922,763
+2021-01-01 00:00:00;13;Hiking;Infinity Boot;Boot;Target;AeroKnit;38913;1024210,823
+2021-01-01 00:00:00;14;Zeus;Infinity Boot;Boot;Target;LiteWeave;23803;602711,9232
+2021-01-01 00:00:00;15;Air;Infinity Boot;Boot;Target;LiteWeave;7886;162534,7538
+2021-01-01 00:00:00;16;Nautical Classic;Innovation Shoes;Shoes;Core;AeroKnit;176319;3485842,077
+2021-01-01 00:00:00;17;Nautical Max Force;Innovation Shoes;Shoes;Core;AeroKnit;163642;3089563,67
+2021-01-01 00:00:00;19;Mandala Life;Innovation Shoes;Shoes;Core;AeroKnit;120981;2380916,346
+2021-01-01 00:00:00;20;Merlin;Innovation Shoes;Shoes;Core;AeroKnit;117223;2676214,084
+2021-01-01 00:00:00;21;Fusion;Innovation Shoes;Shoes;Core;LiteWeave;99647;2190260,107
+2021-01-01 00:00:00;22;MachinaMetal;Metal Sandal;Sandals;Core;UltraFoam;311677;4344782,694
+2021-01-01 00:00:00;23;SteelEngineer;Metal Sandal;Sandals;Core;NanoMesh;87909;1759957,718
+2021-01-01 00:00:00;24;TitaniumTech;Metal Sandal;Sandals;Core;NanoMesh;100179;1733101,082
+2021-01-01 00:00:00;25;AlloyInnovate;Metal Sandal;Sandals;Core;NanoMesh;43504;595138,6085
+2021-01-01 00:00:00;26;SteelTech;Metal Shoes;Shoes;Core;NanoMesh;168735;2735199,183
+2021-01-01 00:00:00;27;AlloyMaster;Metal Shoes;Shoes;Core;AeroKnit;116923;2392249,838
+2021-01-01 00:00:00;28;MetalForge;Metal Shoes;Shoes;Core;NanoMesh;23955;452271,8145
+2021-01-01 00:00:00;29;IronCraft;Metal Shoes;Shoes;Core;PowerKnit;18570;487110,6576
+2021-01-01 00:00:00;30;TitaniumTech;Metal Shoes;Shoes;Core;NanoMesh;11830;412663,9203
+2021-01-01 00:00:00;34;Max;Price Sneakers;Sneakers;Core;UltraFoam;170284;1610895,855
+2021-01-01 00:00:00;35;Classic Price;Price Sneakers;Sneakers;Core;UltraFoam;30029;309604,3071
+2021-01-01 00:00:00;36;Hawaii;Price Sneakers;Sneakers;Core;AeroKnit;25537;435677,0639
+2021-01-01 00:00:00;37;Top Sport;Price Sneakers;Sneakers;Core;AeroKnit;15087;190410,1127
+2021-01-01 00:00:00;38;Comfort;Universe Sandals;Sandals;Core;DuraFlex;17343;462030,7762
+2021-01-01 00:00:00;39;Hawaii;Universe Sandals;Sandals;Core;NanoMesh;10589;239529,9723
+2021-02-01 00:00:00;1;AeroJet;Aero Boot;Boot;Target;NanoMesh;27485;698675,0521
+2021-02-01 00:00:00;2;FlyQuest;Aero Boot;Boot;Target;LiteWeave;24883;735542,8693
+2021-02-01 00:00:00;3;AirVoyager;Aero Boot;Boot;Target;AeroKnit;14115;348505,1819
+2021-02-01 00:00:00;4;Classic;Classic Sneaker;Sneaker;Target;PowerKnit;129095;2491550,567
+2021-02-01 00:00:00;5;Brand Classic;Classic Sneaker;Sneaker;Target;PowerKnit;39337;931512,0067
+2021-02-01 00:00:00;6;National Classic;Classic Sneaker;Sneaker;Target;BioSole;26566;420019,4936
+2021-02-01 00:00:00;7;Hold Line;Designed Shoes;Shoes;Core;DynaFit;3466;92899,54738
+2021-02-01 00:00:00;8;High Bys;Designed Shoes;Shoes;Core;DynaFit;2791;111941,0144
+2021-02-01 00:00:00;9;High Iris;Designed Shoes;Shoes;Core;DynaFit;2411;67383,70462
+2021-02-01 00:00:00;10;Cone Stars;Designed Shoes;Shoes;Core;AirVent;1379;73977,63248
+2021-02-01 00:00:00;11;Wave;Infinity Boot;Boot;Target;AeroKnit;39920;854304,9409
+2021-02-01 00:00:00;12;Athena II;Infinity Boot;Boot;Target;LiteWeave;32941;874266,1996
+2021-02-01 00:00:00;13;Hiking;Infinity Boot;Boot;Target;AeroKnit;32601;840132,9525
+2021-02-01 00:00:00;14;Zeus;Infinity Boot;Boot;Target;LiteWeave;19909;496541,2636
+2021-02-01 00:00:00;15;Air;Infinity Boot;Boot;Target;LiteWeave;6667;143024,6359
+2021-02-01 00:00:00;16;Nautical Classic;Innovation Shoes;Shoes;Core;AeroKnit;144802;2903287,327
+2021-02-01 00:00:00;17;Nautical Max Force;Innovation Shoes;Shoes;Core;AeroKnit;132314;2506028,414
+2021-02-01 00:00:00;19;Mandala Life;Innovation Shoes;Shoes;Core;AeroKnit;98507;1914994,406
+2021-02-01 00:00:00;20;Merlin;Innovation Shoes;Shoes;Core;AeroKnit;93469;2124570,726
+2021-02-01 00:00:00;21;Fusion;Innovation Shoes;Shoes;Core;LiteWeave;79136;1718844,569
+2021-02-01 00:00:00;22;MachinaMetal;Metal Sandal;Sandals;Core;UltraFoam;257388;3577700,406
+2021-02-01 00:00:00;23;SteelEngineer;Metal Sandal;Sandals;Core;NanoMesh;87638;1725599,998
+2021-02-01 00:00:00;24;TitaniumTech;Metal Sandal;Sandals;Core;NanoMesh;83976;1583793,753
+2021-02-01 00:00:00;25;AlloyInnovate;Metal Sandal;Sandals;Core;NanoMesh;35984;524654,2582
+2021-02-01 00:00:00;26;SteelTech;Metal Shoes;Shoes;Core;NanoMesh;128789;2110854,439
+2021-02-01 00:00:00;27;AlloyMaster;Metal Shoes;Shoes;Core;AeroKnit;94317;1919365,251
+2021-02-01 00:00:00;28;MetalForge;Metal Shoes;Shoes;Core;NanoMesh;19573;367781,0017
+2021-02-01 00:00:00;29;IronCraft;Metal Shoes;Shoes;Core;PowerKnit;15270;389252,626
+2021-02-01 00:00:00;30;TitaniumTech;Metal Shoes;Shoes;Core;NanoMesh;9981;347343,6691
+2021-02-01 00:00:00;34;Max;Price Sneakers;Sneakers;Core;UltraFoam;158445;1497306,66
+2021-02-01 00:00:00;35;Classic Price;Price Sneakers;Sneakers;Core;UltraFoam;28339;298129,6718
+2021-02-01 00:00:00;36;Hawaii;Price Sneakers;Sneakers;Core;AeroKnit;23188;388865,9624
+2021-02-01 00:00:00;37;Top Sport;Price Sneakers;Sneakers;Core;AeroKnit;14357;178317,7429
+2021-02-01 00:00:00;38;Comfort;Universe Sandals;Sandals;Core;DuraFlex;12702;353635,1671
+2021-02-01 00:00:00;39;Hawaii;Universe Sandals;Sandals;Core;NanoMesh;7539;171061,6886
+2021-03-01 00:00:00;1;AeroJet;Aero Boot;Boot;Target;NanoMesh;28808;722238,2535
+2021-03-01 00:00:00;2;FlyQuest;Aero Boot;Boot;Target;LiteWeave;25475;745401,3974
+2021-03-01 00:00:00;3;AirVoyager;Aero Boot;Boot;Target;AeroKnit;12654;312698,7986
+2021-03-01 00:00:00;4;Classic;Classic Sneaker;Sneaker;Target;PowerKnit;127252;2457254,269
+2021-03-01 00:00:00;5;Brand Classic;Classic Sneaker;Sneaker;Target;PowerKnit;38408;941766,9845
+2021-03-01 00:00:00;6;National Classic;Classic Sneaker;Sneaker;Target;BioSole;25687;380947,3457
+2021-03-01 00:00:00;7;Hold Line;Designed Shoes;Shoes;Core;DynaFit;3147;76172,53748
+2021-03-01 00:00:00;8;High Bys;Designed Shoes;Shoes;Core;DynaFit;2597;105064,7752
+2021-03-01 00:00:00;9;High Iris;Designed Shoes;Shoes;Core;DynaFit;2199;63513,23869
+2021-03-01 00:00:00;10;Cone Stars;Designed Shoes;Shoes;Core;AirVent;1254;67264,79119
+2021-03-01 00:00:00;11;Wave;Infinity Boot;Boot;Target;AeroKnit;37665;807544,9301
+2021-03-01 00:00:00;12;Athena II;Infinity Boot;Boot;Target;LiteWeave;31401;832128,6974
+2021-03-01 00:00:00;13;Hiking;Infinity Boot;Boot;Target;AeroKnit;30896;788477,3845
+2021-03-01 00:00:00;14;Zeus;Infinity Boot;Boot;Target;LiteWeave;18761;463219,1645
+2021-03-01 00:00:00;15;Air;Infinity Boot;Boot;Target;LiteWeave;6227;132017,4468
+2021-03-01 00:00:00;16;Nautical Classic;Innovation Shoes;Shoes;Core;AeroKnit;119091;2373489,378
+2021-03-01 00:00:00;17;Nautical Max Force;Innovation Shoes;Shoes;Core;AeroKnit;107877;2030255,134
+2021-03-01 00:00:00;19;Mandala Life;Innovation Shoes;Shoes;Core;AeroKnit;83604;1602707,839
+2021-03-01 00:00:00;20;Merlin;Innovation Shoes;Shoes;Core;AeroKnit;74907;1653198,876
+2021-03-01 00:00:00;21;Fusion;Innovation Shoes;Shoes;Core;LiteWeave;65112;1394051,299
+2021-03-01 00:00:00;22;MachinaMetal;Metal Sandal;Sandals;Core;UltraFoam;265208;3667829,696
+2021-03-01 00:00:00;23;SteelEngineer;Metal Sandal;Sandals;Core;NanoMesh;86907;1651242,33
+2021-03-01 00:00:00;24;TitaniumTech;Metal Sandal;Sandals;Core;NanoMesh;86153;1513720,443
+2021-03-01 00:00:00;25;AlloyInnovate;Metal Sandal;Sandals;Core;NanoMesh;36145;487599,0662
+2021-03-01 00:00:00;26;SteelTech;Metal Shoes;Shoes;Core;NanoMesh;138844;2232618,635
+2021-03-01 00:00:00;27;AlloyMaster;Metal Shoes;Shoes;Core;AeroKnit;95147;1922937,042
+2021-03-01 00:00:00;28;MetalForge;Metal Shoes;Shoes;Core;NanoMesh;20350;382590,8199
+2021-03-01 00:00:00;29;IronCraft;Metal Shoes;Shoes;Core;PowerKnit;15414;412955,7364
+2021-03-01 00:00:00;30;TitaniumTech;Metal Shoes;Shoes;Core;NanoMesh;9900;347791,4695
+2021-03-01 00:00:00;34;Max;Price Sneakers;Sneakers;Core;UltraFoam;154229;1469806,808
+2021-03-01 00:00:00;35;Classic Price;Price Sneakers;Sneakers;Core;UltraFoam;32715;345147,5188
+2021-03-01 00:00:00;36;Hawaii;Price Sneakers;Sneakers;Core;AeroKnit;23643;392958,8025
+2021-03-01 00:00:00;37;Top Sport;Price Sneakers;Sneakers;Core;AeroKnit;14528;180740,6829
+2021-03-01 00:00:00;38;Comfort;Universe Sandals;Sandals;Core;DuraFlex;14422;346284,6863
+2021-03-01 00:00:00;39;Hawaii;Universe Sandals;Sandals;Core;NanoMesh;8503;184181,863
+2021-04-01 00:00:00;1;AeroJet;Aero Boot;Boot;Target;NanoMesh;31595;784205,318
+2021-04-01 00:00:00;2;FlyQuest;Aero Boot;Boot;Target;LiteWeave;28256;822537,6684
+2021-04-01 00:00:00;3;AirVoyager;Aero Boot;Boot;Target;AeroKnit;13509;340044,23
+2021-04-01 00:00:00;4;Classic;Classic Sneaker;Sneaker;Target;PowerKnit;131742;2575566,852
+2021-04-01 00:00:00;5;Brand Classic;Classic Sneaker;Sneaker;Target;PowerKnit;39952;984026,3534
+2021-04-01 00:00:00;6;National Classic;Classic Sneaker;Sneaker;Target;BioSole;26888;403331,5563
+2021-04-01 00:00:00;7;Hold Line;Designed Shoes;Shoes;Core;DynaFit;2459;54914,07161
+2021-04-01 00:00:00;8;High Bys;Designed Shoes;Shoes;Core;DynaFit;2099;73438,87361
+2021-04-01 00:00:00;9;High Iris;Designed Shoes;Shoes;Core;DynaFit;1809;50177,52258
+2021-04-01 00:00:00;10;Cone Stars;Designed Shoes;Shoes;Core;AirVent;899;48232,44657
+2021-04-01 00:00:00;11;Wave;Infinity Boot;Boot;Target;AeroKnit;40979;874099,0704
+2021-04-01 00:00:00;12;Athena II;Infinity Boot;Boot;Target;LiteWeave;33729;900233,8341
+2021-04-01 00:00:00;13;Hiking;Infinity Boot;Boot;Target;AeroKnit;33795;845889,0462
+2021-04-01 00:00:00;14;Zeus;Infinity Boot;Boot;Target;LiteWeave;20371;482999,049
+2021-04-01 00:00:00;15;Air;Infinity Boot;Boot;Target;LiteWeave;6694;146816,0127
+2021-04-01 00:00:00;16;Nautical Classic;Innovation Shoes;Shoes;Core;AeroKnit;128088;2546401,272
+2021-04-01 00:00:00;17;Nautical Max Force;Innovation Shoes;Shoes;Core;AeroKnit;113898;2108255,436
+2021-04-01 00:00:00;19;Mandala Life;Innovation Shoes;Shoes;Core;AeroKnit;87868;1671262,978
+2021-04-01 00:00:00;20;Merlin;Innovation Shoes;Shoes;Core;AeroKnit;78327;1593962,582
+2021-04-01 00:00:00;21;Fusion;Innovation Shoes;Shoes;Core;LiteWeave;68972;1447047,141
+2021-04-01 00:00:00;22;MachinaMetal;Metal Sandal;Sandals;Core;UltraFoam;269851;3769827,704
+2021-04-01 00:00:00;23;SteelEngineer;Metal Sandal;Sandals;Core;NanoMesh;87988;1726325,902
+2021-04-01 00:00:00;24;TitaniumTech;Metal Sandal;Sandals;Core;NanoMesh;90792;1662416,223
+2021-04-01 00:00:00;25;AlloyInnovate;Metal Sandal;Sandals;Core;NanoMesh;36746;532820,258
+2021-04-01 00:00:00;26;SteelTech;Metal Shoes;Shoes;Core;NanoMesh;145525;2431723,902
+2021-04-01 00:00:00;27;AlloyMaster;Metal Shoes;Shoes;Core;AeroKnit;99369;2009255,164
+2021-04-01 00:00:00;28;MetalForge;Metal Shoes;Shoes;Core;NanoMesh;20823;386689,9687
+2021-04-01 00:00:00;29;IronCraft;Metal Shoes;Shoes;Core;PowerKnit;15985;426320,6934
+2021-04-01 00:00:00;30;TitaniumTech;Metal Shoes;Shoes;Core;NanoMesh;10232;365599,3375
+2021-04-01 00:00:00;34;Max;Price Sneakers;Sneakers;Core;UltraFoam;165402;1556438,679
+2021-04-01 00:00:00;35;Classic Price;Price Sneakers;Sneakers;Core;UltraFoam;36964;388862,8564
+2021-04-01 00:00:00;36;Hawaii;Price Sneakers;Sneakers;Core;AeroKnit;25730;425580,8684
+2021-04-01 00:00:00;37;Top Sport;Price Sneakers;Sneakers;Core;AeroKnit;15456;193206,6689
+2021-04-01 00:00:00;38;Comfort;Universe Sandals;Sandals;Core;DuraFlex;16182;197589,1425
+2021-04-01 00:00:00;39;Hawaii;Universe Sandals;Sandals;Core;NanoMesh;9510;199538,4622
+2021-05-01 00:00:00;1;AeroJet;Aero Boot;Boot;Target;NanoMesh;32308;799970,598
+2021-05-01 00:00:00;2;FlyQuest;Aero Boot;Boot;Target;LiteWeave;28046;843652,8351
+2021-05-01 00:00:00;3;AirVoyager;Aero Boot;Boot;Target;AeroKnit;13487;338540,529
+2021-05-01 00:00:00;4;Classic;Classic Sneaker;Sneaker;Target;PowerKnit;138343;2707389,329
+2021-05-01 00:00:00;5;Brand Classic;Classic Sneaker;Sneaker;Target;PowerKnit;41929;1029365,324
+2021-05-01 00:00:00;6;National Classic;Classic Sneaker;Sneaker;Target;BioSole;26043;497421,9808
+2021-05-01 00:00:00;7;Hold Line;Designed Shoes;Shoes;Core;DynaFit;2066;49744,77918
+2021-05-01 00:00:00;8;High Bys;Designed Shoes;Shoes;Core;DynaFit;1698;68894,26249
+2021-05-01 00:00:00;9;High Iris;Designed Shoes;Shoes;Core;DynaFit;1476;41588,94461
+2021-05-01 00:00:00;10;Cone Stars;Designed Shoes;Shoes;Core;AirVent;732;39292,09361
+2021-05-01 00:00:00;11;Wave;Infinity Boot;Boot;Target;AeroKnit;44299;945788,8764
+2021-05-01 00:00:00;12;Athena II;Infinity Boot;Boot;Target;LiteWeave;36978;988076,2257
+2021-05-01 00:00:00;13;Hiking;Infinity Boot;Boot;Target;AeroKnit;36794;924656,503
+2021-05-01 00:00:00;14;Zeus;Infinity Boot;Boot;Target;LiteWeave;21838;521723,4697
+2021-05-01 00:00:00;15;Air;Infinity Boot;Boot;Target;LiteWeave;7227;148373,996
+2021-05-01 00:00:00;16;Nautical Classic;Innovation Shoes;Shoes;Core;AeroKnit;137354;2748461,028
+2021-05-01 00:00:00;17;Nautical Max Force;Innovation Shoes;Shoes;Core;AeroKnit;124449;2355822,358
+2021-05-01 00:00:00;19;Mandala Life;Innovation Shoes;Shoes;Core;AeroKnit;92604;1802079,374
+2021-05-01 00:00:00;20;Merlin;Innovation Shoes;Shoes;Core;AeroKnit;84007;1784323,714
+2021-05-01 00:00:00;21;Fusion;Innovation Shoes;Shoes;Core;LiteWeave;73419;1577045,605
+2021-05-01 00:00:00;22;MachinaMetal;Metal Sandal;Sandals;Core;UltraFoam;276670;3856779,926
+2021-05-01 00:00:00;23;SteelEngineer;Metal Sandal;Sandals;Core;NanoMesh;88241;1801883,094
+2021-05-01 00:00:00;24;TitaniumTech;Metal Sandal;Sandals;Core;NanoMesh;89529;1661665,328
+2021-05-01 00:00:00;25;AlloyInnovate;Metal Sandal;Sandals;Core;NanoMesh;36628;512438,9362
+2021-05-01 00:00:00;26;SteelTech;Metal Shoes;Shoes;Core;NanoMesh;145055;2436932,03
+2021-05-01 00:00:00;27;AlloyMaster;Metal Shoes;Shoes;Core;AeroKnit;99393;2016686,965
+2021-05-01 00:00:00;28;MetalForge;Metal Shoes;Shoes;Core;NanoMesh;20881;402803,9659
+2021-05-01 00:00:00;29;IronCraft;Metal Shoes;Shoes;Core;PowerKnit;16144;426530,4833
+2021-05-01 00:00:00;30;TitaniumTech;Metal Shoes;Shoes;Core;NanoMesh;10266;350911,3058
+2021-05-01 00:00:00;34;Max;Price Sneakers;Sneakers;Core;UltraFoam;173023;1652374,465
+2021-05-01 00:00:00;35;Classic Price;Price Sneakers;Sneakers;Core;UltraFoam;33837;358340,9522
+2021-05-01 00:00:00;36;Hawaii;Price Sneakers;Sneakers;Core;AeroKnit;27117;453134,8882
+2021-05-01 00:00:00;37;Top Sport;Price Sneakers;Sneakers;Core;AeroKnit;15888;204796,6606
+2021-05-01 00:00:00;38;Comfort;Universe Sandals;Sandals;Core;DuraFlex;17439;258274,6352
+2021-05-01 00:00:00;39;Hawaii;Universe Sandals;Sandals;Core;NanoMesh;10261;231097,0489
+2021-06-01 00:00:00;1;AeroJet;Aero Boot;Boot;Target;NanoMesh;30266;740610,4267
+2021-06-01 00:00:00;2;FlyQuest;Aero Boot;Boot;Target;LiteWeave;26178;774894,6466
+2021-06-01 00:00:00;3;AirVoyager;Aero Boot;Boot;Target;AeroKnit;12554;324034,5243
+2021-06-01 00:00:00;4;Classic;Classic Sneaker;Sneaker;Target;PowerKnit;145825;2881507,669
+2021-06-01 00:00:00;5;Brand Classic;Classic Sneaker;Sneaker;Target;PowerKnit;44392;1116037,013
+2021-06-01 00:00:00;6;National Classic;Classic Sneaker;Sneaker;Target;BioSole;27036;544240,495
+2021-06-01 00:00:00;7;Hold Line;Designed Shoes;Shoes;Core;DynaFit;1133;30453,89011
+2021-06-01 00:00:00;8;High Bys;Designed Shoes;Shoes;Core;DynaFit;928;38166,7539
+2021-06-01 00:00:00;9;High Iris;Designed Shoes;Shoes;Core;DynaFit;801;23250,36628
+2021-06-01 00:00:00;10;Cone Stars;Designed Shoes;Shoes;Core;AirVent;443;23775,27762
+2021-06-01 00:00:00;11;Wave;Infinity Boot;Boot;Target;AeroKnit;45325;1005310,53
+2021-06-01 00:00:00;12;Athena II;Infinity Boot;Boot;Target;LiteWeave;38129;1026440,24
+2021-06-01 00:00:00;13;Hiking;Infinity Boot;Boot;Target;AeroKnit;37700;982467,1126
+2021-06-01 00:00:00;14;Zeus;Infinity Boot;Boot;Target;LiteWeave;22434;568043,5609
+2021-06-01 00:00:00;15;Air;Infinity Boot;Boot;Target;LiteWeave;7514;153750,3606
+2021-06-01 00:00:00;16;Nautical Classic;Innovation Shoes;Shoes;Core;AeroKnit;145007;2866791,414
+2021-06-01 00:00:00;17;Nautical Max Force;Innovation Shoes;Shoes;Core;AeroKnit;130457;2538705,89
+2021-06-01 00:00:00;19;Mandala Life;Innovation Shoes;Shoes;Core;AeroKnit;97124;1966780,86
+2021-06-01 00:00:00;20;Merlin;Innovation Shoes;Shoes;Core;AeroKnit;88259;1845501,388
+2021-06-01 00:00:00;21;Fusion;Innovation Shoes;Shoes;Core;LiteWeave;75666;1617751,99
+2021-06-01 00:00:00;22;MachinaMetal;Metal Sandal;Sandals;Core;UltraFoam;275031;3822937,577
+2021-06-01 00:00:00;23;SteelEngineer;Metal Sandal;Sandals;Core;NanoMesh;86926;1771558,63
+2021-06-01 00:00:00;24;TitaniumTech;Metal Sandal;Sandals;Core;NanoMesh;87712;1547240,74
+2021-06-01 00:00:00;25;AlloyInnovate;Metal Sandal;Sandals;Core;NanoMesh;36093;548261,8075
+2021-06-01 00:00:00;26;SteelTech;Metal Shoes;Shoes;Core;NanoMesh;145740;2371201,101
+2021-06-01 00:00:00;27;AlloyMaster;Metal Shoes;Shoes;Core;AeroKnit;97906;2036456,548
+2021-06-01 00:00:00;28;MetalForge;Metal Shoes;Shoes;Core;NanoMesh;20483;391849,2183
+2021-06-01 00:00:00;29;IronCraft;Metal Shoes;Shoes;Core;PowerKnit;16158;429011,8906
+2021-06-01 00:00:00;30;TitaniumTech;Metal Shoes;Shoes;Core;NanoMesh;10295;356001,6872
+2021-06-01 00:00:00;34;Max;Price Sneakers;Sneakers;Core;UltraFoam;178101;1711552,992
+2021-06-01 00:00:00;35;Classic Price;Price Sneakers;Sneakers;Core;UltraFoam;29398;313090,2249
+2021-06-01 00:00:00;36;Hawaii;Price Sneakers;Sneakers;Core;AeroKnit;26847;456131,1536
+2021-06-01 00:00:00;37;Top Sport;Price Sneakers;Sneakers;Core;AeroKnit;15763;206654,2956
+2021-06-01 00:00:00;38;Comfort;Universe Sandals;Sandals;Core;DuraFlex;18365;321768,1972
+2021-06-01 00:00:00;39;Hawaii;Universe Sandals;Sandals;Core;NanoMesh;10890;247973,6346
+2021-07-01 00:00:00;1;AeroJet;Aero Boot;Boot;Target;NanoMesh;28998;709307,7111
+2021-07-01 00:00:00;2;FlyQuest;Aero Boot;Boot;Target;LiteWeave;24142;706421,5851
+2021-07-01 00:00:00;3;AirVoyager;Aero Boot;Boot;Target;AeroKnit;12149;306888,0675
+2021-07-01 00:00:00;4;Classic;Classic Sneaker;Sneaker;Target;PowerKnit;156519;3125693,071
+2021-07-01 00:00:00;5;Brand Classic;Classic Sneaker;Sneaker;Target;PowerKnit;48110;1222485,791
+2021-07-01 00:00:00;6;National Classic;Classic Sneaker;Sneaker;Target;BioSole;28599;554833,1196
+2021-07-01 00:00:00;7;Hold Line;Designed Shoes;Shoes;Core;DynaFit;2135;44174,41461
+2021-07-01 00:00:00;8;High Bys;Designed Shoes;Shoes;Core;DynaFit;1916;77864,15588
+2021-07-01 00:00:00;9;High Iris;Designed Shoes;Shoes;Core;DynaFit;1584;45294,25204
+2021-07-01 00:00:00;10;Cone Stars;Designed Shoes;Shoes;Core;AirVent;773;41458,99272
+2021-07-01 00:00:00;11;Wave;Infinity Boot;Boot;Target;AeroKnit;46419;1029580,695
+2021-07-01 00:00:00;12;Athena II;Infinity Boot;Boot;Target;LiteWeave;39168;1054019,374
+2021-07-01 00:00:00;13;Hiking;Infinity Boot;Boot;Target;AeroKnit;38460;971134,5294
+2021-07-01 00:00:00;14;Zeus;Infinity Boot;Boot;Target;LiteWeave;23211;586082,073
+2021-07-01 00:00:00;15;Air;Infinity Boot;Boot;Target;LiteWeave;7768;130124,8161
+2021-07-01 00:00:00;16;Nautical Classic;Innovation Shoes;Shoes;Core;AeroKnit;150762;3143400,907
+2021-07-01 00:00:00;17;Nautical Max Force;Innovation Shoes;Shoes;Core;AeroKnit;136435;2474938,98
+2021-07-01 00:00:00;19;Mandala Life;Innovation Shoes;Shoes;Core;AeroKnit;100605;2034251,07
+2021-07-01 00:00:00;20;Merlin;Innovation Shoes;Shoes;Core;AeroKnit;91700;2043096,024
+2021-07-01 00:00:00;21;Fusion;Innovation Shoes;Shoes;Core;LiteWeave;78303;1699960,21
+2021-07-01 00:00:00;22;MachinaMetal;Metal Sandal;Sandals;Core;UltraFoam;281514;3876455,598
+2021-07-01 00:00:00;23;SteelEngineer;Metal Sandal;Sandals;Core;NanoMesh;84629;1666346,119
+2021-07-01 00:00:00;24;TitaniumTech;Metal Sandal;Sandals;Core;NanoMesh;87888;1519595,391
+2021-07-01 00:00:00;25;AlloyInnovate;Metal Sandal;Sandals;Core;NanoMesh;36452;553715,0061
+2021-07-01 00:00:00;26;SteelTech;Metal Shoes;Shoes;Core;NanoMesh;143886;2415856,592
+2021-07-01 00:00:00;27;AlloyMaster;Metal Shoes;Shoes;Core;AeroKnit;97804;2028466,27
+2021-07-01 00:00:00;28;MetalForge;Metal Shoes;Shoes;Core;NanoMesh;20606;388024,3023
+2021-07-01 00:00:00;29;IronCraft;Metal Shoes;Shoes;Core;PowerKnit;16035;436318,7961
+2021-07-01 00:00:00;30;TitaniumTech;Metal Shoes;Shoes;Core;NanoMesh;10267;329378,71
+2021-07-01 00:00:00;34;Max;Price Sneakers;Sneakers;Core;UltraFoam;174162;1664989,212
+2021-07-01 00:00:00;35;Classic Price;Price Sneakers;Sneakers;Core;UltraFoam;22794;238204,5092
+2021-07-01 00:00:00;36;Hawaii;Price Sneakers;Sneakers;Core;AeroKnit;25243;426870,514
+2021-07-01 00:00:00;37;Top Sport;Price Sneakers;Sneakers;Core;AeroKnit;15174;198938,3886
+2021-07-01 00:00:00;38;Comfort;Universe Sandals;Sandals;Core;DuraFlex;17993;247945,0051
+2021-07-01 00:00:00;39;Hawaii;Universe Sandals;Sandals;Core;NanoMesh;10641;256136,0698
+2021-08-01 00:00:00;1;AeroJet;Aero Boot;Boot;Target;NanoMesh;28714;676800,2021
+2021-08-01 00:00:00;2;FlyQuest;Aero Boot;Boot;Target;LiteWeave;24442;692949,3617
+2021-08-01 00:00:00;3;AirVoyager;Aero Boot;Boot;Target;AeroKnit;11703;285914,3829
+2021-08-01 00:00:00;4;Classic;Classic Sneaker;Sneaker;Target;PowerKnit;168118;3369103,604
+2021-08-01 00:00:00;5;Brand Classic;Classic Sneaker;Sneaker;Target;PowerKnit;51753;1267959,482
+2021-08-01 00:00:00;6;National Classic;Classic Sneaker;Sneaker;Target;BioSole;32700;668399,9155
+2021-08-01 00:00:00;7;Hold Line;Designed Shoes;Shoes;Core;DynaFit;2621;41265,59659
+2021-08-01 00:00:00;8;High Bys;Designed Shoes;Shoes;Core;DynaFit;2408;99765,72025
+2021-08-01 00:00:00;9;High Iris;Designed Shoes;Shoes;Core;DynaFit;1989;57246,64637
+2021-08-01 00:00:00;10;Cone Stars;Designed Shoes;Shoes;Core;AirVent;1092;58597,19475
+2021-08-01 00:00:00;11;Wave;Infinity Boot;Boot;Target;AeroKnit;47412;1023165,536
+2021-08-01 00:00:00;12;Athena II;Infinity Boot;Boot;Target;LiteWeave;38760;1006986,083
+2021-08-01 00:00:00;13;Hiking;Infinity Boot;Boot;Target;AeroKnit;39191;890047,2733
+2021-08-01 00:00:00;14;Zeus;Infinity Boot;Boot;Target;LiteWeave;23551;526376,4429
+2021-08-01 00:00:00;15;Air;Infinity Boot;Boot;Target;LiteWeave;7885;160149,7591
+2021-08-01 00:00:00;16;Nautical Classic;Innovation Shoes;Shoes;Core;AeroKnit;153511;3174625,756
+2021-08-01 00:00:00;17;Nautical Max Force;Innovation Shoes;Shoes;Core;AeroKnit;139602;2750161,36
+2021-08-01 00:00:00;19;Mandala Life;Innovation Shoes;Shoes;Core;AeroKnit;106046;2140017,48
+2021-08-01 00:00:00;20;Merlin;Innovation Shoes;Shoes;Core;AeroKnit;95434;2267513,655
+2021-08-01 00:00:00;21;Fusion;Innovation Shoes;Shoes;Core;LiteWeave;81297;1838133,364
+2021-08-01 00:00:00;22;MachinaMetal;Metal Sandal;Sandals;Core;UltraFoam;309863;4313305,789
+2021-08-01 00:00:00;23;SteelEngineer;Metal Sandal;Sandals;Core;NanoMesh;85083;1637006,174
+2021-08-01 00:00:00;24;TitaniumTech;Metal Sandal;Sandals;Core;NanoMesh;99600;1677264,212
+2021-08-01 00:00:00;25;AlloyInnovate;Metal Sandal;Sandals;Core;NanoMesh;40599;611830,3327
+2021-08-01 00:00:00;26;SteelTech;Metal Shoes;Shoes;Core;NanoMesh;158654;2636829,859
+2021-08-01 00:00:00;27;AlloyMaster;Metal Shoes;Shoes;Core;AeroKnit;108311;2282113,678
+2021-08-01 00:00:00;28;MetalForge;Metal Shoes;Shoes;Core;NanoMesh;23267;442546,1208
+2021-08-01 00:00:00;29;IronCraft;Metal Shoes;Shoes;Core;PowerKnit;17687;482692,3915
+2021-08-01 00:00:00;30;TitaniumTech;Metal Shoes;Shoes;Core;NanoMesh;11507;314274,3004
+2021-08-01 00:00:00;34;Max;Price Sneakers;Sneakers;Core;UltraFoam;167694;1621604,719
+2021-08-01 00:00:00;35;Classic Price;Price Sneakers;Sneakers;Core;UltraFoam;24702;262586,1959
+2021-08-01 00:00:00;36;Hawaii;Price Sneakers;Sneakers;Core;AeroKnit;24383;413544,5791
+2021-08-01 00:00:00;37;Top Sport;Price Sneakers;Sneakers;Core;AeroKnit;14692;195561,3464
+2021-08-01 00:00:00;38;Comfort;Universe Sandals;Sandals;Core;DuraFlex;17648;484986,5012
+2021-08-01 00:00:00;39;Hawaii;Universe Sandals;Sandals;Core;NanoMesh;10454;259155,3524
+2021-09-01 00:00:00;1;AeroJet;Aero Boot;Boot;Target;NanoMesh;23661;557691,5195
+2021-09-01 00:00:00;2;FlyQuest;Aero Boot;Boot;Target;LiteWeave;20140;600777,296
+2021-09-01 00:00:00;3;AirVoyager;Aero Boot;Boot;Target;AeroKnit;10051;248473,2756
+2021-09-01 00:00:00;4;Classic;Classic Sneaker;Sneaker;Target;PowerKnit;169871;3441595,658
+2021-09-01 00:00:00;5;Brand Classic;Classic Sneaker;Sneaker;Target;PowerKnit;52556;1298669,036
+2021-09-01 00:00:00;6;National Classic;Classic Sneaker;Sneaker;Target;BioSole;32995;684987,1126
+2021-09-01 00:00:00;7;Hold Line;Designed Shoes;Shoes;Core;DynaFit;3193;74981,19881
+2021-09-01 00:00:00;8;High Bys;Designed Shoes;Shoes;Core;DynaFit;2924;128759,9944
+2021-09-01 00:00:00;9;High Iris;Designed Shoes;Shoes;Core;DynaFit;2440;72996,97955
+2021-09-01 00:00:00;10;Cone Stars;Designed Shoes;Shoes;Core;AirVent;1449;78286,51647
+2021-09-01 00:00:00;11;Wave;Infinity Boot;Boot;Target;AeroKnit;49060;1078845,198
+2021-09-01 00:00:00;12;Athena II;Infinity Boot;Boot;Target;LiteWeave;40520;1059202,726
+2021-09-01 00:00:00;13;Hiking;Infinity Boot;Boot;Target;AeroKnit;40870;916325,5981
+2021-09-01 00:00:00;14;Zeus;Infinity Boot;Boot;Target;LiteWeave;24188;633741,286
+2021-09-01 00:00:00;15;Air;Infinity Boot;Boot;Target;LiteWeave;8178;152687,5693
+2021-09-01 00:00:00;16;Nautical Classic;Innovation Shoes;Shoes;Core;AeroKnit;152221;3134239,182
+2021-09-01 00:00:00;17;Nautical Max Force;Innovation Shoes;Shoes;Core;AeroKnit;135308;2691284,614
+2021-09-01 00:00:00;19;Mandala Life;Innovation Shoes;Shoes;Core;AeroKnit;102423;2104795,041
+2021-09-01 00:00:00;20;Merlin;Innovation Shoes;Shoes;Core;AeroKnit;95463;2277758,324
+2021-09-01 00:00:00;21;Fusion;Innovation Shoes;Shoes;Core;LiteWeave;81446;1752722,217
+2021-09-01 00:00:00;22;MachinaMetal;Metal Sandal;Sandals;Core;UltraFoam;332023;4615125,748
+2021-09-01 00:00:00;23;SteelEngineer;Metal Sandal;Sandals;Core;NanoMesh;85052;1560714,9
+2021-09-01 00:00:00;24;TitaniumTech;Metal Sandal;Sandals;Core;NanoMesh;108953;1941554,595
+2021-09-01 00:00:00;25;AlloyInnovate;Metal Sandal;Sandals;Core;NanoMesh;44208;664896,2825
+2021-09-01 00:00:00;26;SteelTech;Metal Shoes;Shoes;Core;NanoMesh;164697;2760321,788
+2021-09-01 00:00:00;27;AlloyMaster;Metal Shoes;Shoes;Core;AeroKnit;118957;2446956,254
+2021-09-01 00:00:00;28;MetalForge;Metal Shoes;Shoes;Core;NanoMesh;25585;500452,4262
+2021-09-01 00:00:00;29;IronCraft;Metal Shoes;Shoes;Core;PowerKnit;18637;514955,0641
+2021-09-01 00:00:00;30;TitaniumTech;Metal Shoes;Shoes;Core;NanoMesh;12517;351746,9442
+2021-09-01 00:00:00;31;Nyc Urban;NYCs Shoes;Shoes;Core;LiteWeave;719;20216,20751
+2021-09-01 00:00:00;34;Max;Price Sneakers;Sneakers;Core;UltraFoam;159571;1543055,646
+2021-09-01 00:00:00;35;Classic Price;Price Sneakers;Sneakers;Core;UltraFoam;26497;281401,1407
+2021-09-01 00:00:00;36;Hawaii;Price Sneakers;Sneakers;Core;AeroKnit;24064;414391,0031
+2021-09-01 00:00:00;37;Top Sport;Price Sneakers;Sneakers;Core;AeroKnit;14242;185016,161
+2021-09-01 00:00:00;38;Comfort;Universe Sandals;Sandals;Core;DuraFlex;17436;441493,9016
+2021-09-01 00:00:00;39;Hawaii;Universe Sandals;Sandals;Core;NanoMesh;10072;242440,8938
+2021-10-01 00:00:00;1;AeroJet;Aero Boot;Boot;Target;NanoMesh;25743;530567,2386
+2021-10-01 00:00:00;2;FlyQuest;Aero Boot;Boot;Target;LiteWeave;22114;619192,4059
+2021-10-01 00:00:00;3;AirVoyager;Aero Boot;Boot;Target;AeroKnit;10513;254633,9288
+2021-10-01 00:00:00;4;Classic;Classic Sneaker;Sneaker;Target;PowerKnit;213533;4409471,173
+2021-10-01 00:00:00;5;Brand Classic;Classic Sneaker;Sneaker;Target;PowerKnit;65726;1629353,808
+2021-10-01 00:00:00;6;National Classic;Classic Sneaker;Sneaker;Target;BioSole;40086;812555,0787
+2021-10-01 00:00:00;7;Hold Line;Designed Shoes;Shoes;Core;DynaFit;2915;54254,22326
+2021-10-01 00:00:00;8;High Bys;Designed Shoes;Shoes;Core;DynaFit;2756;121408,873
+2021-10-01 00:00:00;9;High Iris;Designed Shoes;Shoes;Core;DynaFit;2331;67714,08943
+2021-10-01 00:00:00;10;Cone Stars;Designed Shoes;Shoes;Core;AirVent;1471;77681,0493
+2021-10-01 00:00:00;11;Wave;Infinity Boot;Boot;Target;AeroKnit;50835;1139722,598
+2021-10-01 00:00:00;12;Athena II;Infinity Boot;Boot;Target;LiteWeave;42487;1126348,111
+2021-10-01 00:00:00;13;Hiking;Infinity Boot;Boot;Target;AeroKnit;42874;921363,9985
+2021-10-01 00:00:00;14;Zeus;Infinity Boot;Boot;Target;LiteWeave;25197;605745,3774
+2021-10-01 00:00:00;15;Air;Infinity Boot;Boot;Target;LiteWeave;8698;167098,2201
+2021-10-01 00:00:00;16;Nautical Classic;Innovation Shoes;Shoes;Core;AeroKnit;165669;3407824,234
+2021-10-01 00:00:00;17;Nautical Max Force;Innovation Shoes;Shoes;Core;AeroKnit;145458;2858268,171
+2021-10-01 00:00:00;19;Mandala Life;Innovation Shoes;Shoes;Core;AeroKnit;107892;2197772,326
+2021-10-01 00:00:00;20;Merlin;Innovation Shoes;Shoes;Core;AeroKnit;105313;2344286,44
+2021-10-01 00:00:00;21;Fusion;Innovation Shoes;Shoes;Core;LiteWeave;88234;2045266,922
+2021-10-01 00:00:00;22;MachinaMetal;Metal Sandal;Sandals;Core;UltraFoam;370330;5154998,87
+2021-10-01 00:00:00;23;SteelEngineer;Metal Sandal;Sandals;Core;NanoMesh;87211;1705863,861
+2021-10-01 00:00:00;24;TitaniumTech;Metal Sandal;Sandals;Core;NanoMesh;121910;2002986,911
+2021-10-01 00:00:00;25;AlloyInnovate;Metal Sandal;Sandals;Core;NanoMesh;49529;744917,4351
+2021-10-01 00:00:00;26;SteelTech;Metal Shoes;Shoes;Core;NanoMesh;189767;3191891,114
+2021-10-01 00:00:00;27;AlloyMaster;Metal Shoes;Shoes;Core;AeroKnit;133052;2710271,878
+2021-10-01 00:00:00;28;MetalForge;Metal Shoes;Shoes;Core;NanoMesh;28075;548312,9115
+2021-10-01 00:00:00;29;IronCraft;Metal Shoes;Shoes;Core;PowerKnit;20866;569225,634
+2021-10-01 00:00:00;30;TitaniumTech;Metal Shoes;Shoes;Core;NanoMesh;13968;385679,8978
+2021-10-01 00:00:00;31;Nyc Urban;NYCs Shoes;Shoes;Core;LiteWeave;472;14791,93707
+2021-10-01 00:00:00;34;Max;Price Sneakers;Sneakers;Core;UltraFoam;167749;1612069,05
+2021-10-01 00:00:00;35;Classic Price;Price Sneakers;Sneakers;Core;UltraFoam;34444;369241,7537
+2021-10-01 00:00:00;36;Hawaii;Price Sneakers;Sneakers;Core;AeroKnit;25485;453638,4758
+2021-10-01 00:00:00;37;Top Sport;Price Sneakers;Sneakers;Core;AeroKnit;15034;194550,8348
+2021-10-01 00:00:00;38;Comfort;Universe Sandals;Sandals;Core;DuraFlex;22147;677056,3623
+2021-10-01 00:00:00;39;Hawaii;Universe Sandals;Sandals;Core;NanoMesh;12778;303353,2823
+2021-11-01 00:00:00;1;AeroJet;Aero Boot;Boot;Target;NanoMesh;33704;643079,6977
+2021-11-01 00:00:00;2;FlyQuest;Aero Boot;Boot;Target;LiteWeave;28242;837950,2785
+2021-11-01 00:00:00;3;AirVoyager;Aero Boot;Boot;Target;AeroKnit;14815;335125,0435
+2021-11-01 00:00:00;4;Classic;Classic Sneaker;Sneaker;Target;PowerKnit;219879;4529509,024
+2021-11-01 00:00:00;5;Brand Classic;Classic Sneaker;Sneaker;Target;PowerKnit;67495;1688747,645
+2021-11-01 00:00:00;6;National Classic;Classic Sneaker;Sneaker;Target;BioSole;38833;789870,0868
+2021-11-01 00:00:00;7;Hold Line;Designed Shoes;Shoes;Core;DynaFit;4596;72307,83099
+2021-11-01 00:00:00;8;High Bys;Designed Shoes;Shoes;Core;DynaFit;4287;182212,8421
+2021-11-01 00:00:00;9;High Iris;Designed Shoes;Shoes;Core;DynaFit;3598;118161,3984
+2021-11-01 00:00:00;10;Cone Stars;Designed Shoes;Shoes;Core;AirVent;1885;101818,253
+2021-11-01 00:00:00;11;Wave;Infinity Boot;Boot;Target;AeroKnit;56955;1292889,828
+2021-11-01 00:00:00;12;Athena II;Infinity Boot;Boot;Target;LiteWeave;47795;1290956,657
+2021-11-01 00:00:00;13;Hiking;Infinity Boot;Boot;Target;AeroKnit;47037;1092687,077
+2021-11-01 00:00:00;14;Zeus;Infinity Boot;Boot;Target;LiteWeave;28302;737847,1141
+2021-11-01 00:00:00;15;Air;Infinity Boot;Boot;Target;LiteWeave;9738;188333,068
+2021-11-01 00:00:00;16;Nautical Classic;Innovation Shoes;Shoes;Core;AeroKnit;193336;4033001,279
+2021-11-01 00:00:00;17;Nautical Max Force;Innovation Shoes;Shoes;Core;AeroKnit;166106;3265652,541
+2021-11-01 00:00:00;19;Mandala Life;Innovation Shoes;Shoes;Core;AeroKnit;124292;2566632,165
+2021-11-01 00:00:00;20;Merlin;Innovation Shoes;Shoes;Core;AeroKnit;121593;2863536,841
+2021-11-01 00:00:00;21;Fusion;Innovation Shoes;Shoes;Core;LiteWeave;102885;2399299,768
+2021-11-01 00:00:00;22;MachinaMetal;Metal Sandal;Sandals;Core;UltraFoam;390460;5509399,327
+2021-11-01 00:00:00;23;SteelEngineer;Metal Sandal;Sandals;Core;NanoMesh;86084;1643345,122
+2021-11-01 00:00:00;24;TitaniumTech;Metal Sandal;Sandals;Core;NanoMesh;128010;2287556,1
+2021-11-01 00:00:00;25;AlloyInnovate;Metal Sandal;Sandals;Core;NanoMesh;52385;787881,2894
+2021-11-01 00:00:00;26;SteelTech;Metal Shoes;Shoes;Core;NanoMesh;220165;3709787,82
+2021-11-01 00:00:00;27;AlloyMaster;Metal Shoes;Shoes;Core;AeroKnit;143687;2981515,5
+2021-11-01 00:00:00;28;MetalForge;Metal Shoes;Shoes;Core;NanoMesh;29527;579634,5266
+2021-11-01 00:00:00;29;IronCraft;Metal Shoes;Shoes;Core;PowerKnit;22376;605512,0495
+2021-11-01 00:00:00;30;TitaniumTech;Metal Shoes;Shoes;Core;NanoMesh;14769;401426,2623
+2021-11-01 00:00:00;31;Nyc Urban;NYCs Shoes;Shoes;Core;LiteWeave;511;16295,83022
+2021-11-01 00:00:00;34;Max;Price Sneakers;Sneakers;Core;UltraFoam;179684;1732153,814
+2021-11-01 00:00:00;35;Classic Price;Price Sneakers;Sneakers;Core;UltraFoam;41235;443696,7191
+2021-11-01 00:00:00;36;Hawaii;Price Sneakers;Sneakers;Core;AeroKnit;27720;479562,3254
+2021-11-01 00:00:00;37;Top Sport;Price Sneakers;Sneakers;Core;AeroKnit;16248;215612,0672
+2021-11-01 00:00:00;38;Comfort;Universe Sandals;Sandals;Core;DuraFlex;25260;482215,9351
+2021-11-01 00:00:00;39;Hawaii;Universe Sandals;Sandals;Core;NanoMesh;14890;359763,7958
+2021-11-01 00:00:00;1;AeroJet;Aero Boot;Boot;Target;NanoMesh;41066;783555,2797
+2021-11-01 00:00:00;2;FlyQuest;Aero Boot;Boot;Target;LiteWeave;35270;1046477,787
+2021-11-01 00:00:00;3;AirVoyager;Aero Boot;Boot;Target;AeroKnit;19100;432062,5327
+2021-11-01 00:00:00;4;Classic;Classic Sneaker;Sneaker;Target;PowerKnit;222904;4591833,234
+2021-11-01 00:00:00;5;Brand Classic;Classic Sneaker;Sneaker;Target;PowerKnit;68704;1718977,296
+2021-11-01 00:00:00;6;National Classic;Classic Sneaker;Sneaker;Target;BioSole;40796;829800,4493
+2021-11-01 00:00:00;7;Hold Line;Designed Shoes;Shoes;Core;DynaFit;6013;94592,299
+2021-11-01 00:00:00;8;High Bys;Designed Shoes;Shoes;Core;DynaFit;5279;224358,0443
+2021-11-01 00:00:00;9;High Iris;Designed Shoes;Shoes;Core;DynaFit;4604;151200,5579
+2021-11-01 00:00:00;10;Cone Stars;Designed Shoes;Shoes;Core;AirVent;2064;111462,9077
+2021-11-01 00:00:00;11;Wave;Infinity Boot;Boot;Target;AeroKnit;57877;1313828,631
+2021-11-01 00:00:00;12;Athena II;Infinity Boot;Boot;Target;LiteWeave;47892;1293569,718
+2021-11-01 00:00:00;13;Hiking;Infinity Boot;Boot;Target;AeroKnit;48253;1120920,325
+2021-11-01 00:00:00;14;Zeus;Infinity Boot;Boot;Target;LiteWeave;29234;762149,8578
+2021-11-01 00:00:00;15;Air;Infinity Boot;Boot;Target;LiteWeave;9942;192279,1809
+2021-11-01 00:00:00;16;Nautical Classic;Innovation Shoes;Shoes;Core;AeroKnit;214019;4464442,976
+2021-11-01 00:00:00;17;Nautical Max Force;Innovation Shoes;Shoes;Core;AeroKnit;192614;3786794,477
+2021-11-01 00:00:00;19;Mandala Life;Innovation Shoes;Shoes;Core;AeroKnit;144029;2974217,721
+2021-11-01 00:00:00;20;Merlin;Innovation Shoes;Shoes;Core;AeroKnit;135681;3195302,872
+2021-11-01 00:00:00;21;Fusion;Innovation Shoes;Shoes;Core;LiteWeave;116343;2713120,492
+2021-11-01 00:00:00;22;MachinaMetal;Metal Sandal;Sandals;Core;UltraFoam;368941;5205768,299
+2021-11-01 00:00:00;23;SteelEngineer;Metal Sandal;Sandals;Core;NanoMesh;85843;1638757,676
+2021-11-01 00:00:00;24;TitaniumTech;Metal Sandal;Sandals;Core;NanoMesh;121581;2172666,215
+2021-11-01 00:00:00;25;AlloyInnovate;Metal Sandal;Sandals;Core;NanoMesh;50044;752664,3883
+2021-11-01 00:00:00;26;SteelTech;Metal Shoes;Shoes;Core;NanoMesh;236112;3978492,69
+2021-11-01 00:00:00;27;AlloyMaster;Metal Shoes;Shoes;Core;AeroKnit;134579;2792530,515
+2021-11-01 00:00:00;28;MetalForge;Metal Shoes;Shoes;Core;NanoMesh;28149;552570,196
+2021-11-01 00:00:00;29;IronCraft;Metal Shoes;Shoes;Core;PowerKnit;21823;590538,791
+2021-11-01 00:00:00;30;TitaniumTech;Metal Shoes;Shoes;Core;NanoMesh;13968;379655,3704
+2021-11-01 00:00:00;31;Nyc Urban;NYCs Shoes;Shoes;Core;LiteWeave;449;14326,40048
+2021-11-01 00:00:00;34;Max;Price Sneakers;Sneakers;Core;UltraFoam;193078;1861273,218
+2021-11-01 00:00:00;35;Classic Price;Price Sneakers;Sneakers;Core;UltraFoam;48880;525954,1982
+2021-11-01 00:00:00;36;Hawaii;Price Sneakers;Sneakers;Core;AeroKnit;28954;500914,1752
+2021-11-01 00:00:00;37;Top Sport;Price Sneakers;Sneakers;Core;AeroKnit;17451;231576,4183
+2021-11-01 00:00:00;38;Comfort;Universe Sandals;Sandals;Core;DuraFlex;25662;489905,4371
+2021-11-01 00:00:00;39;Hawaii;Universe Sandals;Sandals;Core;NanoMesh;15369;371325,3237
+2021-12-01 00:00:00;1;AeroJet;Aero Boot;Boot;Target;NanoMesh;38517;734920,7521
+2021-12-01 00:00:00;2;FlyQuest;Aero Boot;Boot;Target;LiteWeave;33418;991534,9013
+2021-12-01 00:00:00;3;AirVoyager;Aero Boot;Boot;Target;AeroKnit;18738;423860,9984
+2021-12-01 00:00:00;4;Classic;Classic Sneaker;Sneaker;Target;PowerKnit;169082;3483099,96
+2021-12-01 00:00:00;5;Brand Classic;Classic Sneaker;Sneaker;Target;PowerKnit;52198;1305998,219
+2021-12-01 00:00:00;6;National Classic;Classic Sneaker;Sneaker;Target;BioSole;32546;661993,2927
+2021-12-01 00:00:00;7;Hold Line;Designed Shoes;Shoes;Core;DynaFit;6239;98153,01292
+2021-12-01 00:00:00;8;High Bys;Designed Shoes;Shoes;Core;DynaFit;5451;231672,5008
+2021-12-01 00:00:00;9;High Iris;Designed Shoes;Shoes;Core;DynaFit;4715;154866,4197
+2021-12-01 00:00:00;10;Cone Stars;Designed Shoes;Shoes;Core;AirVent;2040;110181,0232
+2021-12-01 00:00:00;11;Wave;Infinity Boot;Boot;Target;AeroKnit;52724;1196847,61
+2021-12-01 00:00:00;12;Athena II;Infinity Boot;Boot;Target;LiteWeave;43210;1167127,569
+2021-12-01 00:00:00;13;Hiking;Infinity Boot;Boot;Target;AeroKnit;44005;1022254,95
+2021-12-01 00:00:00;14;Zeus;Infinity Boot;Boot;Target;LiteWeave;26409;688499,9706
+2021-12-01 00:00:00;15;Air;Infinity Boot;Boot;Target;LiteWeave;8837;170916,2445
+2021-12-01 00:00:00;16;Nautical Classic;Innovation Shoes;Shoes;Core;AeroKnit;197060;4110690,653
+2021-12-01 00:00:00;17;Nautical Max Force;Innovation Shoes;Shoes;Core;AeroKnit;178951;3518178,474
+2021-12-01 00:00:00;19;Mandala Life;Innovation Shoes;Shoes;Core;AeroKnit;134940;2786524,776
+2021-12-01 00:00:00;20;Merlin;Innovation Shoes;Shoes;Core;AeroKnit;124930;2942106,934
+2021-12-01 00:00:00;21;Fusion;Innovation Shoes;Shoes;Core;LiteWeave;108577;2532025,97
+2021-12-01 00:00:00;22;MachinaMetal;Metal Sandal;Sandals;Core;UltraFoam;321206;4532223,03
+2021-12-01 00:00:00;23;SteelEngineer;Metal Sandal;Sandals;Core;NanoMesh;85744;1636865,872
+2021-12-01 00:00:00;24;TitaniumTech;Metal Sandal;Sandals;Core;NanoMesh;105836;1891299,622
+2021-12-01 00:00:00;25;AlloyInnovate;Metal Sandal;Sandals;Core;NanoMesh;44481;669004,9446
+2021-12-01 00:00:00;26;SteelTech;Metal Shoes;Shoes;Core;NanoMesh;220143;3709417,983
+2021-12-01 00:00:00;27;AlloyMaster;Metal Shoes;Shoes;Core;AeroKnit;117871;2445837,166
+2021-12-01 00:00:00;28;MetalForge;Metal Shoes;Shoes;Core;NanoMesh;25642;503364,0033
+2021-12-01 00:00:00;29;IronCraft;Metal Shoes;Shoes;Core;PowerKnit;19246;520808,8817
+2021-12-01 00:00:00;30;TitaniumTech;Metal Shoes;Shoes;Core;NanoMesh;12503;339836,3759
+2021-12-01 00:00:00;31;Nyc Urban;NYCs Shoes;Shoes;Core;LiteWeave;258;8237,980497
+2021-12-01 00:00:00;34;Max;Price Sneakers;Sneakers;Core;UltraFoam;181887;1753398,516
+2021-12-01 00:00:00;35;Classic Price;Price Sneakers;Sneakers;Core;UltraFoam;46666;502132,7544
+2021-12-01 00:00:00;36;Hawaii;Price Sneakers;Sneakers;Core;AeroKnit;27593;477361,136
+2021-12-01 00:00:00;37;Top Sport;Price Sneakers;Sneakers;Core;AeroKnit;16530;219363,5629
+2021-12-01 00:00:00;38;Comfort;Universe Sandals;Sandals;Core;DuraFlex;20144;384554,2246
+2021-12-01 00:00:00;39;Hawaii;Universe Sandals;Sandals;Core;NanoMesh;12142;293371,4943
+2022-01-01 00:00:00;1;AeroJet;Aero Boot;Boot;Target;NanoMesh;29832;569197,777
+2022-01-01 00:00:00;2;FlyQuest;Aero Boot;Boot;Target;LiteWeave;26961;799958,6901
+2022-01-01 00:00:00;3;AirVoyager;Aero Boot;Boot;Target;AeroKnit;15439;349231,0857
+2022-01-01 00:00:00;4;Classic;Classic Sneaker;Sneaker;Target;PowerKnit;149614;3082053,168
+2022-01-01 00:00:00;5;Brand Classic;Classic Sneaker;Sneaker;Target;PowerKnit;46398;1160883,64
+2022-01-01 00:00:00;6;National Classic;Classic Sneaker;Sneaker;Target;BioSole;31324;637140,2826
+2022-01-01 00:00:00;7;Hold Line;Designed Shoes;Shoes;Core;DynaFit;4767;74988,36843
+2022-01-01 00:00:00;8;High Bys;Designed Shoes;Shoes;Core;DynaFit;4047;172039,8622
+2022-01-01 00:00:00;9;High Iris;Designed Shoes;Shoes;Core;DynaFit;3681;120899,1939
+2022-01-01 00:00:00;10;Cone Stars;Designed Shoes;Shoes;Core;AirVent;1665;89930,30049
+2022-01-01 00:00:00;11;Wave;Infinity Boot;Boot;Target;AeroKnit;42643;968013,3507
+2022-01-01 00:00:00;12;Athena II;Infinity Boot;Boot;Target;LiteWeave;35014;945742,4928
+2022-01-01 00:00:00;13;Hiking;Infinity Boot;Boot;Target;AeroKnit;36598;850185,7576
+2022-01-01 00:00:00;14;Zeus;Infinity Boot;Boot;Target;LiteWeave;21441;558972,9283
+2022-01-01 00:00:00;15;Air;Infinity Boot;Boot;Target;LiteWeave;7166;138598,5633
+2022-01-01 00:00:00;16;Nautical Classic;Innovation Shoes;Shoes;Core;AeroKnit;160993;3358334,228
+2022-01-01 00:00:00;17;Nautical Max Force;Innovation Shoes;Shoes;Core;AeroKnit;149123;2931772,491
+2022-01-01 00:00:00;19;Mandala Life;Innovation Shoes;Shoes;Core;AeroKnit;107636;2222691,185
+2022-01-01 00:00:00;20;Merlin;Innovation Shoes;Shoes;Core;AeroKnit;101023;2379102,974
+2022-01-01 00:00:00;21;Fusion;Innovation Shoes;Shoes;Core;LiteWeave;90065;2100337,946
+2022-01-01 00:00:00;22;MachinaMetal;Metal Sandal;Sandals;Core;UltraFoam;264609;3733637,114
+2022-01-01 00:00:00;23;SteelEngineer;Metal Sandal;Sandals;Core;NanoMesh;85085;1624277,819
+2022-01-01 00:00:00;24;TitaniumTech;Metal Sandal;Sandals;Core;NanoMesh;87500;1563625,251
+2022-01-01 00:00:00;25;AlloyInnovate;Metal Sandal;Sandals;Core;NanoMesh;37134;558507,4369
+2022-01-01 00:00:00;26;SteelTech;Metal Shoes;Shoes;Core;NanoMesh;180393;3039638,326
+2022-01-01 00:00:00;27;AlloyMaster;Metal Shoes;Shoes;Core;AeroKnit;98272;2039155,099
+2022-01-01 00:00:00;28;MetalForge;Metal Shoes;Shoes;Core;NanoMesh;21866;429238,5076
+2022-01-01 00:00:00;29;IronCraft;Metal Shoes;Shoes;Core;PowerKnit;16037;433974,6883
+2022-01-01 00:00:00;30;TitaniumTech;Metal Shoes;Shoes;Core;NanoMesh;10467;284514,2943
+2022-01-01 00:00:00;31;Nyc Urban;NYCs Shoes;Shoes;Core;LiteWeave;186;5956,324091
+2022-01-01 00:00:00;34;Max;Price Sneakers;Sneakers;Core;UltraFoam;171761;1655784,775
+2022-01-01 00:00:00;35;Classic Price;Price Sneakers;Sneakers;Core;UltraFoam;42936;461993,8414
+2022-01-01 00:00:00;36;Hawaii;Price Sneakers;Sneakers;Core;AeroKnit;25401;439447,2772
+2022-01-01 00:00:00;37;Top Sport;Price Sneakers;Sneakers;Core;AeroKnit;15204;201760,1854
+2022-01-01 00:00:00;38;Comfort;Universe Sandals;Sandals;Core;DuraFlex;15694;299610,044
+2022-01-01 00:00:00;39;Hawaii;Universe Sandals;Sandals;Core;NanoMesh;9123;220424,6258
+2022-02-01 00:00:00;1;AeroJet;Aero Boot;Boot;Target;NanoMesh;27848;531354,5463
+2022-02-01 00:00:00;2;FlyQuest;Aero Boot;Boot;Target;LiteWeave;25235;748730,2766
+2022-02-01 00:00:00;3;AirVoyager;Aero Boot;Boot;Target;AeroKnit;14398;325687,6325
+2022-02-01 00:00:00;4;Classic;Classic Sneaker;Sneaker;Target;PowerKnit;140821;2900931,256
+2022-02-01 00:00:00;5;Brand Classic;Classic Sneaker;Sneaker;Target;PowerKnit;43861;1097426,356
+2022-02-01 00:00:00;6;National Classic;Classic Sneaker;Sneaker;Target;BioSole;30202;614310,6152
+2022-02-01 00:00:00;7;Hold Line;Designed Shoes;Shoes;Core;DynaFit;3571;56184,5983
+2022-02-01 00:00:00;8;High Bys;Designed Shoes;Shoes;Core;DynaFit;3354;142553,8344
+2022-02-01 00:00:00;9;High Iris;Designed Shoes;Shoes;Core;DynaFit;2845;93437,71278
+2022-02-01 00:00:00;10;Cone Stars;Designed Shoes;Shoes;Core;AirVent;1543;83322,49121
+2022-02-01 00:00:00;11;Wave;Infinity Boot;Boot;Target;AeroKnit;39426;894990,5583
+2022-02-01 00:00:00;12;Athena II;Infinity Boot;Boot;Target;LiteWeave;32533;878736,6775
+2022-02-01 00:00:00;13;Hiking;Infinity Boot;Boot;Target;AeroKnit;33463;777350,8938
+2022-02-01 00:00:00;14;Zeus;Infinity Boot;Boot;Target;LiteWeave;19348;504412,0899
+2022-02-01 00:00:00;15;Air;Infinity Boot;Boot;Target;LiteWeave;6581;127284,9154
+2022-02-01 00:00:00;16;Nautical Classic;Innovation Shoes;Shoes;Core;AeroKnit;132353;2760898,699
+2022-02-01 00:00:00;17;Nautical Max Force;Innovation Shoes;Shoes;Core;AeroKnit;119350;2346436,956
+2022-02-01 00:00:00;19;Mandala Life;Innovation Shoes;Shoes;Core;AeroKnit;87882;1814772,991
+2022-02-01 00:00:00;20;Merlin;Innovation Shoes;Shoes;Core;AeroKnit;82575;1944648,09
+2022-02-01 00:00:00;21;Fusion;Innovation Shoes;Shoes;Core;LiteWeave;72929;1700709,476
+2022-02-01 00:00:00;22;MachinaMetal;Metal Sandal;Sandals;Core;UltraFoam;262387;3702291,221
+2022-02-01 00:00:00;23;SteelEngineer;Metal Sandal;Sandals;Core;NanoMesh;86764;1656343,186
+2022-02-01 00:00:00;24;TitaniumTech;Metal Sandal;Sandals;Core;NanoMesh;86699;1549328,404
+2022-02-01 00:00:00;25;AlloyInnovate;Metal Sandal;Sandals;Core;NanoMesh;37036;557031,1521
+2022-02-01 00:00:00;26;SteelTech;Metal Shoes;Shoes;Core;NanoMesh;158551;2671585,383
+2022-02-01 00:00:00;27;AlloyMaster;Metal Shoes;Shoes;Core;AeroKnit;98075;2035062,027
+2022-02-01 00:00:00;28;MetalForge;Metal Shoes;Shoes;Core;NanoMesh;21413;420355,1348
+2022-02-01 00:00:00;29;IronCraft;Metal Shoes;Shoes;Core;PowerKnit;15582;421670,3099
+2022-02-01 00:00:00;30;TitaniumTech;Metal Shoes;Shoes;Core;NanoMesh;10615;288516,1647
+2022-02-01 00:00:00;31;Nyc Urban;NYCs Shoes;Shoes;Core;LiteWeave;167;5343,879477
+2022-02-01 00:00:00;34;Max;Price Sneakers;Sneakers;Core;UltraFoam;166368;1603794,244
+2022-02-01 00:00:00;35;Classic Price;Price Sneakers;Sneakers;Core;UltraFoam;41425;445737,2147
+2022-02-01 00:00:00;36;Hawaii;Price Sneakers;Sneakers;Core;AeroKnit;25314;437934,3294
+2022-02-01 00:00:00;37;Top Sport;Price Sneakers;Sneakers;Core;AeroKnit;14597;193704,9773
+2022-02-01 00:00:00;38;Comfort;Universe Sandals;Sandals;Core;DuraFlex;13465;257062,4254
+2022-02-01 00:00:00;39;Hawaii;Universe Sandals;Sandals;Core;NanoMesh;7721;186541,1559
+2022-03-01 00:00:00;1;AeroJet;Aero Boot;Boot;Target;NanoMesh;32705;624024,1797
+2022-03-01 00:00:00;2;FlyQuest;Aero Boot;Boot;Target;LiteWeave;29317;869846,1078
+2022-03-01 00:00:00;3;AirVoyager;Aero Boot;Boot;Target;AeroKnit;17403;393660,857
+2022-03-01 00:00:00;4;Classic;Classic Sneaker;Sneaker;Target;PowerKnit;151065;3111945,192
+2022-03-01 00:00:00;5;Brand Classic;Classic Sneaker;Sneaker;Target;PowerKnit;46378;1160395,761
+2022-03-01 00:00:00;6;National Classic;Classic Sneaker;Sneaker;Target;BioSole;30351;617347,5454
+2022-03-01 00:00:00;7;Hold Line;Designed Shoes;Shoes;Core;DynaFit;3531;55557,80596
+2022-03-01 00:00:00;8;High Bys;Designed Shoes;Shoes;Core;DynaFit;3004;127708,7304
+2022-03-01 00:00:00;9;High Iris;Designed Shoes;Shoes;Core;DynaFit;2652;87099,0201
+2022-03-01 00:00:00;10;Cone Stars;Designed Shoes;Shoes;Core;AirVent;1608;86847,67353
+2022-03-01 00:00:00;11;Wave;Infinity Boot;Boot;Target;AeroKnit;45084;1023407,519
+2022-03-01 00:00:00;12;Athena II;Infinity Boot;Boot;Target;LiteWeave;38203;1031881,922
+2022-03-01 00:00:00;13;Hiking;Infinity Boot;Boot;Target;AeroKnit;38608;896877,1855
+2022-03-01 00:00:00;14;Zeus;Infinity Boot;Boot;Target;LiteWeave;22667;590937,8143
+2022-03-01 00:00:00;15;Air;Infinity Boot;Boot;Target;LiteWeave;7584;146683,9046
+2022-03-01 00:00:00;16;Nautical Classic;Innovation Shoes;Shoes;Core;AeroKnit;147359;3073915,977
+2022-03-01 00:00:00;17;Nautical Max Force;Innovation Shoes;Shoes;Core;AeroKnit;138596;2724814,715
+2022-03-01 00:00:00;19;Mandala Life;Innovation Shoes;Shoes;Core;AeroKnit;100687;2079188,404
+2022-03-01 00:00:00;20;Merlin;Innovation Shoes;Shoes;Core;AeroKnit;92638;2181625,095
+2022-03-01 00:00:00;21;Fusion;Innovation Shoes;Shoes;Core;LiteWeave;80460;1876342,846
+2022-03-01 00:00:00;22;MachinaMetal;Metal Sandal;Sandals;Core;UltraFoam;304326;4294053,787
+2022-03-01 00:00:00;23;SteelEngineer;Metal Sandal;Sandals;Core;NanoMesh;85833;1638563,461
+2022-03-01 00:00:00;24;TitaniumTech;Metal Sandal;Sandals;Core;NanoMesh;99316;1774792,019
+2022-03-01 00:00:00;25;AlloyInnovate;Metal Sandal;Sandals;Core;NanoMesh;41791;628537,4568
+2022-03-01 00:00:00;26;SteelTech;Metal Shoes;Shoes;Core;NanoMesh;179798;3029601,932
+2022-03-01 00:00:00;27;AlloyMaster;Metal Shoes;Shoes;Core;AeroKnit;111512;2313891,307
+2022-03-01 00:00:00;28;MetalForge;Metal Shoes;Shoes;Core;NanoMesh;23288;457157,1509
+2022-03-01 00:00:00;29;IronCraft;Metal Shoes;Shoes;Core;PowerKnit;17954;485838,1405
+2022-03-01 00:00:00;30;TitaniumTech;Metal Shoes;Shoes;Core;NanoMesh;12126;329597,4254
+2022-03-01 00:00:00;31;Nyc Urban;NYCs Shoes;Shoes;Core;LiteWeave;146;4659,382555
+2022-03-01 00:00:00;34;Max;Price Sneakers;Sneakers;Core;UltraFoam;195677;1886329,893
+2022-03-01 00:00:00;35;Classic Price;Price Sneakers;Sneakers;Core;UltraFoam;48470;521546,6931
+2022-03-01 00:00:00;36;Hawaii;Price Sneakers;Sneakers;Core;AeroKnit;29133;504014,2213
+2022-03-01 00:00:00;37;Top Sport;Price Sneakers;Sneakers;Core;AeroKnit;17285;229380,1017
+2022-03-01 00:00:00;38;Comfort;Universe Sandals;Sandals;Core;DuraFlex;16492;314845,1845
+2022-03-01 00:00:00;39;Hawaii;Universe Sandals;Sandals;Core;NanoMesh;9703;234444,1163
+2022-04-01 00:00:00;1;AeroJet;Aero Boot;Boot;Target;NanoMesh;35142;670510,8725
+2022-04-01 00:00:00;2;FlyQuest;Aero Boot;Boot;Target;LiteWeave;31087;922357,3978
+2022-04-01 00:00:00;3;AirVoyager;Aero Boot;Boot;Target;AeroKnit;19284;436215,5049
+2022-04-01 00:00:00;4;Classic;Classic Sneaker;Sneaker;Target;PowerKnit;159372;3283067,52
+2022-04-01 00:00:00;5;Brand Classic;Classic Sneaker;Sneaker;Target;PowerKnit;49387;1235682,345
+2022-04-01 00:00:00;6;National Classic;Classic Sneaker;Sneaker;Target;BioSole;31413;638945,1963
+2022-04-01 00:00:00;7;Hold Line;Designed Shoes;Shoes;Core;DynaFit;3078;48427,48745
+2022-04-01 00:00:00;8;High Bys;Designed Shoes;Shoes;Core;DynaFit;2613;111062,0362
+2022-04-01 00:00:00;9;High Iris;Designed Shoes;Shoes;Core;DynaFit;2275;74737,17729
+2022-04-01 00:00:00;10;Cone Stars;Designed Shoes;Shoes;Core;AirVent;1455;78606,98759
+2022-04-01 00:00:00;11;Wave;Infinity Boot;Boot;Target;AeroKnit;53385;1211850,331
+2022-04-01 00:00:00;12;Athena II;Infinity Boot;Boot;Target;LiteWeave;44190;1193581,318
+2022-04-01 00:00:00;13;Hiking;Infinity Boot;Boot;Target;AeroKnit;44297;1029023,314
+2022-04-01 00:00:00;14;Zeus;Infinity Boot;Boot;Target;LiteWeave;26598;693426,3352
+2022-04-01 00:00:00;15;Air;Infinity Boot;Boot;Target;LiteWeave;8844;171045,5954
+2022-04-01 00:00:00;16;Nautical Classic;Innovation Shoes;Shoes;Core;AeroKnit;171021;3567511,531
+2022-04-01 00:00:00;17;Nautical Max Force;Innovation Shoes;Shoes;Core;AeroKnit;159758;3140860,052
+2022-04-01 00:00:00;19;Mandala Life;Innovation Shoes;Shoes;Core;AeroKnit;115532;2385749,528
+2022-04-01 00:00:00;20;Merlin;Innovation Shoes;Shoes;Core;AeroKnit;108316;2550855,952
+2022-04-01 00:00:00;21;Fusion;Innovation Shoes;Shoes;Core;LiteWeave;90652;2114019,383
+2022-04-01 00:00:00;22;MachinaMetal;Metal Sandal;Sandals;Core;UltraFoam;335025;4727211,422
+2022-04-01 00:00:00;23;SteelEngineer;Metal Sandal;Sandals;Core;NanoMesh;88313;1685896,338
+2022-04-01 00:00:00;24;TitaniumTech;Metal Sandal;Sandals;Core;NanoMesh;108178;1933148,158
+2022-04-01 00:00:00;25;AlloyInnovate;Metal Sandal;Sandals;Core;NanoMesh;45966;691343,3153
+2022-04-01 00:00:00;26;SteelTech;Metal Shoes;Shoes;Core;NanoMesh;198767;3349228,443
+2022-04-01 00:00:00;27;AlloyMaster;Metal Shoes;Shoes;Core;AeroKnit;120083;2491728,828
+2022-04-01 00:00:00;28;MetalForge;Metal Shoes;Shoes;Core;NanoMesh;25352;497677,8311
+2022-04-01 00:00:00;29;IronCraft;Metal Shoes;Shoes;Core;PowerKnit;19118;517357,436
+2022-04-01 00:00:00;30;TitaniumTech;Metal Shoes;Shoes;Core;NanoMesh;13123;356699,0237
+2022-04-01 00:00:00;31;Nyc Urban;NYCs Shoes;Shoes;Core;LiteWeave;384;12248,89228
+2022-04-01 00:00:00;32;Nyc Wave;NYCs Shoes;Shoes;Core;LiteWeave;1433;
+2022-04-01 00:00:00;33;Nyc Sub;NYCs Shoes;Shoes;Core;LiteWeave;1426;
+2022-04-01 00:00:00;34;Max;Price Sneakers;Sneakers;Core;UltraFoam;211542;2039273,594
+2022-04-01 00:00:00;35;Classic Price;Price Sneakers;Sneakers;Core;UltraFoam;53302;573530,1807
+2022-04-01 00:00:00;36;Hawaii;Price Sneakers;Sneakers;Core;AeroKnit;31358;542495,8707
+2022-04-01 00:00:00;37;Top Sport;Price Sneakers;Sneakers;Core;AeroKnit;18669;247747,1832
+2022-04-01 00:00:00;38;Comfort;Universe Sandals;Sandals;Core;DuraFlex;18654;356105,2252
+2022-04-01 00:00:00;39;Hawaii;Universe Sandals;Sandals;Core;NanoMesh;10866;262537,7188
+2022-05-01 00:00:00;1;AeroJet;Aero Boot;Boot;Target;NanoMesh;36987;705722,781
+2022-05-01 00:00:00;2;FlyQuest;Aero Boot;Boot;Target;LiteWeave;32689;969904,8783
+2022-05-01 00:00:00;3;AirVoyager;Aero Boot;Boot;Target;AeroKnit;19685;445282,1529
+2022-05-01 00:00:00;4;Classic;Classic Sneaker;Sneaker;Target;PowerKnit;168969;3480781,018
+2022-05-01 00:00:00;5;Brand Classic;Classic Sneaker;Sneaker;Target;PowerKnit;51622;1291590,465
+2022-05-01 00:00:00;6;National Classic;Classic Sneaker;Sneaker;Target;BioSole;32931;669829,9138
+2022-05-01 00:00:00;7;Hold Line;Designed Shoes;Shoes;Core;DynaFit;2383;37496,40688
+2022-05-01 00:00:00;8;High Bys;Designed Shoes;Shoes;Core;DynaFit;1871;79534,20606
+2022-05-01 00:00:00;9;High Iris;Designed Shoes;Shoes;Core;DynaFit;1705;55999,51916
+2022-05-01 00:00:00;10;Cone Stars;Designed Shoes;Shoes;Core;AirVent;1039;56112,96707
+2022-05-01 00:00:00;11;Wave;Infinity Boot;Boot;Target;AeroKnit;54721;1242182,941
+2022-05-01 00:00:00;12;Athena II;Infinity Boot;Boot;Target;LiteWeave;45539;1230014,06
+2022-05-01 00:00:00;13;Hiking;Infinity Boot;Boot;Target;AeroKnit;44927;1043673,88
+2022-05-01 00:00:00;14;Zeus;Infinity Boot;Boot;Target;LiteWeave;27451;715666,1944
+2022-05-01 00:00:00;15;Air;Infinity Boot;Boot;Target;LiteWeave;9055;175137,4558
+2022-05-01 00:00:00;16;Nautical Classic;Innovation Shoes;Shoes;Core;AeroKnit;189419;3951285,562
+2022-05-01 00:00:00;17;Nautical Max Force;Innovation Shoes;Shoes;Core;AeroKnit;180280;3544319,281
+2022-05-01 00:00:00;19;Mandala Life;Innovation Shoes;Shoes;Core;AeroKnit;122792;2535658,005
+2022-05-01 00:00:00;20;Merlin;Innovation Shoes;Shoes;Core;AeroKnit;122548;2886025,054
+2022-05-01 00:00:00;21;Fusion;Innovation Shoes;Shoes;Core;LiteWeave;101182;2359584,496
+2022-05-01 00:00:00;22;MachinaMetal;Metal Sandal;Sandals;Core;UltraFoam;350241;4941902,148
+2022-05-01 00:00:00;23;SteelEngineer;Metal Sandal;Sandals;Core;NanoMesh;90378;1725331,111
+2022-05-01 00:00:00;24;TitaniumTech;Metal Sandal;Sandals;Core;NanoMesh;109370;1954456,233
+2022-05-01 00:00:00;25;AlloyInnovate;Metal Sandal;Sandals;Core;NanoMesh;46780;703574,3772
+2022-05-01 00:00:00;26;SteelTech;Metal Shoes;Shoes;Core;NanoMesh;211226;3559160,968
+2022-05-01 00:00:00;27;AlloyMaster;Metal Shoes;Shoes;Core;AeroKnit;123766;2568160,201
+2022-05-01 00:00:00;28;MetalForge;Metal Shoes;Shoes;Core;NanoMesh;25818;506814,539
+2022-05-01 00:00:00;29;IronCraft;Metal Shoes;Shoes;Core;PowerKnit;19705;533225,4194
+2022-05-01 00:00:00;30;TitaniumTech;Metal Shoes;Shoes;Core;NanoMesh;13196;358678,1956
+2022-05-01 00:00:00;31;Nyc Urban;NYCs Shoes;Shoes;Core;LiteWeave;911;29037,07994
+2022-05-01 00:00:00;32;Nyc Wave;NYCs Shoes;Shoes;Core;LiteWeave;1056;
+2022-05-01 00:00:00;33;Nyc Sub;NYCs Shoes;Shoes;Core;LiteWeave;1053;
+2022-05-01 00:00:00;34;Max;Price Sneakers;Sneakers;Core;UltraFoam;216563;2087667,474
+2022-05-01 00:00:00;35;Classic Price;Price Sneakers;Sneakers;Core;UltraFoam;54433;585702,785
+2022-05-01 00:00:00;36;Hawaii;Price Sneakers;Sneakers;Core;AeroKnit;31589;546500,3434
+2022-05-01 00:00:00;37;Top Sport;Price Sneakers;Sneakers;Core;AeroKnit;18961;251619,9102
+2022-05-01 00:00:00;38;Comfort;Universe Sandals;Sandals;Core;DuraFlex;20895;398890,2185
+2022-05-01 00:00:00;39;Hawaii;Universe Sandals;Sandals;Core;NanoMesh;12238;295674,6963
+2022-06-01 00:00:00;1;AeroJet;Aero Boot;Boot;Target;NanoMesh;33680;642619,5757
+2022-06-01 00:00:00;2;FlyQuest;Aero Boot;Boot;Target;LiteWeave;30135;894111,7571
+2022-06-01 00:00:00;3;AirVoyager;Aero Boot;Boot;Target;AeroKnit;17764;401826,1673
+2022-06-01 00:00:00;4;Classic;Classic Sneaker;Sneaker;Target;PowerKnit;171895;3541056,022
+2022-06-01 00:00:00;5;Brand Classic;Classic Sneaker;Sneaker;Target;PowerKnit;53089;1328294,531
+2022-06-01 00:00:00;6;National Classic;Classic Sneaker;Sneaker;Target;BioSole;34781;707461,0231
+2022-06-01 00:00:00;7;Hold Line;Designed Shoes;Shoes;Core;DynaFit;1909;30032,68819
+2022-06-01 00:00:00;8;High Bys;Designed Shoes;Shoes;Core;DynaFit;1727;73420,80967
+2022-06-01 00:00:00;9;High Iris;Designed Shoes;Shoes;Core;DynaFit;1428;46904,46964
+2022-06-01 00:00:00;10;Cone Stars;Designed Shoes;Shoes;Core;AirVent;1000;54037,53505
+2022-06-01 00:00:00;11;Wave;Infinity Boot;Boot;Target;AeroKnit;52415;1189823,103
+2022-06-01 00:00:00;12;Athena II;Infinity Boot;Boot;Target;LiteWeave;43694;1180197,965
+2022-06-01 00:00:00;13;Hiking;Infinity Boot;Boot;Target;AeroKnit;42795;994148,6231
+2022-06-01 00:00:00;14;Zeus;Infinity Boot;Boot;Target;LiteWeave;26142;681545,103
+2022-06-01 00:00:00;15;Air;Infinity Boot;Boot;Target;LiteWeave;8761;169442,3731
+2022-06-01 00:00:00;16;Nautical Classic;Innovation Shoes;Shoes;Core;AeroKnit;188680;3935879,737
+2022-06-01 00:00:00;17;Nautical Max Force;Innovation Shoes;Shoes;Core;AeroKnit;177667;3492939,585
+2022-06-01 00:00:00;19;Mandala Life;Innovation Shoes;Shoes;Core;AeroKnit;122436;2528312,754
+2022-06-01 00:00:00;20;Merlin;Innovation Shoes;Shoes;Core;AeroKnit;123029;2897347,914
+2022-06-01 00:00:00;21;Fusion;Innovation Shoes;Shoes;Core;LiteWeave;101961;2377734,149
+2022-06-01 00:00:00;22;MachinaMetal;Metal Sandal;Sandals;Core;UltraFoam;331064;4671318,356
+2022-06-01 00:00:00;23;SteelEngineer;Metal Sandal;Sandals;Core;NanoMesh;88490;1689286,12
+2022-06-01 00:00:00;24;TitaniumTech;Metal Sandal;Sandals;Core;NanoMesh;103199;1844166,993
+2022-06-01 00:00:00;25;AlloyInnovate;Metal Sandal;Sandals;Core;NanoMesh;44927;675711,9813
+2022-06-01 00:00:00;26;SteelTech;Metal Shoes;Shoes;Core;NanoMesh;193317;3257394,571
+2022-06-01 00:00:00;27;AlloyMaster;Metal Shoes;Shoes;Core;AeroKnit;120020;2490417,247
+2022-06-01 00:00:00;28;MetalForge;Metal Shoes;Shoes;Core;NanoMesh;25432;499247,7694
+2022-06-01 00:00:00;29;IronCraft;Metal Shoes;Shoes;Core;PowerKnit;18372;497161,1256
+2022-06-01 00:00:00;30;TitaniumTech;Metal Shoes;Shoes;Core;NanoMesh;12389;336756,2415
+2022-06-01 00:00:00;31;Nyc Urban;NYCs Shoes;Shoes;Core;LiteWeave;1185;37779,42659
+2022-06-01 00:00:00;32;Nyc Wave;NYCs Shoes;Shoes;Core;LiteWeave;1132;
+2022-06-01 00:00:00;33;Nyc Sub;NYCs Shoes;Shoes;Core;LiteWeave;1103;
+2022-06-01 00:00:00;34;Max;Price Sneakers;Sneakers;Core;UltraFoam;198314;1911750,482
+2022-06-01 00:00:00;35;Classic Price;Price Sneakers;Sneakers;Core;UltraFoam;49697;534747,3399
+2022-06-01 00:00:00;36;Hawaii;Price Sneakers;Sneakers;Core;AeroKnit;28488;492851,6187
+2022-06-01 00:00:00;37;Top Sport;Price Sneakers;Sneakers;Core;AeroKnit;17131;227339,4632
+2022-06-01 00:00:00;38;Comfort;Universe Sandals;Sandals;Core;DuraFlex;20632;393876,5769
+2022-06-01 00:00:00;39;Hawaii;Universe Sandals;Sandals;Core;NanoMesh;11848;286261,6098
+2022-07-01 00:00:00;1;AeroJet;Aero Boot;Boot;Target;NanoMesh;32741;624705,3758
+2022-07-01 00:00:00;2;FlyQuest;Aero Boot;Boot;Target;LiteWeave;29827;884975,1057
+2022-07-01 00:00:00;3;AirVoyager;Aero Boot;Boot;Target;AeroKnit;16017;362310,0717
+2022-07-01 00:00:00;4;Classic;Classic Sneaker;Sneaker;Target;PowerKnit;180188;3711889,209
+2022-07-01 00:00:00;5;Brand Classic;Classic Sneaker;Sneaker;Target;PowerKnit;54582;1365653,817
+2022-07-01 00:00:00;6;National Classic;Classic Sneaker;Sneaker;Target;BioSole;35262;717242,4291
+2022-07-01 00:00:00;7;Hold Line;Designed Shoes;Shoes;Core;DynaFit;2169;34122,39707
+2022-07-01 00:00:00;8;High Bys;Designed Shoes;Shoes;Core;DynaFit;1957;83197,43965
+2022-07-01 00:00:00;9;High Iris;Designed Shoes;Shoes;Core;DynaFit;1619;53187,47834
+2022-07-01 00:00:00;10;Cone Stars;Designed Shoes;Shoes;Core;AirVent;1198;64719,90572
+2022-07-01 00:00:00;11;Wave;Infinity Boot;Boot;Target;AeroKnit;50055;1136263,647
+2022-07-01 00:00:00;12;Athena II;Infinity Boot;Boot;Target;LiteWeave;42341;1143635,46
+2022-07-01 00:00:00;13;Hiking;Infinity Boot;Boot;Target;AeroKnit;41356;960711,6348
+2022-07-01 00:00:00;14;Zeus;Infinity Boot;Boot;Target;LiteWeave;24989;651463,8269
+2022-07-01 00:00:00;15;Air;Infinity Boot;Boot;Target;LiteWeave;8394;162344,471
+2022-07-01 00:00:00;16;Nautical Classic;Innovation Shoes;Shoes;Core;AeroKnit;184826;3855482,553
+2022-07-01 00:00:00;17;Nautical Max Force;Innovation Shoes;Shoes;Core;AeroKnit;178531;3509924,165
+2022-07-01 00:00:00;19;Mandala Life;Innovation Shoes;Shoes;Core;AeroKnit;124520;2571349,388
+2022-07-01 00:00:00;20;Merlin;Innovation Shoes;Shoes;Core;AeroKnit;123189;2901117,025
+2022-07-01 00:00:00;21;Fusion;Innovation Shoes;Shoes;Core;LiteWeave;103010;2402210,478
+2022-07-01 00:00:00;22;MachinaMetal;Metal Sandal;Sandals;Core;UltraFoam;326311;4604250,93
+2022-07-01 00:00:00;23;SteelEngineer;Metal Sandal;Sandals;Core;NanoMesh;87865;1677343,655
+2022-07-01 00:00:00;24;TitaniumTech;Metal Sandal;Sandals;Core;NanoMesh;105126;1878603,658
+2022-07-01 00:00:00;25;AlloyInnovate;Metal Sandal;Sandals;Core;NanoMesh;44131;663744,4404
+2022-07-01 00:00:00;26;SteelTech;Metal Shoes;Shoes;Core;NanoMesh;185485;3125435,759
+2022-07-01 00:00:00;27;AlloyMaster;Metal Shoes;Shoes;Core;AeroKnit;119844;2486775,703
+2022-07-01 00:00:00;28;MetalForge;Metal Shoes;Shoes;Core;NanoMesh;25408;498768,8365
+2022-07-01 00:00:00;29;IronCraft;Metal Shoes;Shoes;Core;PowerKnit;18697;505963,0768
+2022-07-01 00:00:00;30;TitaniumTech;Metal Shoes;Shoes;Core;NanoMesh;12596;342383,9518
+2022-07-01 00:00:00;31;Nyc Urban;NYCs Shoes;Shoes;Core;LiteWeave;1262;40241,21377
+2022-07-01 00:00:00;32;Nyc Wave;NYCs Shoes;Shoes;Core;LiteWeave;1213;
+2022-07-01 00:00:00;33;Nyc Sub;NYCs Shoes;Shoes;Core;LiteWeave;1173;
+2022-07-01 00:00:00;34;Max;Price Sneakers;Sneakers;Core;UltraFoam;186117;1794172,136
+2022-07-01 00:00:00;35;Classic Price;Price Sneakers;Sneakers;Core;UltraFoam;47381;509822,9372
+2022-07-01 00:00:00;36;Hawaii;Price Sneakers;Sneakers;Core;AeroKnit;26686;461678,4888
+2022-07-01 00:00:00;37;Top Sport;Price Sneakers;Sneakers;Core;AeroKnit;16472;218584,6382
+2022-07-01 00:00:00;38;Comfort;Universe Sandals;Sandals;Core;DuraFlex;21704;414341,1542
+2022-07-01 00:00:00;39;Hawaii;Universe Sandals;Sandals;Core;NanoMesh;12856;310604,5434
+2022-08-01 00:00:00;1;AeroJet;Aero Boot;Boot;Target;NanoMesh;28750;548558,7925
+2022-08-01 00:00:00;2;FlyQuest;Aero Boot;Boot;Target;LiteWeave;25777;764823,528
+2022-08-01 00:00:00;3;AirVoyager;Aero Boot;Boot;Target;AeroKnit;14868;336324,6963
+2022-08-01 00:00:00;4;Classic;Classic Sneaker;Sneaker;Target;PowerKnit;184436;3799389,939
+2022-08-01 00:00:00;5;Brand Classic;Classic Sneaker;Sneaker;Target;PowerKnit;56723;1419226,245
+2022-08-01 00:00:00;6;National Classic;Classic Sneaker;Sneaker;Target;BioSole;35345;718932,3801
+2022-08-01 00:00:00;7;Hold Line;Designed Shoes;Shoes;Core;DynaFit;2610;41066,01148
+2022-08-01 00:00:00;8;High Bys;Designed Shoes;Shoes;Core;DynaFit;2332;99135,50842
+2022-08-01 00:00:00;9;High Iris;Designed Shoes;Shoes;Core;DynaFit;1944;63860,24052
+2022-08-01 00:00:00;10;Cone Stars;Designed Shoes;Shoes;Core;AirVent;1489;80438,25113
+2022-08-01 00:00:00;11;Wave;Infinity Boot;Boot;Target;AeroKnit;55035;1249316,504
+2022-08-01 00:00:00;12;Athena II;Infinity Boot;Boot;Target;LiteWeave;46112;1245506,69
+2022-08-01 00:00:00;13;Hiking;Infinity Boot;Boot;Target;AeroKnit;45609;1059499,554
+2022-08-01 00:00:00;14;Zeus;Infinity Boot;Boot;Target;LiteWeave;27440;715383,7757
+2022-08-01 00:00:00;15;Air;Infinity Boot;Boot;Target;LiteWeave;9112;176230,5619
+2022-08-01 00:00:00;16;Nautical Classic;Innovation Shoes;Shoes;Core;AeroKnit;178688;3727451,11
+2022-08-01 00:00:00;17;Nautical Max Force;Innovation Shoes;Shoes;Core;AeroKnit;169020;3322936,373
+2022-08-01 00:00:00;19;Mandala Life;Innovation Shoes;Shoes;Core;AeroKnit;124075;2562152,263
+2022-08-01 00:00:00;20;Merlin;Innovation Shoes;Shoes;Core;AeroKnit;120275;2832496,584
+2022-08-01 00:00:00;21;Fusion;Innovation Shoes;Shoes;Core;LiteWeave;99694;2324875,646
+2022-08-01 00:00:00;22;MachinaMetal;Metal Sandal;Sandals;Core;UltraFoam;331081;4671564,253
+2022-08-01 00:00:00;23;SteelEngineer;Metal Sandal;Sandals;Core;NanoMesh;87898;1677983,847
+2022-08-01 00:00:00;24;TitaniumTech;Metal Sandal;Sandals;Core;NanoMesh;109712;1960555,077
+2022-08-01 00:00:00;25;AlloyInnovate;Metal Sandal;Sandals;Core;NanoMesh;46251;695627,6581
+2022-08-01 00:00:00;26;SteelTech;Metal Shoes;Shoes;Core;NanoMesh;184943;3116293,006
+2022-08-01 00:00:00;27;AlloyMaster;Metal Shoes;Shoes;Core;AeroKnit;126456;2623967,887
+2022-08-01 00:00:00;28;MetalForge;Metal Shoes;Shoes;Core;NanoMesh;26169;513698,968
+2022-08-01 00:00:00;29;IronCraft;Metal Shoes;Shoes;Core;PowerKnit;19448;526263,8993
+2022-08-01 00:00:00;30;TitaniumTech;Metal Shoes;Shoes;Core;NanoMesh;13295;361371,713
+2022-08-01 00:00:00;31;Nyc Urban;NYCs Shoes;Shoes;Core;LiteWeave;1332;42474,8353
+2022-08-01 00:00:00;32;Nyc Wave;NYCs Shoes;Shoes;Core;LiteWeave;1259;
+2022-08-01 00:00:00;33;Nyc Sub;NYCs Shoes;Shoes;Core;LiteWeave;1252;
+2022-08-01 00:00:00;34;Max;Price Sneakers;Sneakers;Core;UltraFoam;182225;1756651,234
+2022-08-01 00:00:00;35;Classic Price;Price Sneakers;Sneakers;Core;UltraFoam;45447;489017,2004
+2022-08-01 00:00:00;36;Hawaii;Price Sneakers;Sneakers;Core;AeroKnit;26033;450372,4591
+2022-08-01 00:00:00;37;Top Sport;Price Sneakers;Sneakers;Core;AeroKnit;16417;217862,8578
+2022-08-01 00:00:00;38;Comfort;Universe Sandals;Sandals;Core;DuraFlex;22373;427116,2295
+2022-08-01 00:00:00;39;Hawaii;Universe Sandals;Sandals;Core;NanoMesh;13321;321847,4465
+2022-09-01 00:00:00;1;AeroJet;Aero Boot;Boot;Target;NanoMesh;30086;574048,828
+2022-09-01 00:00:00;2;FlyQuest;Aero Boot;Boot;Target;LiteWeave;25914;768878,9826
+2022-09-01 00:00:00;3;AirVoyager;Aero Boot;Boot;Target;AeroKnit;14845;335800,5141
+2022-09-01 00:00:00;4;Classic;Classic Sneaker;Sneaker;Target;PowerKnit;238698;4917191,341
+2022-09-01 00:00:00;5;Brand Classic;Classic Sneaker;Sneaker;Target;PowerKnit;72527;1814639,316
+2022-09-01 00:00:00;6;National Classic;Classic Sneaker;Sneaker;Target;BioSole;46113;937941,9874
+2022-09-01 00:00:00;7;Hold Line;Designed Shoes;Shoes;Core;DynaFit;3164;49774,42417
+2022-09-01 00:00:00;8;High Bys;Designed Shoes;Shoes;Core;DynaFit;2811;119505,4893
+2022-09-01 00:00:00;9;High Iris;Designed Shoes;Shoes;Core;DynaFit;2311;75915,82146
+2022-09-01 00:00:00;10;Cone Stars;Designed Shoes;Shoes;Core;AirVent;1564;84467,03092
+2022-09-01 00:00:00;11;Wave;Infinity Boot;Boot;Target;AeroKnit;57318;1301139,613
+2022-09-01 00:00:00;12;Athena II;Infinity Boot;Boot;Target;LiteWeave;46627;1259416,726
+2022-09-01 00:00:00;13;Hiking;Infinity Boot;Boot;Target;AeroKnit;47041;1092774,609
+2022-09-01 00:00:00;14;Zeus;Infinity Boot;Boot;Target;LiteWeave;28587;745268,5865
+2022-09-01 00:00:00;15;Air;Infinity Boot;Boot;Target;LiteWeave;9329;180440,8421
+2022-09-01 00:00:00;16;Nautical Classic;Innovation Shoes;Shoes;Core;AeroKnit;182441;3805726,062
+2022-09-01 00:00:00;17;Nautical Max Force;Innovation Shoes;Shoes;Core;AeroKnit;169199;3326471,817
+2022-09-01 00:00:00;19;Mandala Life;Innovation Shoes;Shoes;Core;AeroKnit;125034;2581966,544
+2022-09-01 00:00:00;20;Merlin;Innovation Shoes;Shoes;Core;AeroKnit;119160;2806241,479
+2022-09-01 00:00:00;21;Fusion;Innovation Shoes;Shoes;Core;LiteWeave;100668;2347594,565
+2022-09-01 00:00:00;22;MachinaMetal;Metal Sandal;Sandals;Core;UltraFoam;348177;4912785,278
+2022-09-01 00:00:00;23;SteelEngineer;Metal Sandal;Sandals;Core;NanoMesh;91036;1737893,987
+2022-09-01 00:00:00;24;TitaniumTech;Metal Sandal;Sandals;Core;NanoMesh;118530;2118135,182
+2022-09-01 00:00:00;25;AlloyInnovate;Metal Sandal;Sandals;Core;NanoMesh;48960;736360,0838
+2022-09-01 00:00:00;26;SteelTech;Metal Shoes;Shoes;Core;NanoMesh;199552;3362463,213
+2022-09-01 00:00:00;27;AlloyMaster;Metal Shoes;Shoes;Core;AeroKnit;135425;2810089,285
+2022-09-01 00:00:00;28;MetalForge;Metal Shoes;Shoes;Core;NanoMesh;27402;537915,5896
+2022-09-01 00:00:00;29;IronCraft;Metal Shoes;Shoes;Core;PowerKnit;20883;565104,1343
+2022-09-01 00:00:00;30;TitaniumTech;Metal Shoes;Shoes;Core;NanoMesh;14042;381680,6292
+2022-09-01 00:00:00;31;Nyc Urban;NYCs Shoes;Shoes;Core;LiteWeave;2526;80530,46241
+2022-09-01 00:00:00;32;Nyc Wave;NYCs Shoes;Shoes;Core;LiteWeave;2362;
+2022-09-01 00:00:00;33;Nyc Sub;NYCs Shoes;Shoes;Core;LiteWeave;2283;
+2022-09-01 00:00:00;34;Max;Price Sneakers;Sneakers;Core;UltraFoam;184925;1782678,022
+2022-09-01 00:00:00;35;Classic Price;Price Sneakers;Sneakers;Core;UltraFoam;46630;501743,4493
+2022-09-01 00:00:00;36;Hawaii;Price Sneakers;Sneakers;Core;AeroKnit;26746;462711,7214
+2022-09-01 00:00:00;37;Top Sport;Price Sneakers;Sneakers;Core;AeroKnit;16713;221782,0479
+2022-09-01 00:00:00;38;Comfort;Universe Sandals;Sandals;Core;DuraFlex;26297;502018,7405
+2022-09-01 00:00:00;39;Hawaii;Universe Sandals;Sandals;Core;NanoMesh;15773;381093,4492
+2022-10-01 00:00:00;1;AeroJet;Aero Boot;Boot;Target;NanoMesh;34545;659122,855
+2022-10-01 00:00:00;2;FlyQuest;Aero Boot;Boot;Target;LiteWeave;30130;893980,3951
+2022-10-01 00:00:00;3;AirVoyager;Aero Boot;Boot;Target;AeroKnit;17600;398124,9293
+2022-10-01 00:00:00;4;Classic;Classic Sneaker;Sneaker;Target;PowerKnit;246890;5085948,155
+2022-10-01 00:00:00;5;Brand Classic;Classic Sneaker;Sneaker;Target;PowerKnit;75680;1893534,32
+2022-10-01 00:00:00;6;National Classic;Classic Sneaker;Sneaker;Target;BioSole;50752;1032305,251
+2022-10-01 00:00:00;7;Hold Line;Designed Shoes;Shoes;Core;DynaFit;5168;81300,74517
+2022-10-01 00:00:00;8;High Bys;Designed Shoes;Shoes;Core;DynaFit;4364;185479,7258
+2022-10-01 00:00:00;9;High Iris;Designed Shoes;Shoes;Core;DynaFit;3561;116945,6316
+2022-10-01 00:00:00;10;Cone Stars;Designed Shoes;Shoes;Core;AirVent;2464;133071,8175
+2022-10-01 00:00:00;11;Wave;Infinity Boot;Boot;Target;AeroKnit;60919;1382878,354
+2022-10-01 00:00:00;12;Athena II;Infinity Boot;Boot;Target;LiteWeave;50491;1363778,887
+2022-10-01 00:00:00;13;Hiking;Infinity Boot;Boot;Target;AeroKnit;50559;1174493,908
+2022-10-01 00:00:00;14;Zeus;Infinity Boot;Boot;Target;LiteWeave;31036;809117,3167
+2022-10-01 00:00:00;15;Air;Infinity Boot;Boot;Target;LiteWeave;9913;191718,0532
+2022-10-01 00:00:00;16;Nautical Classic;Innovation Shoes;Shoes;Core;AeroKnit;195215;4072187,881
+2022-10-01 00:00:00;17;Nautical Max Force;Innovation Shoes;Shoes;Core;AeroKnit;177913;3497771,421
+2022-10-01 00:00:00;19;Mandala Life;Innovation Shoes;Shoes;Core;AeroKnit;135470;2797466,788
+2022-10-01 00:00:00;20;Merlin;Innovation Shoes;Shoes;Core;AeroKnit;126764;2985310,836
+2022-10-01 00:00:00;21;Fusion;Innovation Shoes;Shoes;Core;LiteWeave;108280;2525092,987
+2022-10-01 00:00:00;22;MachinaMetal;Metal Sandal;Sandals;Core;UltraFoam;398987;5629718,751
+2022-10-01 00:00:00;23;SteelEngineer;Metal Sandal;Sandals;Core;NanoMesh;89933;1716825,184
+2022-10-01 00:00:00;24;TitaniumTech;Metal Sandal;Sandals;Core;NanoMesh;130667;2335027,086
+2022-10-01 00:00:00;25;AlloyInnovate;Metal Sandal;Sandals;Core;NanoMesh;56000;842240,3054
+2022-10-01 00:00:00;26;SteelTech;Metal Shoes;Shoes;Core;NanoMesh;235809;3973387,987
+2022-10-01 00:00:00;27;AlloyMaster;Metal Shoes;Shoes;Core;AeroKnit;151698;3147736,437
+2022-10-01 00:00:00;28;MetalForge;Metal Shoes;Shoes;Core;NanoMesh;30630;601273,4167
+2022-10-01 00:00:00;29;IronCraft;Metal Shoes;Shoes;Core;PowerKnit;23434;634130,4992
+2022-10-01 00:00:00;30;TitaniumTech;Metal Shoes;Shoes;Core;NanoMesh;15275;415201,0944
+2022-10-01 00:00:00;31;Nyc Urban;NYCs Shoes;Shoes;Core;LiteWeave;3821;121804,4259
+2022-10-01 00:00:00;32;Nyc Wave;NYCs Shoes;Shoes;Core;LiteWeave;3620;
+2022-10-01 00:00:00;33;Nyc Sub;NYCs Shoes;Shoes;Core;LiteWeave;3592;
+2022-10-01 00:00:00;34;Max;Price Sneakers;Sneakers;Core;UltraFoam;195077;1880548,598
+2022-10-01 00:00:00;35;Classic Price;Price Sneakers;Sneakers;Core;UltraFoam;48813;525232,5331
+2022-10-01 00:00:00;36;Hawaii;Price Sneakers;Sneakers;Core;AeroKnit;28845;499034,6527
+2022-10-01 00:00:00;37;Top Sport;Price Sneakers;Sneakers;Core;AeroKnit;17829;236593,0992
+2022-10-01 00:00:00;38;Comfort;Universe Sandals;Sandals;Core;DuraFlex;28787;549558,4212
+2022-10-01 00:00:00;39;Hawaii;Universe Sandals;Sandals;Core;NanoMesh;17348;419137,2485
+2022-11-01 00:00:00;1;AeroJet;Aero Boot;Boot;Target;NanoMesh;38400;732684,8471
+2022-11-01 00:00:00;2;FlyQuest;Aero Boot;Boot;Target;LiteWeave;33649;998379,7038
+2022-11-01 00:00:00;3;AirVoyager;Aero Boot;Boot;Target;AeroKnit;17815;402991,7269
+2022-11-01 00:00:00;4;Classic;Classic Sneaker;Sneaker;Target;PowerKnit;247762;5103911,701
+2022-11-01 00:00:00;5;Brand Classic;Classic Sneaker;Sneaker;Target;PowerKnit;75387;1886199,635
+2022-11-01 00:00:00;6;National Classic;Classic Sneaker;Sneaker;Target;BioSole;49618;1009232,246
+2022-11-01 00:00:00;7;Hold Line;Designed Shoes;Shoes;Core;DynaFit;6275;98717,57056
+2022-11-01 00:00:00;8;High Bys;Designed Shoes;Shoes;Core;DynaFit;5264;223757,5142
+2022-11-01 00:00:00;9;High Iris;Designed Shoes;Shoes;Core;DynaFit;4280;140583,4796
+2022-11-01 00:00:00;10;Cone Stars;Designed Shoes;Shoes;Core;AirVent;2737;147828,7495
+2022-11-01 00:00:00;11;Wave;Infinity Boot;Boot;Target;AeroKnit;57848;1313157,186
+2022-11-01 00:00:00;12;Athena II;Infinity Boot;Boot;Target;LiteWeave;48736;1316369,76
+2022-11-01 00:00:00;13;Hiking;Infinity Boot;Boot;Target;AeroKnit;48681;1130877,02
+2022-11-01 00:00:00;14;Zeus;Infinity Boot;Boot;Target;LiteWeave;29751;775617,5464
+2022-11-01 00:00:00;15;Air;Infinity Boot;Boot;Target;LiteWeave;9463;183018,7506
+2022-11-01 00:00:00;16;Nautical Classic;Innovation Shoes;Shoes;Core;AeroKnit;223574;4663759,765
+2022-11-01 00:00:00;17;Nautical Max Force;Innovation Shoes;Shoes;Core;AeroKnit;202601;3983144,067
+2022-11-01 00:00:00;19;Mandala Life;Innovation Shoes;Shoes;Core;AeroKnit;151694;3132490,758
+2022-11-01 00:00:00;20;Merlin;Innovation Shoes;Shoes;Core;AeroKnit;141422;3330489,488
+2022-11-01 00:00:00;21;Fusion;Innovation Shoes;Shoes;Core;LiteWeave;124098;2893977,764
+2022-11-01 00:00:00;22;MachinaMetal;Metal Sandal;Sandals;Core;UltraFoam;391281;5520979,084
+2022-11-01 00:00:00;23;SteelEngineer;Metal Sandal;Sandals;Core;NanoMesh;88300;1685649,972
+2022-11-01 00:00:00;24;TitaniumTech;Metal Sandal;Sandals;Core;NanoMesh;130558;2333086,162
+2022-11-01 00:00:00;25;AlloyInnovate;Metal Sandal;Sandals;Core;NanoMesh;54436;818718,9234
+2022-11-01 00:00:00;26;SteelTech;Metal Shoes;Shoes;Core;NanoMesh;232373;3915488,647
+2022-11-01 00:00:00;27;AlloyMaster;Metal Shoes;Shoes;Core;AeroKnit;144945;3007622,027
+2022-11-01 00:00:00;28;MetalForge;Metal Shoes;Shoes;Core;NanoMesh;30008;589059,7037
+2022-11-01 00:00:00;29;IronCraft;Metal Shoes;Shoes;Core;PowerKnit;23081;624596,9638
+2022-11-01 00:00:00;30;TitaniumTech;Metal Shoes;Shoes;Core;NanoMesh;14857;403822,7758
+2022-11-01 00:00:00;31;Nyc Urban;NYCs Shoes;Shoes;Core;LiteWeave;5283;168386,2427
+2022-11-01 00:00:00;32;Nyc Wave;NYCs Shoes;Shoes;Core;LiteWeave;5071;
+2022-11-01 00:00:00;33;Nyc Sub;NYCs Shoes;Shoes;Core;LiteWeave;4926;
+2022-11-01 00:00:00;34;Max;Price Sneakers;Sneakers;Core;UltraFoam;199306;1921312,906
+2022-11-01 00:00:00;35;Classic Price;Price Sneakers;Sneakers;Core;UltraFoam;51103;549877,4069
+2022-11-01 00:00:00;36;Hawaii;Price Sneakers;Sneakers;Core;AeroKnit;29753;514733,3136
+2022-11-01 00:00:00;37;Top Sport;Price Sneakers;Sneakers;Core;AeroKnit;17988;238703,4323
+2022-11-01 00:00:00;38;Comfort;Universe Sandals;Sandals;Core;DuraFlex;27346;522044,5343
+2022-11-01 00:00:00;39;Hawaii;Universe Sandals;Sandals;Core;NanoMesh;16614;401403,5033
+2022-12-01 00:00:00;1;AeroJet;Aero Boot;Boot;Target;NanoMesh;35748;682075,0305
+2022-12-01 00:00:00;2;FlyQuest;Aero Boot;Boot;Target;LiteWeave;32098;952361,0542
+2022-12-01 00:00:00;3;AirVoyager;Aero Boot;Boot;Target;AeroKnit;15805;357519,9836
+2022-12-01 00:00:00;4;Classic;Classic Sneaker;Sneaker;Target;PowerKnit;187822;3869148,344
+2022-12-01 00:00:00;5;Brand Classic;Classic Sneaker;Sneaker;Target;PowerKnit;57411;1436448,142
+2022-12-01 00:00:00;6;National Classic;Classic Sneaker;Sneaker;Target;BioSole;37426;761248,2176
+2022-12-01 00:00:00;7;Hold Line;Designed Shoes;Shoes;Core;DynaFit;6232;98041,87953
+2022-12-01 00:00:00;8;High Bys;Designed Shoes;Shoes;Core;DynaFit;5353;227528,8432
+2022-12-01 00:00:00;9;High Iris;Designed Shoes;Shoes;Core;DynaFit;4434;145641,4409
+2022-12-01 00:00:00;10;Cone Stars;Designed Shoes;Shoes;Core;AirVent;2744;148210,2628
+2022-12-01 00:00:00;11;Wave;Infinity Boot;Boot;Target;AeroKnit;53395;1212070,581
+2022-12-01 00:00:00;12;Athena II;Infinity Boot;Boot;Target;LiteWeave;45535;1229912,285
+2022-12-01 00:00:00;13;Hiking;Infinity Boot;Boot;Target;AeroKnit;44719;1038824,641
+2022-12-01 00:00:00;14;Zeus;Infinity Boot;Boot;Target;LiteWeave;27258;710617,0391
+2022-12-01 00:00:00;15;Air;Infinity Boot;Boot;Target;LiteWeave;8709;168449,4684
+2022-12-01 00:00:00;16;Nautical Classic;Innovation Shoes;Shoes;Core;AeroKnit;206910;4316161,912
+2022-12-01 00:00:00;17;Nautical Max Force;Innovation Shoes;Shoes;Core;AeroKnit;186095;3658638,779
+2022-12-01 00:00:00;19;Mandala Life;Innovation Shoes;Shoes;Core;AeroKnit;140195;2895036,462
+2022-12-01 00:00:00;20;Merlin;Innovation Shoes;Shoes;Core;AeroKnit;131626;3099812,821
+2022-12-01 00:00:00;21;Fusion;Innovation Shoes;Shoes;Core;LiteWeave;114659;2673859,95
+2022-12-01 00:00:00;22;MachinaMetal;Metal Sandal;Sandals;Core;UltraFoam;369093;5207908,268
+2022-12-01 00:00:00;23;SteelEngineer;Metal Sandal;Sandals;Core;NanoMesh;86497;1651237,832
+2022-12-01 00:00:00;24;TitaniumTech;Metal Sandal;Sandals;Core;NanoMesh;121778;2176174,354
+2022-12-01 00:00:00;25;AlloyInnovate;Metal Sandal;Sandals;Core;NanoMesh;49734;748008,8492
+2022-12-01 00:00:00;26;SteelTech;Metal Shoes;Shoes;Core;NanoMesh;218346;3679140,551
+2022-12-01 00:00:00;27;AlloyMaster;Metal Shoes;Shoes;Core;AeroKnit;131704;2732876,045
+2022-12-01 00:00:00;28;MetalForge;Metal Shoes;Shoes;Core;NanoMesh;27610;541989,2928
+2022-12-01 00:00:00;29;IronCraft;Metal Shoes;Shoes;Core;PowerKnit;21557;583335,1089
+2022-12-01 00:00:00;30;TitaniumTech;Metal Shoes;Shoes;Core;NanoMesh;13664;371400,7126
+2022-12-01 00:00:00;31;Nyc Urban;NYCs Shoes;Shoes;Core;LiteWeave;5540;176564,1797
+2022-12-01 00:00:00;32;Nyc Wave;NYCs Shoes;Shoes;Core;LiteWeave;5234;
+2022-12-01 00:00:00;33;Nyc Sub;NYCs Shoes;Shoes;Core;LiteWeave;5196;
+2022-12-01 00:00:00;34;Max;Price Sneakers;Sneakers;Core;UltraFoam;187423;1806759,542
+2022-12-01 00:00:00;35;Classic Price;Price Sneakers;Sneakers;Core;UltraFoam;48369;520458,8906
+2022-12-01 00:00:00;36;Hawaii;Price Sneakers;Sneakers;Core;AeroKnit;28943;500717,8332
+2022-12-01 00:00:00;37;Top Sport;Price Sneakers;Sneakers;Core;AeroKnit;17426;231243,4327
+2022-12-01 00:00:00;38;Comfort;Universe Sandals;Sandals;Core;DuraFlex;21585;412060,9183
+2022-12-01 00:00:00;39;Hawaii;Universe Sandals;Sandals;Core;NanoMesh;13043;315138,1189
+2023-01-01 00:00:00;1;AeroJet;Aero Boot;Boot;Target;NanoMesh;31169;594716,5701
+2023-01-01 00:00:00;2;FlyQuest;Aero Boot;Boot;Target;LiteWeave;26846;796526,5066
+2023-01-01 00:00:00;3;AirVoyager;Aero Boot;Boot;Target;AeroKnit;12879;291328,1264
+2023-01-01 00:00:00;4;Classic;Classic Sneaker;Sneaker;Target;PowerKnit;168642;3474043,476
+2023-01-01 00:00:00;5;Brand Classic;Classic Sneaker;Sneaker;Target;PowerKnit;51666;1292698,21
+2023-01-01 00:00:00;6;National Classic;Classic Sneaker;Sneaker;Target;BioSole;32532;661719,2984
+2023-01-01 00:00:00;7;Hold Line;Designed Shoes;Shoes;Core;DynaFit;4504;70863,09688
+2023-01-01 00:00:00;8;High Bys;Designed Shoes;Shoes;Core;DynaFit;3942;167547,8971
+2023-01-01 00:00:00;9;High Iris;Designed Shoes;Shoes;Core;DynaFit;3329;109354,0494
+2023-01-01 00:00:00;10;Cone Stars;Designed Shoes;Shoes;Core;AirVent;1810;97743,69161
+2023-01-01 00:00:00;11;Wave;Infinity Boot;Boot;Target;AeroKnit;45250;1027177,444
+2023-01-01 00:00:00;12;Athena II;Infinity Boot;Boot;Target;LiteWeave;38502;1039955,188
+2023-01-01 00:00:00;13;Hiking;Infinity Boot;Boot;Target;AeroKnit;38161;886493,7752
+2023-01-01 00:00:00;14;Zeus;Infinity Boot;Boot;Target;LiteWeave;22752;593160,3267
+2023-01-01 00:00:00;15;Air;Infinity Boot;Boot;Target;LiteWeave;7559;146202,9379
+2023-01-01 00:00:00;16;Nautical Classic;Innovation Shoes;Shoes;Core;AeroKnit;182324;3803297,287
+2023-01-01 00:00:00;17;Nautical Max Force;Innovation Shoes;Shoes;Core;AeroKnit;163908;3222445,667
+2023-01-01 00:00:00;19;Mandala Life;Innovation Shoes;Shoes;Core;AeroKnit;118483;2446676,594
+2023-01-01 00:00:00;20;Merlin;Innovation Shoes;Shoes;Core;AeroKnit;114395;2694022,257
+2023-01-01 00:00:00;21;Fusion;Innovation Shoes;Shoes;Core;LiteWeave;98193;2289861,446
+2023-01-01 00:00:00;22;MachinaMetal;Metal Sandal;Sandals;Core;UltraFoam;312994;4416353,679
+2023-01-01 00:00:00;23;SteelEngineer;Metal Sandal;Sandals;Core;NanoMesh;88040;1680701,068
+2023-01-01 00:00:00;24;TitaniumTech;Metal Sandal;Sandals;Core;NanoMesh;106360;1900655,783
+2023-01-01 00:00:00;25;AlloyInnovate;Metal Sandal;Sandals;Core;NanoMesh;41302;621182,9517
+2023-01-01 00:00:00;26;SteelTech;Metal Shoes;Shoes;Core;NanoMesh;179448;3023709,936
+2023-01-01 00:00:00;27;AlloyMaster;Metal Shoes;Shoes;Core;AeroKnit;111699;2317755,683
+2023-01-01 00:00:00;28;MetalForge;Metal Shoes;Shoes;Core;NanoMesh;23529;461883,6082
+2023-01-01 00:00:00;29;IronCraft;Metal Shoes;Shoes;Core;PowerKnit;18449;499233,5224
+2023-01-01 00:00:00;30;TitaniumTech;Metal Shoes;Shoes;Core;NanoMesh;11673;317294,8104
+2023-01-01 00:00:00;31;Nyc Urban;NYCs Shoes;Shoes;Core;LiteWeave;5898;187972,4617
+2023-01-01 00:00:00;32;Nyc Wave;NYCs Shoes;Shoes;Core;LiteWeave;5428;
+2023-01-01 00:00:00;33;Nyc Sub;NYCs Shoes;Shoes;Core;LiteWeave;5326;
+2023-01-01 00:00:00;34;Max;Price Sneakers;Sneakers;Core;UltraFoam;177633;1712390,371
+2023-01-01 00:00:00;35;Classic Price;Price Sneakers;Sneakers;Core;UltraFoam;47070;506478,551
+2023-01-01 00:00:00;36;Hawaii;Price Sneakers;Sneakers;Core;AeroKnit;27422;474408,3465
+2023-01-01 00:00:00;37;Top Sport;Price Sneakers;Sneakers;Core;AeroKnit;16083;213426,6988
+2023-01-01 00:00:00;38;Comfort;Universe Sandals;Sandals;Core;DuraFlex;17494;333979,0248
+2023-01-01 00:00:00;39;Hawaii;Universe Sandals;Sandals;Core;NanoMesh;10391;251049,0194
+2023-02-01 00:00:00;1;AeroJet;Aero Boot;Boot;Target;NanoMesh;31405;599211,7456
+2023-02-01 00:00:00;2;FlyQuest;Aero Boot;Boot;Target;LiteWeave;26794;794997,6756
+2023-02-01 00:00:00;3;AirVoyager;Aero Boot;Boot;Target;AeroKnit;12675;286710,6349
+2023-02-01 00:00:00;4;Classic;Classic Sneaker;Sneaker;Target;PowerKnit;161725;3331553,764
+2023-02-01 00:00:00;5;Brand Classic;Classic Sneaker;Sneaker;Target;PowerKnit;49295;1233363,152
+2023-02-01 00:00:00;6;National Classic;Classic Sneaker;Sneaker;Target;BioSole;32073;652365,1703
+2023-02-01 00:00:00;7;Hold Line;Designed Shoes;Shoes;Core;DynaFit;4069;64012,83452
+2023-02-01 00:00:00;8;High Bys;Designed Shoes;Shoes;Core;DynaFit;3718;158035,5003
+2023-02-01 00:00:00;9;High Iris;Designed Shoes;Shoes;Core;DynaFit;3064;100648,7877
+2023-02-01 00:00:00;10;Cone Stars;Designed Shoes;Shoes;Core;AirVent;1781;96202,37813
+2023-02-01 00:00:00;11;Wave;Infinity Boot;Boot;Target;AeroKnit;43554;988686,9973
+2023-02-01 00:00:00;12;Athena II;Infinity Boot;Boot;Target;LiteWeave;35815;967364,4947
+2023-02-01 00:00:00;13;Hiking;Infinity Boot;Boot;Target;AeroKnit;36241;841894,3473
+2023-02-01 00:00:00;14;Zeus;Infinity Boot;Boot;Target;LiteWeave;21444;559049,0585
+2023-02-01 00:00:00;15;Air;Infinity Boot;Boot;Target;LiteWeave;7235;139943,0838
+2023-02-01 00:00:00;16;Nautical Classic;Innovation Shoes;Shoes;Core;AeroKnit;154135;3215256,56
+2023-02-01 00:00:00;17;Nautical Max Force;Innovation Shoes;Shoes;Core;AeroKnit;136892;2691297,441
+2023-02-01 00:00:00;19;Mandala Life;Innovation Shoes;Shoes;Core;AeroKnit;98363;2031203,063
+2023-02-01 00:00:00;20;Merlin;Innovation Shoes;Shoes;Core;AeroKnit;94882;2234485,817
+2023-02-01 00:00:00;21;Fusion;Innovation Shoes;Shoes;Core;LiteWeave;80364;1874102,148
+2023-02-01 00:00:00;22;MachinaMetal;Metal Sandal;Sandals;Core;UltraFoam;312295;4406488,555
+2023-02-01 00:00:00;23;SteelEngineer;Metal Sandal;Sandals;Core;NanoMesh;88248;1684655,515
+2023-02-01 00:00:00;24;TitaniumTech;Metal Sandal;Sandals;Core;NanoMesh;103060;1841697,492
+2023-02-01 00:00:00;25;AlloyInnovate;Metal Sandal;Sandals;Core;NanoMesh;41714;627385,6146
+2023-02-01 00:00:00;26;SteelTech;Metal Shoes;Shoes;Core;NanoMesh;184581;3110202,6
+2023-02-01 00:00:00;27;AlloyMaster;Metal Shoes;Shoes;Core;AeroKnit;114218;2370037,15
+2023-02-01 00:00:00;28;MetalForge;Metal Shoes;Shoes;Core;NanoMesh;23609;463446,1498
+2023-02-01 00:00:00;29;IronCraft;Metal Shoes;Shoes;Core;PowerKnit;18448;499218,228
+2023-02-01 00:00:00;30;TitaniumTech;Metal Shoes;Shoes;Core;NanoMesh;11544;313789,6533
+2023-02-01 00:00:00;31;Nyc Urban;NYCs Shoes;Shoes;Core;LiteWeave;5376;171340,3874
+2023-02-01 00:00:00;32;Nyc Wave;NYCs Shoes;Shoes;Core;LiteWeave;4953;
+2023-02-01 00:00:00;33;Nyc Sub;NYCs Shoes;Shoes;Core;LiteWeave;4814;
+2023-02-01 00:00:00;34;Max;Price Sneakers;Sneakers;Core;UltraFoam;177692;1712955,445
+2023-02-01 00:00:00;35;Classic Price;Price Sneakers;Sneakers;Core;UltraFoam;46443;499736,298
+2023-02-01 00:00:00;36;Hawaii;Price Sneakers;Sneakers;Core;AeroKnit;27506;475863,5057
+2023-02-01 00:00:00;37;Top Sport;Price Sneakers;Sneakers;Core;AeroKnit;16567;219850,8915
+2023-02-01 00:00:00;38;Comfort;Universe Sandals;Sandals;Core;DuraFlex;17480;333698,4911
+2023-02-01 00:00:00;39;Hawaii;Universe Sandals;Sandals;Core;NanoMesh;10252;247708,0109
+2023-03-01 00:00:00;1;AeroJet;Aero Boot;Boot;Target;NanoMesh;27835;531101,5691
+2023-03-01 00:00:00;2;FlyQuest;Aero Boot;Boot;Target;LiteWeave;23435;695317,6192
+2023-03-01 00:00:00;3;AirVoyager;Aero Boot;Boot;Target;AeroKnit;11471;259486,1865
+2023-03-01 00:00:00;4;Classic;Classic Sneaker;Sneaker;Target;PowerKnit;136369;2809220,047
+2023-03-01 00:00:00;5;Brand Classic;Classic Sneaker;Sneaker;Target;PowerKnit;41766;1045004,098
+2023-03-01 00:00:00;6;National Classic;Classic Sneaker;Sneaker;Target;BioSole;26826;545655,8752
+2023-03-01 00:00:00;7;Hold Line;Designed Shoes;Shoes;Core;DynaFit;3250;51126,91757
+2023-03-01 00:00:00;8;High Bys;Designed Shoes;Shoes;Core;DynaFit;2807;119310,317
+2023-03-01 00:00:00;9;High Iris;Designed Shoes;Shoes;Core;DynaFit;2322;76275,44715
+2023-03-01 00:00:00;10;Cone Stars;Designed Shoes;Shoes;Core;AirVent;1459;78839,71066
+2023-03-01 00:00:00;11;Wave;Infinity Boot;Boot;Target;AeroKnit;36586;830511,5758
+2023-03-01 00:00:00;12;Athena II;Infinity Boot;Boot;Target;LiteWeave;30005;810443,4143
+2023-03-01 00:00:00;13;Hiking;Infinity Boot;Boot;Target;AeroKnit;30819;715935,5931
+2023-03-01 00:00:00;14;Zeus;Infinity Boot;Boot;Target;LiteWeave;18059;470819,6126
+2023-03-01 00:00:00;15;Air;Infinity Boot;Boot;Target;LiteWeave;6188;119681,4517
+2023-03-01 00:00:00;16;Nautical Classic;Innovation Shoes;Shoes;Core;AeroKnit;134136;2798082,936
+2023-03-01 00:00:00;17;Nautical Max Force;Innovation Shoes;Shoes;Core;AeroKnit;120337;2365840,231
+2023-03-01 00:00:00;19;Mandala Life;Innovation Shoes;Shoes;Core;AeroKnit;84710;1749272,651
+2023-03-01 00:00:00;20;Merlin;Innovation Shoes;Shoes;Core;AeroKnit;82924;1952874,579
+2023-03-01 00:00:00;21;Fusion;Innovation Shoes;Shoes;Core;LiteWeave;69232;1614513,452
+2023-03-01 00:00:00;22;MachinaMetal;Metal Sandal;Sandals;Core;UltraFoam;260095;3669943,795
+2023-03-01 00:00:00;23;SteelEngineer;Metal Sandal;Sandals;Core;NanoMesh;74958;1430967,138
+2023-03-01 00:00:00;24;TitaniumTech;Metal Sandal;Sandals;Core;NanoMesh;85728;1531970,352
+2023-03-01 00:00:00;25;AlloyInnovate;Metal Sandal;Sandals;Core;NanoMesh;35860;539338,049
+2023-03-01 00:00:00;26;SteelTech;Metal Shoes;Shoes;Core;NanoMesh;155654;2622783,559
+2023-03-01 00:00:00;27;AlloyMaster;Metal Shoes;Shoes;Core;AeroKnit;96977;2012287,718
+2023-03-01 00:00:00;28;MetalForge;Metal Shoes;Shoes;Core;NanoMesh;20119;394955,5121
+2023-03-01 00:00:00;29;IronCraft;Metal Shoes;Shoes;Core;PowerKnit;15557;420973,1382
+2023-03-01 00:00:00;30;TitaniumTech;Metal Shoes;Shoes;Core;NanoMesh;9818;266858,5695
+2023-03-01 00:00:00;31;Nyc Urban;NYCs Shoes;Shoes;Core;LiteWeave;4536;144584,9638
+2023-03-01 00:00:00;32;Nyc Wave;NYCs Shoes;Shoes;Core;LiteWeave;4251;
+2023-03-01 00:00:00;33;Nyc Sub;NYCs Shoes;Shoes;Core;LiteWeave;4065;
+2023-03-01 00:00:00;34;Max;Price Sneakers;Sneakers;Core;UltraFoam;156497;1508637,839
+2023-03-01 00:00:00;35;Classic Price;Price Sneakers;Sneakers;Core;UltraFoam;41286;444243,814
+2023-03-01 00:00:00;36;Hawaii;Price Sneakers;Sneakers;Core;AeroKnit;23942;414199,9175
+2023-03-01 00:00:00;37;Top Sport;Price Sneakers;Sneakers;Core;AeroKnit;14404;191143,2978
+2023-03-01 00:00:00;38;Comfort;Universe Sandals;Sandals;Core;DuraFlex;15509;296079,9943
+2023-03-01 00:00:00;39;Hawaii;Universe Sandals;Sandals;Core;NanoMesh;9203;222354,5817
